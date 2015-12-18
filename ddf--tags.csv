@@ -1,0 +1,10 @@
+tag,name,parent,tag_type,usability,order
+g_basic,Main Indicator,,gui_tree,1,
+g_economy,Money,,gui_tree,1,
+g_people,People,,gui_tree,1,
+g_environment,Environment,,gui_tree,1,
+g_economy_wealth,Nature,g_economy,gui_tree,1,
+g_economy_inequality,Inequality,g_economy,gui_tree,1,
+g_people_health,Health,g_people,gui_tree,1,
+g_people_demography,Demography,g_people,gui_tree,1,
+g_environment_climate,Climate,g_environment,gui_tree,1,

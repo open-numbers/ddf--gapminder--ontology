@@ -1,0 +1,9 @@
+unit,name,name_short,general_form,singular_form,zero_form,usability
+people,Number of people,People,# people,1 person,No people,1
+dollars,Dollars,Dollars,$#,1,0,1
+years,Years,Years,# years,1 year,0 years,1
+gini_unit,Gini index,Gini,gini #,gini 1,gini 0,3
+percent,Percent,%,#%,0.01,0,1
+births,Births,Births,# births,1 birth,No births,1
+per1000,Per 1000,Per 1000,# per 1000,1 per 1000,0 per 1000,2
+tonnes,Tonnes,Tonnes,# tonnes,1 ton,0 ton,2
