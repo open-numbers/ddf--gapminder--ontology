@@ -1,0 +1,8 @@
+concept,type,subdim_of,name,name_short,name_long,link,description,usability,total_entity,total_name,default_entities,drilldowns,drillups,incomplete_drillups,ordinal,measure,interval,cardinality,aliases,pattern
+time_interval,dimension,,Time Interval,Time,Time Interval,,Any time interval,,,,,,,,TRUE,time_utf,TRUE,,,
+year,subdim,time_interval,Year,Year,Year,,,,,,,"quarter, month, week, date
+",,,TRUE,,TRUE,,,YYYY
+quarter,subdim,time_interval,Quarter,Quarter,Quarter (Three Month Periods),,,,,,,"month, week, date",year,,TRUE,,TRUE,,,YYYYQQ
+month,subdim,time_interval,Month,Month,Month,,,,,,,"week, date","quarter, year",,TRUE,,TRUE,,,YYYYMM
+week,subdim,time_interval,Week,Week,Week,,,,,,,date,"month, quarter, year",,TRUE,,TRUE,,,YYYYWW
+date,subdim,time_interval,Day,Day,Day,,,,,,,,"week, month, quarter, year",,TRUE,,TRUE,,,YYYYMMDD
