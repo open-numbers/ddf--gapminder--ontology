@@ -1,0 +1,232 @@
+{
+    "name": "ddf--gapminder--ontology",
+    "language": {
+        "id": "en"
+    },
+    "last_updated": "2017-09-06 12:34:31",
+    "resources": [
+        {
+            "path": "ddf--concepts.csv",
+            "name": "ddf--concepts",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "name_short"
+                    },
+                    {
+                        "name": "name_catalog"
+                    },
+                    {
+                        "name": "concept_type"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
+        {
+            "path": "ddf--entities--tag.csv",
+            "name": "ddf--entities--tag",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "tag"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "parent"
+                    },
+                    {
+                        "name": "tag_type"
+                    },
+                    {
+                        "name": "usability"
+                    },
+                    {
+                        "name": "order"
+                    }
+                ],
+                "primaryKey": "tag"
+            }
+        },
+        {
+            "path": "ddf--entities--unit.csv",
+            "name": "ddf--entities--unit",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "unit"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "name_short"
+                    },
+                    {
+                        "name": "general_form"
+                    },
+                    {
+                        "name": "singular_form"
+                    },
+                    {
+                        "name": "zero_form"
+                    },
+                    {
+                        "name": "usability"
+                    }
+                ],
+                "primaryKey": "unit"
+            }
+        }
+    ],
+    "ddfSchema": {
+        "concepts": [
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "concept_type",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "name_catalog",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "name_short",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            }
+        ],
+        "entities": [
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "order",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "usability",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "tag_type",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "tag"
+                ],
+                "value": "parent",
+                "resources": [
+                    "ddf--entities--tag"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "unit"
+                ],
+                "value": "name_short",
+                "resources": [
+                    "ddf--entities--unit"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "unit"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--unit"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "unit"
+                ],
+                "value": "singular_form",
+                "resources": [
+                    "ddf--entities--unit"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "unit"
+                ],
+                "value": "usability",
+                "resources": [
+                    "ddf--entities--unit"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "unit"
+                ],
+                "value": "general_form",
+                "resources": [
+                    "ddf--entities--unit"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "unit"
+                ],
+                "value": "zero_form",
+                "resources": [
+                    "ddf--entities--unit"
+                ]
+            }
+        ],
+        "datapoints": []
+    }
+}
