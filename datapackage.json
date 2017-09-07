@@ -24,6 +24,9 @@
                     },
                     {
                         "name": "concept_type"
+                    },
+                    {
+                        "name": "tags"
                     }
                 ],
                 "primaryKey": "concept"
@@ -42,15 +45,6 @@
                     },
                     {
                         "name": "parent"
-                    },
-                    {
-                        "name": "tag_type"
-                    },
-                    {
-                        "name": "usability"
-                    },
-                    {
-                        "name": "order"
                     }
                 ],
                 "primaryKey": "tag"
@@ -93,7 +87,7 @@
                 "primaryKey": [
                     "concept"
                 ],
-                "value": "concept_type",
+                "value": "tags",
                 "resources": [
                     "ddf--concepts"
                 ]
@@ -111,6 +105,15 @@
                 "primaryKey": [
                     "concept"
                 ],
+                "value": "name_short",
+                "resources": [
+                    "ddf--concepts"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
                 "value": "name",
                 "resources": [
                     "ddf--concepts"
@@ -120,49 +123,13 @@
                 "primaryKey": [
                     "concept"
                 ],
-                "value": "name_short",
+                "value": "concept_type",
                 "resources": [
                     "ddf--concepts"
                 ]
             }
         ],
         "entities": [
-            {
-                "primaryKey": [
-                    "tag"
-                ],
-                "value": "order",
-                "resources": [
-                    "ddf--entities--tag"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "tag"
-                ],
-                "value": "name",
-                "resources": [
-                    "ddf--entities--tag"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "tag"
-                ],
-                "value": "usability",
-                "resources": [
-                    "ddf--entities--tag"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "tag"
-                ],
-                "value": "tag_type",
-                "resources": [
-                    "ddf--entities--tag"
-                ]
-            },
             {
                 "primaryKey": [
                     "tag"
@@ -174,18 +141,18 @@
             },
             {
                 "primaryKey": [
-                    "unit"
+                    "tag"
                 ],
-                "value": "name_short",
+                "value": "name",
                 "resources": [
-                    "ddf--entities--unit"
+                    "ddf--entities--tag"
                 ]
             },
             {
                 "primaryKey": [
                     "unit"
                 ],
-                "value": "name",
+                "value": "general_form",
                 "resources": [
                     "ddf--entities--unit"
                 ]
@@ -203,7 +170,7 @@
                 "primaryKey": [
                     "unit"
                 ],
-                "value": "usability",
+                "value": "name_short",
                 "resources": [
                     "ddf--entities--unit"
                 ]
@@ -212,7 +179,7 @@
                 "primaryKey": [
                     "unit"
                 ],
-                "value": "general_form",
+                "value": "name",
                 "resources": [
                     "ddf--entities--unit"
                 ]
@@ -222,6 +189,15 @@
                     "unit"
                 ],
                 "value": "zero_form",
+                "resources": [
+                    "ddf--entities--unit"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "unit"
+                ],
+                "value": "usability",
                 "resources": [
                     "ddf--entities--unit"
                 ]
