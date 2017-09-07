@@ -75,7 +75,7 @@ cervical_cancer_deaths_per_100000_women,Cervical cancer deaths per 100 000 women
 cervical_cancer_new_cases_per_100000_women,Cervical cancer new cases per 100 000 women,Cervical cancer new cases,Cervical c. new cases /100k women,measure,cancer_female
 cervical_cancer_number_of_female_deaths,"Cervical cancer deaths, women",Cervical cancer deaths,"Cervical c. deaths, women",measure,cancer_female
 cervical_cancer_number_of_new_female_cases,"Cervical cancer new cases, women",Cervical cancer new cases,"Cervical c. new cases, women",measure,cancer_female
-child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality (0-5 year-olds dying per 1000 born),Child mortality,Child mortality,measure,"_root, mortality"
+child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality (0-5 year-olds dying per 1000 born),Child mortality,Child mortality,measure,"_root, health"
 child_mortality_0_5_year_olds_more_years_version_7,Child mortality (0-5 year-olds). More years. Version 7.,Child mortality,Child mortality. More years. Version 7.,measure,alternative_child_mortality_data
 children_and_elderly_per_100_adults,Children and elderly (per 100 adults),Children and elderly,Children and elderly /100 adults,measure,population
 children_out_of_school_primary,"Children out of school, primary",Children out of school,Children out of school,measure,school_enrolment
@@ -251,7 +251,7 @@ life_expectancy_at_birth_data_from_ihme,"Life expectancy at birth, data from IHM
 life_expectancy_at_birth_with_projections,"Life expectancy at birth, with projections",Life expectancy,Life expectancy w projections,measure,projections
 life_expectancy_female,"Life expectancy, female","Life expectancy, female","Life expectancy, female",measure,health
 life_expectancy_male,"Life expectancy, male","Life expectancy, male","Life expectancy, male",measure,health
-life_expectancy_years,Life expectancy (years),Life expectancy,Life expectancy,measure,"_root, life_expectancy"
+life_expectancy_years,Life expectancy (years),Life expectancy,Life expectancy,measure,"_root, health"
 literacy_rate_adult_female_percent_of_females_ages_15_above,"Literacy rate, adult female (% of females ages 15 and above)",Literacy rate,"Literacy rate, adult female",measure,literacy
 literacy_rate_adult_male_percent_of_males_ages_15_and_above,"Literacy rate, adult male (% of males ages 15 and above)",Literacy rate,"Literacy rate, adult male",measure,literacy
 literacy_rate_adult_total_percent_of_people_ages_15_and_above,"Literacy rate, adult total (% of people ages 15 and above)",Literacy rate,"Literacy rate, adult total",measure,literacy
