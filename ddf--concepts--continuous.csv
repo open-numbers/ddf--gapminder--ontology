@@ -308,20 +308,20 @@ maternal_mortality_ratio_who,Maternal mortality ratio WHO,Maternal mortality,Mat
 math_achievement_4th_grade,Math achievement - 4th grade,Math achievement,"Math achievement, 4th grade",measure,achievement
 math_achievement_8th_grade,Math achievement - 8th grade,Math achievement,"Math achievement, 8th grade",measure,achievement
 mcv_immunized_percent_of_one_year_olds,MCV immunized (% of one-year-olds),MCV immunized,MCV immunized,measure,vaccine
-mean_years_in_school_men_15_to_24_years,Mean years in school (men 15 to 24 years),Mean years in school,Men 15 to 24 years,measure,_none
+mean_years_in_school_men_15_to_24_years,Mean years in school (men 15 to 24 years),Mean years in school,Men 15 to 24 years,measure,mean_years_in_school
 mean_years_in_school_men_25_to_34_years,Mean years in school (men 25 to 34 years),Mean years in school,Men 25 to 34 years,measure,mean_years_in_school
 mean_years_in_school_men_25_years_and_older,Mean years in school (men 25 years and older),Mean years in school,Men 25 years and older,measure,mean_years_in_school
-mean_years_in_school_men_35_to_44_years,Mean years in school (men 35 to 44 years),Mean years in school,Men 35 to 44 years,measure,_none
-mean_years_in_school_men_45_to_54_years,Mean years in school (men 45 to 54 years),Mean years in school,Men 45 to 54 years,measure,_none
-mean_years_in_school_men_55_to_64_years,Mean years in school (men 55 to 64 years),Mean years in school,Men 55 to 64 years,measure,_none
-mean_years_in_school_men_65_plus_years,Mean years in school (men 65 years and older),Mean years in school,Men 65 years and older,measure,_none
-mean_years_in_school_women_15_to_24_years,Mean years in school (women 15 to 24 years),Mean years in school,Women 15 to 24 years,measure,_none
+mean_years_in_school_men_35_to_44_years,Mean years in school (men 35 to 44 years),Mean years in school,Men 35 to 44 years,measure,mean_years_in_school
+mean_years_in_school_men_45_to_54_years,Mean years in school (men 45 to 54 years),Mean years in school,Men 45 to 54 years,measure,mean_years_in_school
+mean_years_in_school_men_55_to_64_years,Mean years in school (men 55 to 64 years),Mean years in school,Men 55 to 64 years,measure,mean_years_in_school
+mean_years_in_school_men_65_plus_years,Mean years in school (men 65 years and older),Mean years in school,Men 65 years and older,measure,mean_years_in_school
+mean_years_in_school_women_15_to_24_years,Mean years in school (women 15 to 24 years),Mean years in school,Women 15 to 24 years,measure,mean_years_in_school
 mean_years_in_school_women_25_to_34_years,Mean years in school (women 25 to 34 years),Mean years in school,Women 25 to 34 years,measure,mean_years_in_school
 mean_years_in_school_women_25_years_and_older,Mean years in school (women 25 years and older),Mean years in school,Women 25 years and older,measure,mean_years_in_school
-mean_years_in_school_women_35_to_44_years,Mean years in school (women 35 to 44 years),Mean years in school,Women 35 to 44 years,measure,_none
-mean_years_in_school_women_45_to_54_years,Mean years in school (women 45 to 54 years),Mean years in school,Women 45 to 54 years,measure,_none
-mean_years_in_school_women_55_to_64_years,Mean years in school (women 55 to 64 years),Mean years in school,Women 55 to 64 years,measure,_none
-mean_years_in_school_women_65_plus_years,Mean years in school (women 65 years and older),Mean years in school,Women 65 years and older,measure,_none
+mean_years_in_school_women_35_to_44_years,Mean years in school (women 35 to 44 years),Mean years in school,Women 35 to 44 years,measure,mean_years_in_school
+mean_years_in_school_women_45_to_54_years,Mean years in school (women 45 to 54 years),Mean years in school,Women 45 to 54 years,measure,mean_years_in_school
+mean_years_in_school_women_55_to_64_years,Mean years in school (women 55 to 64 years),Mean years in school,Women 55 to 64 years,measure,mean_years_in_school
+mean_years_in_school_women_65_plus_years,Mean years in school (women 65 years and older),Mean years in school,Women 65 years and older,measure,mean_years_in_school
 mean_years_in_school_women_of_reproductive_age_15_to_44,Mean years in school (women of reproductive age 15 to 44),Mean years in school,Women 15 to 44,measure,mean_years_in_school
 mean_years_in_school_women_percent_men_25_to_34_years,"Gender ratio of mean years in school (women % men, 25 to 34 years)",Gender ratio of mean years in school,"Gender ratio of mean years in school (women % men, 25 to 34 years)",measure,mean_years_in_school
 measles_deaths_in_children_1_59_months_per_1000_births,Measles deaths in children 1-59 months (per 1000 births),Measles deaths in children,Measles deaths ‰ births,measure,causes_of_child_deaths
