@@ -240,7 +240,6 @@
 "injury_deaths_in_children_1_59_months_per_1000_births","Injury deaths in children 1-59 months (per 1000 births)","Injury deaths in children","Injury deaths ‰ births","measure","causes_of_child_deaths"
 "injury_deaths_in_children_1_59_months_total_deaths","Injury deaths in children 1-59 months (total deaths)","Injury deaths in children","Injury deaths in children, total","measure","causes_of_child_deaths"
 "internal_renewable_water_cu_meters_per_person","Internal renewable water (cu meters per person)","Internal renewable water","Internal renewable water","measure","environment_water"
-"internet_users_per_100_people","Internet users (per 100 people)","Internet users","Internet users /100 people","measure","communication"
 "investments_percent_of_gdp","Investments (% of GDP)","Investments","Investments","measure","economic_situation"
 "life_expectancy_at_birth_data_from_ihme","Life expectancy at birth, data from IHME","Life expectancy","Life expectancy IHME","measure","alternative_demography_indicators"
 "life_expectancy_at_birth_with_projections","Life expectancy at birth, with projections","Life expectancy","Life expectancy w projections","measure","projections"
@@ -537,3 +536,4 @@
 "fixed_line_subscribers_per_100_people","Fixed line subscribers (per 100 people)","Fixed line subscribers (per 100 people)","Fixed line subscribers (per 100 people)","measure","communication"
 "poverty_percent_people_below_550_a_day","Extreme poverty (% people below $5.50 a day)","Extreme poverty","Extreme poverty","measure","poverty"
 "poverty_percent_people_below_320_a_day","Extreme poverty (% people below $3.20 a day)","Extreme poverty","Extreme poverty","measure","poverty"
+"internet_users","Individuals using the Internet (% of population)","Individuals using the Internet","Internet users","measure","communication"
