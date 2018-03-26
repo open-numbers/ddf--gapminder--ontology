@@ -534,6 +534,6 @@
 "year_categorization_1950","Year categorization 1950-","Year categorization 1950-","Year categorization 1950-","measure","_none"
 "yearly_co2_emissions_1000_tonnes","Yearly CO2 emissions (1000 tonnes)","CO2 emissions","CO2 emissions yearly","measure","emissions"
 "fixed_line_subscribers_per_100_people","Fixed line subscribers (per 100 people)","Fixed line subscribers (per 100 people)","Fixed line subscribers (per 100 people)","measure","communication"
-"poverty_percent_people_below_550_a_day","Extreme poverty (% people below $5.50 a day)","Extreme poverty","Extreme poverty","measure","poverty"
-"poverty_percent_people_below_320_a_day","Extreme poverty (% people below $3.20 a day)","Extreme poverty","Extreme poverty","measure","poverty"
+"poverty_percent_people_below_550_a_day","Extreme poverty (% people below $5.50 a day)","Extreme poverty","Extreme poverty","measure","poverty_inequality"
+"poverty_percent_people_below_320_a_day","Extreme poverty (% people below $3.20 a day)","Extreme poverty","Extreme poverty","measure","poverty_inequality"
 "internet_users","Individuals using the Internet (% of population)","Individuals using the Internet","Internet users","measure","communication"
