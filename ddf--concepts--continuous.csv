@@ -249,7 +249,7 @@ life_expectancy_at_birth_data_from_ihme,"Life expectancy at birth, data from IHM
 life_expectancy_at_birth_with_projections,"Life expectancy at birth, with projections",Life expectancy,Life expectancy w projections,measure,projections,,,,,,
 life_expectancy_female,"Life expectancy, female","Life expectancy, female","Life expectancy, female",measure,health,,,,,,
 life_expectancy_male,"Life expectancy, male","Life expectancy, male","Life expectancy, male",measure,health,,,,,,
-life_expectancy_years,Life expectancy (years),Life expectancy,Life expectancy,measure,"_root, health",https://github.com/open-numbers/ddf--gapminder--life_expectancy_historic,The average number of years a newborn child would live if current mortality patterns were to stay the same.,,,gapm.io/ilex,
+life_expectancy_years,Life expectancy (years),Life expectancy,Life expectancy,measure,"_root, health",https://github.com/open-numbers/ddf--gapminder--life_expectancy_historic,The average number of years a newborn child would live if current mortality patterns were to stay the same.,,,,gapm.io/ilex
 literacy_rate_adult_female_percent_of_females_ages_15_above,"Literacy rate, adult female (% of females ages 15 and above)",Literacy rate,"Literacy rate, adult female",measure,literacy,,,,,,
 literacy_rate_adult_male_percent_of_males_ages_15_and_above,"Literacy rate, adult male (% of males ages 15 and above)",Literacy rate,"Literacy rate, adult male",measure,literacy,,,,,,
 literacy_rate_adult_total_percent_of_people_ages_15_and_above,"Literacy rate, adult total (% of people ages 15 and above)",Literacy rate,"Literacy rate, adult total",measure,literacy,,,,,,
