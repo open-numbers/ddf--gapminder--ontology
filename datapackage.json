@@ -4,7 +4,29 @@
         "id": "en"
     },
     "last_updated": "2017-09-06 12:34:31",
+    "created": "2018-03-28T02:51:21.578419+00:00",
     "resources": [
+        {
+            "path": "ddf--concepts--discrete.csv",
+            "name": "ddf--concepts--discrete",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "concept"
+                    },
+                    {
+                        "name": "name"
+                    },
+                    {
+                        "name": "concept_type"
+                    },
+                    {
+                        "name": "tags"
+                    }
+                ],
+                "primaryKey": "concept"
+            }
+        },
         {
             "path": "ddf--concepts--continuous.csv",
             "name": "ddf--concepts--continuous",
@@ -27,27 +49,24 @@
                     },
                     {
                         "name": "tags"
-                    }
-                ],
-                "primaryKey": "concept"
-            }
-        },
-        {
-            "path": "ddf--concepts--discrete.csv",
-            "name": "ddf--concepts--discrete",
-            "schema": {
-                "fields": [
-                    {
-                        "name": "concept"
                     },
                     {
-                        "name": "name"
+                        "name": "indicator_url"
                     },
                     {
-                        "name": "concept_type"
+                        "name": "description"
                     },
                     {
-                        "name": "tags"
+                        "name": "description_long"
+                    },
+                    {
+                        "name": "source"
+                    },
+                    {
+                        "name": "source_long"
+                    },
+                    {
+                        "name": "source_url"
                     }
                 ],
                 "primaryKey": "concept"
@@ -60,10 +79,30 @@
                 "primaryKey": [
                     "concept"
                 ],
+                "value": "name",
+                "resources": [
+                    "ddf--concepts--discrete",
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
                 "value": "tags",
                 "resources": [
-                    "ddf--concepts--continuous",
-                    "ddf--concepts--discrete"
+                    "ddf--concepts--discrete",
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "concept_type",
+                "resources": [
+                    "ddf--concepts--discrete",
+                    "ddf--concepts--continuous"
                 ]
             },
             {
@@ -79,10 +118,27 @@
                 "primaryKey": [
                     "concept"
                 ],
-                "value": "name",
+                "value": "source_url",
                 "resources": [
-                    "ddf--concepts--continuous",
-                    "ddf--concepts--discrete"
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "source_long",
+                "resources": [
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "indicator_url",
+                "resources": [
+                    "ddf--concepts--continuous"
                 ]
             },
             {
@@ -98,10 +154,27 @@
                 "primaryKey": [
                     "concept"
                 ],
-                "value": "concept_type",
+                "value": "source",
                 "resources": [
-                    "ddf--concepts--continuous",
-                    "ddf--concepts--discrete"
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "description_long",
+                "resources": [
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "description",
+                "resources": [
+                    "ddf--concepts--continuous"
                 ]
             }
         ],

@@ -5,3 +5,9 @@ name_short,Short Name,string,_none
 name_catalog,Catalog Name,string,_none
 tags,Tags,string,_none
 parent,Tag Parent,string,_none
+indicator_url,Indicator URL,string,_none
+description,Description,string,_none
+description_long,Description Long Text,string,_none
+source,Source,string,_none
+source_long,Source Long Text,string,_none
+source_url,Source URL,string,_none

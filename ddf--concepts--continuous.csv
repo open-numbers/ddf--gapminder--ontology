@@ -1,539 +1,543 @@
-"concept","name","name_short","name_catalog","concept_type","tags"
-"20120905_extreme_poverty_percent_people_below_125_a_day","Extreme poverty (% people below $1.25 a day) version 20120905","Extreme poverty","Extreme poverty ($1.25) v20120905","measure","alternative_poverty_measures"
-"adults_with_hiv_percent_age_15_49","Adults with HIV (%, age 15-49)","Adults with HIV","Adults with HIV (%, age 15-49)","measure","hiv"
-"age_at_1st_marriage_women","Age at 1st marriage (women)","Age at 1st marriage","Age at 1st marriage (women)","measure","population"
-"aged_15_24_employment_rate_percent","Aged 15-24 employment rate (%)","Employment rate (%)","Aged 15-24","measure","employment_rate"
-"aged_15_24_unemployment_rate_percent","Aged 15-24 unemployment rate (%)","Unemployment rate (%)","Aged 15-24","measure","unemployment"
-"aged_15_64_labour_force_participation_rate_percent","Aged 15-64 labour force participation rate (%)","Labour force participation rate (%)","Aged 15-64","measure","labour_force_participation"
-"aged_15plus_employment_rate_percent","Aged 15+ employment rate (%)","Employment rate (%)","Aged 15+","measure","employment_rate"
-"aged_15plus_labour_force_participation_rate_percent","Aged 15+ labour force participation rate (%)","Labour force participation rate (%)","Aged 15+","measure","labour_force_participation"
-"aged_15plus_unemployment_rate_percent","Aged 15+ unemployment rate (%)","Unemployment rate (%)","Aged 15+","measure","unemployment"
-"aged_25_54_labour_force_participation_rate_percent","Aged 25-54 labour force participation rate (%)","Labour force participation rate (%)","Aged 25-54","measure","labour_force_participation"
-"aged_25_54_unemployment_rate_percent","Aged 25-54 unemployment rate (%)","Unemployment rate (%)","Aged 25-54","measure","unemployment"
-"aged_55plus_unemployment_rate_percent","Aged 55+ unemployment rate (%)","Unemployment rate (%)","Aged 55+","measure","unemployment"
-"aged_65plus_labour_force_participation_rate_percent","Aged 65+ labour force participation rate (%)","Labour force participation rate (%)","Aged 65+","measure","labour_force_participation"
-"agricultural_land_percent_of_land_area","Agricultural land (% of land area)","Agricultural land","Agricultural land","measure","geography"
-"agricultural_water_withdrawal_percent_of_total","Agricultural water withdrawal (% of total)","Agricultural water withdrawal","Agricultural water withdrawal","measure","environment_water"
-"agriculture_percent_of_gdp","Agriculture (% of GDP)","Agriculture","Agriculture","measure","sectors"
-"agriculture_workers_percent_of_labour_force","Agriculture workers (% of labour force)","Agriculture workers","Agriculture workers","measure","employment_by_sector"
-"aid_given_2007_us","Aid given (2007 US$)","Aid given","Aid given","measure","aid_given"
-"aid_given_per_person_2007_us","Aid given per person (2007 US$)","Aid given per person","Aid given per person","measure","aid_given"
-"aid_given_percent_of_gni","Aid given (% of GNI)","Aid given (% of GNI)","Aid given (% of GNI)","measure","aid_given"
-"aid_received_per_person_current_us","Aid received per person (current US$)","Aid received per person","Aid received per person","measure","aid_received"
-"aid_received_percent_of_gni","Aid received (% of GNI)","Aid received (% of GNI)","Aid received (% of GNI)","measure","aid_received"
-"aid_received_total_us_inflation_adjusted","Aid received, total (US$, inflation-adjusted)","Aid received, total","Aid received, total","measure","aid_received"
-"alcohol_consumption_per_adult_15plus_litres","Alcohol consumption per adult 15+ (litres)","Alcohol consumption","Alcohol consumption","measure","risk_factors"
-"all_causes_deaths_in_children_1_59_months_per_1000_births","All causes deaths in children 1-59 months (per 1000 births)","All causes deaths in children","All causes ‰ births","measure","causes_of_child_deaths"
-"all_causes_deaths_in_children_1_59_months_total_deaths","All causes deaths in children 1-59 months (total deaths)","All causes deaths in children","All causes (total deaths)","measure","causes_of_child_deaths"
-"all_causes_deaths_in_newborn_per_1000_births","All causes deaths in newborn (per 1000 births)","All causes deaths in newborn","All causes ‰ births","measure","causes_of_newborn_deaths"
-"all_causes_deaths_in_newborn_total_deaths","All causes deaths in newborn (total deaths)","All causes deaths in newborn","All causes (total deaths)","measure","causes_of_newborn_deaths"
-"all_forms_of_tb_deaths_per_100000_estimated","TB deaths per 100 000, estimated, all forms of TB","TB deaths per 100 000","TB deaths /100k, est., all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_detection_rate_percent","TB detection rate, all forms of TB (%)","TB detection rate","TB detection rate, all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_detection_rate_percent_dots_only","TB detection rate, all forms of TB (%) - DOTS only","TB detection rate","TB detection rate, all forms, DOTS","measure","tb_tuberculosis"
-"all_forms_of_tb_existing_cases_per_100000_estimated","TB existing cases per 100 000, estimated, all forms of TB","TB existing cases per 100 000","TB existing cases /100k, est. all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_new_cases_per_100000_estimated","TB new cases per 100 000, estimated, all forms of TB","TB new cases per 100 000","TB new cases /100k, est. all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_new_cases_per_100000_reported","TB new cases per 100 000, reported, all forms of TB","TB new cases per 100 000","TB new cases /100k, reported, all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_number_of_deaths_estimated","TB deaths, estimated, all forms of TB","TB deaths","TB deaths, est., all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_number_of_existing_cases_estimated","TB existing cases, estimated, all forms of TB","TB existing cases","TB existing cases, est., all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_number_of_new_cases_estimated","TB new cases, estimated, all forms of TB","TB new cases","TB new cases, est., all forms","measure","tb_tuberculosis"
-"all_forms_of_tb_number_of_new_cases_reported","TB new cases, reported, all forms of TB","TB new cases","TB new cases, reported, all forms","measure","tb_tuberculosis"
-"alternative_gdp_per_capita_ppp_pwt_7_1","Alternative GDP per capita PPP, PWT 7.1","GDP per capita PPP","GDP/cap PPP, PWT 7.1","measure","alternative_gdp_data"
-"alternative_gdp_per_capita_ppp_pwt_8_0","Alternative GDP per capita PPP, PWT 8.0","GDP per capita PPP","GDP/cap PPP, PWT 8.0","measure","alternative_gdp_data"
-"alternative_gdp_per_capita_ppp_wb","Alternative GDP per capita PPP, WB","GDP per capita PPP","GDP per capita PPP, WB","measure","alternative_gdp_data"
-"alternative_gdppercapita_ppp_inflation_adjusted_from_pwt","Alternative GDP per capita PPP, from PWT (inflation-adjusted)","GDP per capita PPP","GDP/cap PPP, PWT infl-adjusted","measure","alternative_gdp_data"
-"alternative_poverty_percent_below_nationally_defined_poverty","Relative poverty (% below nationally defined poverty line)","Relative poverty","Relative poverty","measure","alternative_poverty_measures"
-"annual_hiv_deaths_number_all_ages","Annual HIV deaths (number, all ages)","Annual HIV deaths","Annual HIV deaths","measure","hiv"
-"armed_forces_personnel_percent_of_labor_force","Armed forces personnel (% of labor force)","Armed forces personnel","Armed forces personnel","measure","war_peace"
-"armed_forces_personnel_total","Armed forces personnel, total","Armed forces personnel","Armed forces personnel","measure","war_peace"
-"arms_exports_us_inflation_adjusted","Arms exports (US$, inflation-adjusted)","Arms exports","Arms exports","measure","debt_trade"
-"arms_imports_us_inflation_adjusted","Arms imports (US$, inflation adjusted)","Arms imports","Arms imports","measure","debt_trade"
-"art_coverage_percent_cd4_l_350","ART coverage % (CD4 < 350)","ART coverage","ART coverage","measure","hiv"
-"average_age_of_dollar_billionaires_years","Average age of dollar billionaires (years)","Average age of dollar billionaires","Average age of dollar billionaires","measure","poverty_inequality"
-"bad_teeth_per_child_12_yr","Bad teeth per child (12 yr)","Bad teeth per child","Bad teeth per child","measure","teeth"
-"battle_deaths_per_100_000","Battle deaths (per 100 000)","Battle deaths","Battle deaths","measure","war_peace"
-"biomass_stock_in_forest_tons","Biomass stock in forest (tons)","Biomass stock in forest","Biomass stock in forest","measure","forestry"
-"birth_asphyxia_deaths_in_newborn_per_1000_births","Birth asphyxia deaths in newborn (per 1000 births)","Birth asphyxia deaths in newborn","Birth asphyxia ‰ births","measure","causes_of_newborn_deaths"
-"birth_asphyxia_deaths_in_newborn_total_deaths","Birth asphyxia deaths in newborn (total deaths)","Birth asphyxia deaths in newborn","Birth asphyxia (total deaths)","measure","causes_of_newborn_deaths"
-"births_attended_by_skilled_health_staff_percent_of_total","Births attended by skilled health staff (% of total)","Births attended by skilled health staff","Births attended by skilled health staff","measure","maternal_health"
-"blood_pressure_sbp_men_mmhg","Blood pressure, men, SBP, mmHg","Blood pressure, men","Blood pressure, men","measure","risk_factors"
-"blood_pressure_sbp_women_mmhg","Blood pressure, women, SBP, mmHg","Blood pressure, women","Blood pressure, women","measure","risk_factors"
-"body_mass_index_bmi_men_kgperm2","Body Mass Index, men, BMI, kg/m2","Body Mass Index, men","Body Mass Index, men","measure","risk_factors"
-"body_mass_index_bmi_women_kgperm2","Body Mass Index, women, BMI, kg/m2","Body Mass Index, women","Body Mass Index, women","measure","risk_factors"
-"breast_cancer_deaths_per_100000_women","Breast cancer deaths per 100 000 women","Breast cancer deaths","Breast c. deaths /100k women","measure","cancer_female"
-"breast_cancer_new_cases_per_100000_women","Breast cancer new cases per 100 000 women","Breast cancer new cases","Breast c. new cases /100k women","measure","cancer_female"
-"breast_cancer_number_of_female_deaths","Breast cancer deaths","Breast cancer deaths","Breast c. deaths","measure","cancer_female"
-"breast_cancer_number_of_new_female_cases","Breast cancer new cases","Breast cancer new cases","Breast c. new cases","measure","cancer_female"
-"broadband_subscribers","Broadband subscribers (total)","Broadband subscribers","Broadband subscribers","measure","communication"
-"broadband_subscribers_per_100_people","Broadband subscribers (per 100 people)","Broadband subscribers","Broadband subscribers /100 people","measure","communication"
-"burns_deaths_per_100000_people","Burns deaths (per 100 000 people)","Burns deaths","Burns deaths /100k people","measure","injuries_and_accidents"
-"car_deaths_per_100000_people","Car deaths (per 100 000 people)","Car deaths","Car deaths /100k people","measure","injury_deaths_by_gender_age_road_user"
-"cars_trucks_and_buses_per_1000_persons","Cars, trucks & buses per 1000 persons","Cars, trucks & buses","Cars, trucks & buses ‰ people","measure","traffic"
-"cell_phones_per_100_people","Cell phones (per 100 people)","Cell phones","Cell phones /100 people","measure","communication"
-"cell_phones_total","Cell phones (total)","Cell phones","Cell phones","measure","communication"
-"central_bank_discount_rate_annual_percent","Central bank discount rate (annual %)","Central bank discount rate","Central bank discount rate","measure","economic_situation"
-"cervical_cancer_deaths_per_100000_women","Cervical cancer deaths per 100 000 women","Cervical cancer deaths","Cervical c. deaths /100k women","measure","cancer_female"
-"cervical_cancer_new_cases_per_100000_women","Cervical cancer new cases per 100 000 women","Cervical cancer new cases","Cervical c. new cases /100k women","measure","cancer_female"
-"cervical_cancer_number_of_female_deaths","Cervical cancer deaths, women","Cervical cancer deaths","Cervical c. deaths, women","measure","cancer_female"
-"cervical_cancer_number_of_new_female_cases","Cervical cancer new cases, women","Cervical cancer new cases","Cervical c. new cases, women","measure","cancer_female"
-"child_mortality_0_5_year_olds_dying_per_1000_born","Child mortality (0-5 year-olds dying per 1000 born)","Child mortality","Child mortality","measure","_root, health"
-"child_mortality_0_5_year_olds_more_years_version_7","Child mortality (0-5 year-olds). More years. Version 7.","Child mortality","Child mortality. More years. Version 7.","measure","alternative_child_mortality_data"
-"children_and_elderly_per_100_adults","Children and elderly (per 100 adults)","Children and elderly","Children and elderly /100 adults","measure","population"
-"children_out_of_school_primary","Children out of school, primary","Children out of school","Children out of school","measure","school_enrolment"
-"children_out_of_school_primary_female","Girls out of school, primary","Girls out of school","Girls out of school","measure","school_enrolment"
-"children_out_of_school_primary_male","Boys out of school, primary","Boys out of school","Boys out of school","measure","school_enrolment"
-"children_per_woman_temporary_update","Babies per woman, temporary update","Babies per woman","Babies per woman temp update","measure","alternative_demography_indicators"
-"children_per_woman_total_fertility","Babies per woman (total fertility)","Babies per woman","Babies per woman","measure","_root, newborn_infants"
-"children_per_woman_total_fertility_with_projections","Babies per woman (total fertility), with projections","Babies per woman","Babies per woman w/ projections","measure","projections"
-"cholesterol_fat_in_blood_men_mmolperl","Fat in blood, men, Cholesterol mmol/L","Fat in blood, men","Fat in blood, men","measure","risk_factors"
-"cholesterol_fat_in_blood_women_mmolperl","Fat in blood, women, Cholesterol mmol/L","Fat in blood, women","Fat in blood, women","measure","risk_factors"
-"co2_emissions_tonnes_per_person","CO2 emissions (tonnes per person)","CO2 emissions","CO2 emissions","measure","_root, emissions"
-"co2_intensity_of_economic_output_kg_co2_per_2011_ppp_of_gdp","CO2 intensity of economic output (kg CO2 per 2011 PPP $ of GDP)","CO2 intensity of economic output","CO2 intensity of economic output","measure","emissions"
-"coal_consumption_per_cap","Coal consumption, per person","Coal consumption","Coal consumption /person","measure","coal"
-"coal_consumption_total","Coal consumption, total","Coal consumption","Coal consumption, total","measure","coal"
-"colonandrectum_cancer_deaths_per_100000_men","Colon&Rectum cancer deaths per 100 000 men","Colon&Rectum cancer deaths","Colon&Rectum c. deaths /100k men","measure","cancer_male"
-"colonandrectum_cancer_deaths_per_100000_women","Colon&Rectum cancer deaths per 100 000 women","Colon&Rectum cancer deaths","Colon&Rectum c. deaths /100k women","measure","cancer_female"
-"colonandrectum_cancer_new_cases_per_100000_men","Colon&Rectum cancer new cases per 100 000 men","Colon&Rectum cancer new cases","Colon&Rectum c. new cases /100k men","measure","cancer_male"
-"colonandrectum_cancer_new_cases_per_100000_women","Colon&Rectum cancer new cases per 100 000 women","Colon&Rectum cancer new cases","Colon&Rectum c. new cases /100k women","measure","cancer_female"
-"colonandrectum_cancer_number_of_female_deaths","Colon&Rectum cancer deaths, women","Colon&Rectum cancer deaths","Colon&Rectum c. deaths, women","measure","cancer_female"
-"colonandrectum_cancer_number_of_male_deaths","Colon&Rectum cancer deaths, men","Colon&Rectum cancer deaths","Colon&Rectum c. deaths, men","measure","cancer_male"
-"colonandrectum_cancer_number_of_new_female_cases","Colon&Rectum cancer new cases, women","Colon&Rectum cancer new cases","Colon&Rectum c. new cases, women","measure","cancer_female"
-"colonandrectum_cancer_number_of_new_male_cases","Colon&Rectum cancer new cases, men","Colon&Rectum cancer new cases","Colon&Rectum c. new cases, men","measure","cancer_male"
-"congenital_deaths_in_newborn_per_1000_births","Congenital deaths in newborn (per 1000 births)","Congenital deaths in newborn","Congenital deaths ‰ births","measure","causes_of_newborn_deaths"
-"congenital_deaths_in_newborn_total_deaths","Congenital deaths in newborn (total deaths)","Congenital deaths in newborn","Congenital deaths in newborn","measure","causes_of_newborn_deaths"
-"contraceptive_use_percent_of_women_ages_15_49","Contraceptive use (% of women ages 15-49)","Contraceptive use","Contraceptive use","measure","maternal_health"
-"corruption_perception_index_cpi","Corruption Perception Index (CPI)","Corruption Perception Index","Corruption Perception Index","measure","society"
-"crude_birth_rate_births_per_1000_population","Crude birth rate (births per 1000 population)","Crude birth rate","Crude birth rate","measure","population_growth"
-"crude_death_rate_deaths_per_1000_population","Crude death rate (deaths per 1000 population)","Crude death rate","Crude death rate","measure","population_growth"
-"cumulative_co2_emissions_tonnes","Cumulative CO2 emissions (tonnes)","Cumulative CO2 emissions","Cumulative CO2 emissions","measure","emissions"
-"data_method_maternal_mortality","Data method - Maternal mortality","Data method - Maternal mortality","Data method - Maternal mortality","measure","data_quality_use_as_color"
-"data_quality_children_per_woman","Data quality - Children per woman","Data quality - Children per woman","Children per woman","measure","data_quality_use_as_color"
-"data_quality_income_per_person","Data quality - Income per person","Data quality - Income per person","Income per person","measure","data_quality_use_as_color"
-"data_quality_life_expectancy","Data quality - Life expectancy","Data quality - Life expectancy","Life expectancy","measure","data_quality_use_as_color"
-"data_quality_population","Data quality - Population","Data quality - Population","Population","measure","data_quality_use_as_color"
-"dead_kids_per_woman","Dead kids per woman","Dead kids per woman","Dead kids per woman","measure","families"
-"debt_servicing_costs_percent_of_exports_and_net_income_from_abroad","Debt servicing costs (% of exports and net income from abroad)","Debt servicing costs","Debt servicing costs","measure","advanced_debt_trade"
-"debt_to_foreigners_by_public_and_private_percent_of_gni","Debt to foreigners by public & private (% of GNI)","Debt to foreigners","Debt to foreigners","measure","debt_trade"
-"democracy_score_use_as_color","Democracy score (use as color)","Democracy score","Democracy score","measure","society"
-"desalinated_water_produced_billion_cu_meters","Desalinated water produced (billion cu meters)","Desalinated water produced","Desalinated water produced","measure","environment_water"
-"diarrhoeal_deaths_in_children_1_59_months_per_1000_births","Diarrhoeal deaths in children 1-59 months (per 1000 births)","Diarrhoeal deaths in children","Diarrhoeal deaths ‰ births","measure","causes_of_child_deaths"
-"diarrhoeal_deaths_in_children_1_59_months_total_deaths","Diarrhoeal deaths in children 1-59 months (total deaths)","Diarrhoeal deaths in children","Diarrhoeal deaths","measure","causes_of_child_deaths"
-"diarrhoeal_deaths_in_newborn_per_1000_births","Diarrhoeal deaths in newborn (per 1000 births)","Diarrhoeal deaths in newborn","Diarrhoeal deaths ‰ births","measure","causes_of_newborn_deaths"
-"diarrhoeal_deaths_in_newborn_total_deaths","Diarrhoeal deaths in newborn (total deaths)","Diarrhoeal deaths in newborn","Diarrhoeal deaths","measure","causes_of_newborn_deaths"
-"dollar_billionaires_per_million_people","Dollar billionaires per million people","Dollar billionaires","Dollar billionaires /1M people","measure","poverty_inequality"
-"drought_affected_annual_number","Drought affected annual number","Drought affected","Drought affected","measure","disasters"
-"drought_deaths_annual_number","Drought deaths annual number","Drought deaths","Drought deaths","measure","disasters"
-"drownings_per_100000_people","Drownings (per 100 000 people)","Drownings","Drownings /100k people","measure","injuries_and_accidents"
-"dtp3_immunized_percent_of_one_year_olds","DTP3 immunized (% of one-year-olds)","DTP3 immunized","DTP3 immunized","measure","vaccine"
-"earthquake_affected_annual_number","Earthquake affected annual number","Earthquake affected","Earthquake affected","measure","disasters"
-"earthquake_deaths_annual_number","Earthquake deaths annual number","Earthquake deaths","Earthquake deaths","measure","disasters"
-"economic_growth_over_the_past_10_years","Economic growth over the past 10 years","Economic growth","Economic growth over past 10 years","measure","economic_growth"
-"economical_infrastructure_aid_given_percent_of_aid","Economical infrastructure aid given (% of aid)","Economical infrastructure aid given","Economical infrastructure aid given","measure","aid_given"
-"education_aid_given_percent_of_aid","Education aid given (% of aid)","Education aid given","Education aid given","measure","aid_given"
-"electricity_generation_per_person","Electricity generation, per person","Electricity generation","Electricity generation /person","measure","electricity"
-"electricity_generation_total","Electricity generation, total","Electricity generation","Electricity generation, total","measure","electricity"
-"electricity_use_per_person","Electricity use, per person","Electricity use","Electricity use /person","measure","electricity"
-"energy_from_solid_biofuels_percent","Energy from solid biofuels (%)","Energy from solid biofuels (%)","Energy from solid biofuels (%)","measure","alternative_energy"
-"energy_production_per_person","Energy production, per person","Energy production","Energy production /person","measure","total"
-"energy_production_total","Energy production, total","Energy production","Energy production, total","measure","total"
-"energy_supply_per_person_toe","Energy supply per person TOE","Energy supply per person","Energy supply /person","measure","alternative_energy"
-"energy_use_per_person","Energy use, per person","Energy use","Energy use, per person","measure","total"
-"epidemic_affected_annual_number","Epidemic affected annual number","Epidemic affected","Epidemic affected","measure","disasters"
-"epidemic_deaths_annual_number","Epidemic deaths annual number","Epidemic deaths","Epidemic deaths","measure","disasters"
-"estimate_or_projection_of_under_five_mortality_rate_from_ihme","Estimate or projection of u5mr under-five mortality rate, from IHME","Estimate or projection of u5mr","Est. or projection of u5mr","measure","data_quality_use_as_color"
-"expenditure_per_student_primary_percent_of_gdp_per_person","Expenditure per student, primary (% of GDP per person)","Expenditure per student, primary","Expenditure per student, primary","measure","schooling_cost"
-"expenditure_per_student_secondary_percent_of_gdp_per_person","Expenditure per student, secondary (% of GDP per person)","Expenditure per student, secondary","Expenditure per student, secondary","measure","schooling_cost"
-"expenditure_per_student_tertiary_percent_of_gdp_per_person","Expenditure per student, tertiary (% of GDP per person)","Expenditure per student, tertiary","Expenditure per student, tertiary","measure","schooling_cost"
-"exports_percent_of_gdp","Exports (% of GDP)","Exports (% of GDP)","Exports (% of GDP)","measure","debt_trade"
-"exports_unit_value_index_2000100","Exports unit value (index, 2000=100)","Exports unit value","Exports unit value","measure","advanced_debt_trade"
-"external_debt_total_us_not_inflation_adjusted","External debt, total (US$, not inflation-adjusted)","External debt, total","External debt, total","measure","advanced_debt_trade"
-"extreme_temperature_affected_annual_number","Extreme temperature affected annual number","Extreme temperature affected","Extreme temperature affected","measure","disasters"
-"extreme_temperature_deaths_annual_number","Extreme temperature affected annual number","Extreme temperature deaths","Extreme temperature deaths","measure","disasters"
-"falls_deaths_per_100000_people","Falls, deaths (per 100 000 people)","Falls, deaths","Falls, deaths /100k people","measure","injuries_and_accidents"
-"family_workers_percent_of_labour_force","Family workers (% of labour force)","Family workers","Family workers","measure","employment_by_status"
-"female_agriculture_workers_percent_of_female_labour_force","Female agriculture workers (% of female labour force)","Female agriculture workers","Female agriculture workers","measure","employment_by_sector"
-"female_family_workers_percent_of_female_labour_force","Female family workers (% of female labour force)","Female family workers","Female family workers","measure","employment_by_status"
-"female_industry_workers_percent_of_female_labour_force","Female industry workers (% of female labour force)","Female industry workers","Female industry workers","measure","employment_by_sector"
-"female_long_term_unemployment_rate_percent","Female long term unemployment rate (%)","Female long term unemployment","Female long term unemployment","measure","unemployment"
-"female_population_with_projections","Female population, with projections","Female population","Female population, w projections","measure","projections"
-"female_salaried_workers_percent_of_female_labour_force","Female salaried workers (% of female labour force)","Female salaried workers","Female salaried workers","measure","employment_by_status"
-"female_self_employed_percent_of_female_labour_force","Female self-employed (% of female labour force)","Female self-employed","Female self-employed","measure","employment_by_status"
-"female_service_workers_percent_of_female_labour_force","Female service workers (% of female labour force)","Female service workers","Female service workers","measure","employment_by_sector"
-"females_aged_15_24_employment_rate_percent","Employment rate (%), females aged 15-24","Employment rate","Females aged 15-24","measure","employment_rate"
-"females_aged_15_24_unemployment_rate_percent","Unemployment rate (%), females aged 15-24","Unemployment rate","Females aged 15-24","measure","unemployment"
-"females_aged_15_64_labour_force_participation_rate_percent","Labour force participation rate (%), females aged 15-64","Labour force participation rate","Females aged 15-64","measure","labour_force_participation"
-"females_aged_15plus_employment_rate_percent","Employment rate (%), females aged 15+","Employment rate","Females aged 15+","measure","employment_rate"
-"females_aged_15plus_labour_force_participation_rate_percent","Labour force participation rate (%), females aged 15+","Labour force participation rate","Females aged 15+","measure","labour_force_participation"
-"females_aged_15plus_unemployment_rate_percent","Unemployment rate (%), females aged 15+","Unemployment rate","Females aged 15+","measure","unemployment"
-"females_aged_25_54_labour_force_participation_rate_percent","Labour force participation rate (%), females aged 25-54","Labour force participation rate","Females aged 25-54","measure","labour_force_participation"
-"females_aged_25_54_unemployment_rate_percent","Unemployment rate (%), females aged 25-54","Unemployment rate","Females aged 25-54","measure","unemployment"
-"females_aged_55plus_unemployment_rate_percent","Unemployment rate (%), females aged 55+","Unemployment rate","Females aged 55+","measure","unemployment"
-"females_aged_65plus_labour_force_participation_rate_percent","Labour force participation rate (%), females aged 65+","Labour force participation rate","Females aged 65+","measure","labour_force_participation"
-"flood_affected_annual_number","Flood affected annual number","Flood affected","Flood affected","measure","disasters"
-"flood_deaths_annual_number","Flood deaths annual number","Flood deaths","Flood deaths","measure","disasters"
-"food_supply_kilocalories_per_person_and_day","Food supply (kilocalories / person & day)","Food supply","Food supply","measure","nutrition"
-"foreign_direct_investment_net_inflows_percent_of_gdp","Foreign investment inflows (direct, net % of GDP)","Foreign investment inflows","Foreign investment inflows","measure","economic_situation"
-"foreign_direct_investment_net_outflows_percent_of_gdp","Foreign investment outflows (direct, net % of GDP)","Foreign investment outflows","Foreign investment outflows","measure","economic_situation"
-"forest_area_sq_km","Forest area (sq. km)","Forest area","Forest area","measure","geography"
-"forest_coverage_percent","Forest coverage (%)","Forest coverage","Forest coverage","measure","forestry"
-"forest_land_total_area_ha","Forest land, total area (ha)","Forest land","Forest land","measure","forestry"
-"forest_products_removal_per_ha_dollar","Forest products removal, per ha ($)","Forest products removal","Forest products removal, per ha","measure","forestry"
-"forest_products_removal_total_dollar","Forest products removal, total ($)","Forest products removal","Forest products removal, total","measure","forestry"
-"gapminder_gini","Inequality index (Gini)","Inequality index (Gini)","Inequality index (Gini)","measure","_none"
-"gdp_per_capita_yearly_growth","GDP/capita, yearly growth","GDP/capita, yearly growth","GDP/capita, yearly growth","measure","incomes_growth"
-"gdp_total_yearly_growth","GDP total, yearly growth","GDP total, yearly growth","GDP total, yearly growth","measure","incomes_growth"
-"gdppercapita_growth_over_next_10_years","GDP/capita growth over next 10 years","GDP/capita growth","GDP/cap growth, next 10 years","measure","incomes_growth"
-"gdppercapita_growth_percent_per_year","GDP/capita growth (% per year)","GDP/capita growth","GDP/cap growth","measure","alternative_gdp_data"
-"gdppercapita_us_inflation_adjusted","GDP/capita (US$, inflation-adjusted)","GDP/capita","GDP/capita (US$, inflation-adjusted)","measure","incomes_growth"
-"gdpperemployee_us_inflation_adjusted","GDP/employee (US$, inflation-adjusted)","GDP/employee","GDP/employee","measure","incomes_growth"
-"gdpperworking_hour_us_inflation_adjusted","GDP/working hour (US$, inflation-adjusted)","GDP/working hour","GDP/working hour","measure","incomes_growth"
-"gnipercapita_atlasmethod_current_us","GNI/capita (Atlas method, current US$)","GNI/capita","GNI/capita (Atlas method)","measure","incomes_growth"
-"gnipercapita_constant_2010_us","GNI/capita (constant 2010 US$)","GNI/capita","GNI/capita (constant 2010 US$)","measure","incomes_growth"
-"gnipercapita_ppp_current_international","GNI/per capita (PPP, current international $)","GNI/per capita","GNI/per capita (PPP, current international $)","measure","incomes_growth"
-"government_and_society_aid_given_percent_of_aid","Government and society aid given (% of aid)","Government and society aid given","Govt. and society aid given","measure","aid_given"
-"government_health_spending_of_total_gov_spending_percent","Govt. health spending of total gov. spending (%)","Govt. health spending","Govt. health spending % of total","measure","health_economics"
-"government_health_spending_per_person_international_dollar","Govt. health spending per person (international $)","Govt. health spending","Govt. health spending /person, intl. $","measure","health_economics"
-"government_health_spending_per_person_us","Govt. health spending per person (US$)","Govt. health spending","Govt. health spending /person, US $","measure","health_economics"
-"government_share_of_total_health_spending_percent","Govt. share of health spending (%)","Govt. share of health spending","Govt. share health spending","measure","health_economics"
-"hdi_human_development_index","Human Development Index (HDI)","Human Development Index","Human Development Index","measure","society"
-"health_aid_given_percent_of_aid","Health aid given (% of aid)","Health aid given","Health aid given","measure","aid_given"
-"hepb3_immunized_percent_of_one_year_olds","HepB3 immunized (% of one-year-olds)","HepB3 immunized","HepB3 immunized","measure","vaccine"
-"hib3_immunized_percent_of_one_year_olds","Hib3 immunized (% of one-year-olds)","Hib3 immunized","Hib3 immunized","measure","vaccine"
-"high_technology_exports_percent_of_manufactured_exports","High-technology exports (% of manufactured exports)","High-technology exports","High-technology exports","measure","debt_trade"
-"hiv_deaths_in_children_1_59_months_per_1000_births","HIV deaths in children 1-59 months (per 1000 births)","HIV deaths in children","HIV deaths ‰ births","measure","causes_of_child_deaths"
-"hiv_deaths_in_children_1_59_months_total_deaths","HIV deaths in children 1-59 months (total deaths)","HIV deaths in children","HIV deaths","measure","causes_of_child_deaths"
-"hourly_compensation_us","Hourly compensation (US$)","Hourly compensation","Hourly compensation","measure","economic_situation"
-"how_far_to_the_north","How far to the north (latitude)","How far to the north","How far to the north","measure","geography_infrastructure"
-"hydro_power_generation_per_person","Hydro electricity production, per person","Hydro electricity production","Hydro electricity production /person","measure","hydro"
-"hydro_power_generation_total","Hydro electricity production, total","Hydro electricity production","Hydro electricity production, total","measure","hydro"
-"ifpri_underweight_children","Underweight children (IFPRI)","Underweight children","Underweight children","measure","advanced"
-"imports_percent_of_gdp","Imports (% of GDP)","Imports (% of GDP)","Imports (% of GDP)","measure","debt_trade"
-"imports_unit_value_index_2000100","Imports unit value (index, 2000=100)","Imports unit value","Imports unit value","measure","advanced_debt_trade"
-"improved_sanitation_overall_access_percent","Improved sanitation, overall access (%)","Improved sanitation, overall","Improved sanitation, overall","measure","sanitation"
-"improved_sanitation_rural_access_percent","Improved sanitation, rural access (%)","Improved sanitation, rural","Improved sanitation, rural","measure","sanitation"
-"improved_sanitation_urban_access_percent","Improved sanitation, urban access (%)","Improved sanitation, urban","Improved sanitation, urban","measure","sanitation"
-"improved_water_source_overall_access_percent","Improved water, overall access (%)","Improved water, overall","Improved water, overall","measure","infrastructure_water"
-"improved_water_source_rural_access_percent","Improved water source, rural access (%)","Improved water, rural","Improved water, rural","measure","infrastructure_water"
-"improved_water_source_urban_access_percent","Improved water, urban access (%)","Improved water, urban","Improved water, urban","measure","infrastructure_water"
-"income_per_person_gdppercapita_ppp_inflation_adjusted","Income per person (GDP/capita, PPP$ inflation-adjusted)","Income","Income","measure","_root, incomes_growth"
-"income_per_person_long_series","Income per person, long series","Income per person","Income per person, long series","measure","alternative_gdp_data"
-"income_per_person_with_projections","Income per person, with projections","Income per person","Income per person, w projections","measure","projections"
-"income_share_of_2nd_poorest_20percent","Income share of 2nd poorest 20%","Income share of 2nd poorest 20%","Income share of 2nd poorest 20%","measure","poverty_inequality"
-"income_share_of_2nd_richest_20percent","Income share of 2nd richest 20%","Income share of 2nd richest 20%","Income share of 2nd richest 20%","measure","poverty_inequality"
-"income_share_of_middle_20percent","Income share of middle 20%","Income share of middle 20%","Income share of middle 20%","measure","poverty_inequality"
-"income_share_of_poorest_10percent","Income share of poorest 10%","Income share of poorest 10%","Income share of poorest 10%","measure","poverty_inequality"
-"income_share_of_poorest_20percent","Income share of poorest 20%","Income share of poorest 20%","Income share of poorest 20%","measure","poverty_inequality"
-"income_share_of_richest_10percent","Income share of richest 10%","Income share of richest 10%","Income share of richest 10%","measure","poverty_inequality"
-"income_share_of_richest_20percent","Income share of richest 20%","Income share of richest 20%","Income share of richest 20%","measure","poverty_inequality"
-"industrial_water_withdrawal_percent_of_total","Industrial water withdrawal (% of total)","Industrial water withdrawal","Industrial water withdrawal","measure","environment_water"
-"industry_percent_of_gdp","Industry (% of GDP)","Industry (% of GDP)","Industry (% of GDP)","measure","sectors"
-"industry_workers_percent_of_labour_force","Industry workers (% of labour force)","Industry workers","Industry workers","measure","employment_by_sector"
-"inequality_index_gini","Inequality index (Gini)","Inequality index (Gini)","Inequality index (Gini)","measure","poverty_inequality"
-"infant_mortality_rate_per_1000_births","Infant mortality (rate per 1000 births)","Infant mortality","Infant mortality","measure","newborn_infants"
-"infectious_tb_detection_rate_percent","TB detection rate (%), infectious TB","TB detection rate (%)","TB detection rate, infectious TB","measure","tb_tuberculosis"
-"infectious_tb_detection_rate_percent_dots_only","TB detection rate (%), infectious - DOTS only","TB detection rate (%)","TB detection rate, infectious - DOTS only","measure","tb_tuberculosis"
-"infectious_tb_new_cases_per_100000_estimated","TB new cases per 100 000, estimated, infectious TB","TB new cases per 100 000","TB new cases /100k, estimated, infectious TB","measure","tb_tuberculosis"
-"infectious_tb_new_cases_per_100000_reported","TB new cases per 100 000, reported, infectious TB","TB new cases per 100 000","TB new cases /100k, reported, infectious TB","measure","tb_tuberculosis"
-"infectious_tb_number_of_new_cases_estimated","TB new cases, estimated, infectious TB","TB new cases","TB new cases, estimated, infectious TB","measure","tb_tuberculosis"
-"infectious_tb_number_of_new_cases_reported","TB new cases, reported, infectious TB","TB new cases","TB new cases, reported, infectious TB","measure","tb_tuberculosis"
-"infectious_tb_treatment_dots_completed_percent","Treatment (DOTS) completed (%), infectious TB","Treatment (DOTS) completed","Treatment (DOTS) completed, infectious TB","measure","tb_tuberculosis"
-"inflation_annual_percent","Inflation (annual %)","Inflation","Inflation","measure","economic_situation"
-"injury_deaths_in_children_1_59_months_per_1000_births","Injury deaths in children 1-59 months (per 1000 births)","Injury deaths in children","Injury deaths ‰ births","measure","causes_of_child_deaths"
-"injury_deaths_in_children_1_59_months_total_deaths","Injury deaths in children 1-59 months (total deaths)","Injury deaths in children","Injury deaths in children, total","measure","causes_of_child_deaths"
-"internal_renewable_water_cu_meters_per_person","Internal renewable water (cu meters per person)","Internal renewable water","Internal renewable water","measure","environment_water"
-"investments_percent_of_gdp","Investments (% of GDP)","Investments","Investments","measure","economic_situation"
-"life_expectancy_at_birth_data_from_ihme","Life expectancy at birth, data from IHME","Life expectancy","Life expectancy IHME","measure","alternative_demography_indicators"
-"life_expectancy_at_birth_with_projections","Life expectancy at birth, with projections","Life expectancy","Life expectancy w projections","measure","projections"
-"life_expectancy_female","Life expectancy, female","Life expectancy, female","Life expectancy, female","measure","health"
-"life_expectancy_male","Life expectancy, male","Life expectancy, male","Life expectancy, male","measure","health"
-"life_expectancy_years","Life expectancy (years)","Life expectancy","Life expectancy","measure","_root, health"
-"literacy_rate_adult_female_percent_of_females_ages_15_above","Literacy rate, adult female (% of females ages 15 and above)","Literacy rate","Literacy rate, adult female","measure","literacy"
-"literacy_rate_adult_male_percent_of_males_ages_15_and_above","Literacy rate, adult male (% of males ages 15 and above)","Literacy rate","Literacy rate, adult male","measure","literacy"
-"literacy_rate_adult_total_percent_of_people_ages_15_and_above","Literacy rate, adult total (% of people ages 15 and above)","Literacy rate","Literacy rate, adult total","measure","literacy"
-"literacy_rate_youth_female_percent_of_females_ages_15_24","Literacy rate, youth female (% of females ages 15-24)","Literacy rate","Literacy rate, youth female","measure","literacy"
-"literacy_rate_youth_male_percent_of_males_ages_15_24","Literacy rate, youth male (% of males ages 15-24)","Literacy rate","Literacy rate, youth male","measure","literacy"
-"literacy_rate_youth_total_percent_of_people_ages_15_24","Literacy rate, youth total (% of people ages 15-24)","Literacy rate","Literacy rate, youth total","measure","literacy"
-"liver_cancer_deaths_per_100000_men","Liver cancer, deaths per 100 000 men","Liver cancer, deaths","Liver c. deaths /100k men","measure","cancer_male"
-"liver_cancer_deaths_per_100000_women","Liver cancer, deaths per 100 000 women","Liver cancer, deaths","Liver c. deaths /100k women","measure","cancer_female"
-"liver_cancer_new_cases_per_100000_men","Liver cancer, new cases per 100 000 men","Liver cancer, new cases","Liver c. new cases /100k men","measure","cancer_male"
-"liver_cancer_new_cases_per_100000_women","Liver cancer, new cases per 100 000 women","Liver cancer, new cases","Liver c. new cases /100k women","measure","cancer_female"
-"liver_cancer_number_of_female_deaths","Liver cancer, deaths, women","Liver cancer, deaths","Liver c. deaths, women","measure","cancer_female"
-"liver_cancer_number_of_male_deaths","Liver cancer, deaths, men","Liver cancer, deaths","Liver c. deaths, men","measure","cancer_male"
-"liver_cancer_number_of_new_female_cases","Liver cancer, new cases, women","Liver cancer, new cases","Liver c. new cases, women","measure","cancer_female"
-"liver_cancer_number_of_new_male_cases","Liver cancer, new cases, men","Liver cancer, new cases","Liver c. new cases, men","measure","cancer_male"
-"long_term_unemployment_rate_percent","Long term unemployment rate (%)","Long term unemployment","Long term unemployment","measure","unemployment"
-"lung_cancer_deaths_per_100000_men","Lung cancer, deaths per 100 000 men","Lung cancer, deaths","Lung c. deaths /100k men","measure","cancer_male"
-"lung_cancer_deaths_per_100000_women","Lung cancer, deaths per 100 000 women","Lung cancer, deaths","Lung c. deaths /100k women","measure","cancer_female"
-"lung_cancer_new_cases_per_100000_men","Lung cancer, new cases per 100 000 men","Lung cancer, new cases","Lung c. new cases /100k men","measure","cancer_male"
-"lung_cancer_new_cases_per_100000_women","Lung cancer, new cases per 100 000 women","Lung cancer, new cases","Lung c. new cases /100k women","measure","cancer_female"
-"lung_cancer_number_of_female_deaths","Lung cancer, deaths, women","Lung cancer, deaths","Lung c. deaths, women","measure","cancer_female"
-"lung_cancer_number_of_male_deaths","Lung cancer, deaths, men","Lung cancer, deaths","Lung c. deaths, men","measure","cancer_male"
-"lung_cancer_number_of_new_female_cases","Lung cancer, new cases, women","Lung cancer, new cases","Lung c. new cases, women","measure","cancer_female"
-"lung_cancer_number_of_new_male_cases","Lung cancer, new cases, men","Lung cancer, new cases","Lung c. new cases, men","measure","cancer_male"
-"malaria_cases_per_100000_reported","Malaria cases per 100 000 - reported","Malaria cases","Malaria cases /100k people","measure","malaria"
-"malaria_deaths_in_children_1_59_months_per_1000_births","Malaria deaths in children 1-59 months (per 1000 births)","Malaria deaths in children","Malaria deaths ‰ births","measure","causes_of_child_deaths"
-"malaria_deaths_in_children_1_59_months_total_deaths","Malaria deaths in children 1-59 months (total deaths)","Malaria deaths in children","Malaria deaths","measure","causes_of_child_deaths"
-"malaria_deaths_per_100000_reported","Malaria deaths per 100 000 - reported","Malaria deaths","Malaria deaths /100k people","measure","malaria"
-"malaria_number_of_cases_reported","Malaria cases - reported","Malaria cases","Malaria cases","measure","malaria"
-"malaria_number_of_deaths_reported","Malaria deaths - reported","Malaria deaths","Malaria deaths","measure","malaria"
-"male_agriculture_workers_percent_of_male_labour_force","Male agriculture workers (% of male labour force)","Male agriculture workers","Male agriculture workers","measure","employment_by_sector"
-"male_family_workers_percent_of_male_labour_force","Male family workers (% of male labour force)","Male family workers","Male family workers","measure","employment_by_status"
-"male_industry_workers_percent_of_male_labour_force","Male industry workers (% of male labour force)","Male industry workers","Male industry workers","measure","employment_by_sector"
-"male_long_term_unemployment_rate_percent","Male long term unemployment rate (%)","Male long term unemployment","Male long term unemployment","measure","unemployment"
-"male_population_with_projections","Male population, with projections","Male population","Male population, w projections","measure","projections"
-"male_salaried_workers_percent_of_male_labour_force","Male salaried workers (% of male labour force)","Male salaried workers","Male salaried workers","measure","employment_by_status"
-"male_self_employed_percent_of_male_labour_force","Male self-employed (% of male labour force)","Male self-employed","Male self-employed","measure","employment_by_status"
-"male_service_workers_percent_of_male_labour_force","Male service workers (% of male labour force)","Male service workers","Male service workers","measure","employment_by_sector"
-"males_aged_15_24_employment_rate_percent","Employment rate (%), males aged 15-24","Employment rate","Males aged 15-24","measure","employment_rate"
-"males_aged_15_24_unemployment_rate_percent","Unemployment rate (%), males aged 15-24","Unemployment rate","Males aged 15-24","measure","unemployment"
-"males_aged_15_64_labour_force_participation_rate_percent","Labour force participation rate (%), males aged 15-64","Labour force participation rate","Males aged 15-64","measure","labour_force_participation"
-"males_aged_15plus_employment_rate_percent","Employment rate (%), males aged 15+","Employment rate","Males aged 15+","measure","employment_rate"
-"males_aged_15plus_labour_force_participation_rate_percent","Labour force participation rate (%), males aged 15+","Labour force participation rate","Males aged 15+","measure","labour_force_participation"
-"males_aged_15plus_unemployment_rate_percent","Unemployment rate (%), males aged 15+","Unemployment rate","Males aged 15+","measure","unemployment"
-"males_aged_25_54_labour_force_participation_rate_percent","Labour force participation rate (%), males aged 25-54","Labour force participation rate","Males aged 25-54","measure","labour_force_participation"
-"males_aged_25_54_unemployment_rate_percent","Unemployment rate (%), males aged 25-54","Unemployment rate","Males aged 25-54","measure","unemployment"
-"males_aged_55plus_unemployment_rate_percent","Unemployment rate (%), males aged 55+","Unemployment rate","Males aged 55+","measure","unemployment"
-"males_aged_65plus_labour_force_participation_rate_percent","Labour force participation rate (%), males aged 65+","Labour force participation rate","Males aged 65+","measure","labour_force_participation"
-"malnutrition_weight_for_age_percent_of_children_under_5","Malnutrition, weight for age (% of children under 5)","Malnutrition, weight for age","Malnutrition, weight for age","measure","nutrition"
-"market_value_of_listed_companies_percent_of_gdp","Market value of listed companies (% of GDP)","Market value of listed companies","Market value of listed companies","measure","economic_situation"
-"maternal_deaths_lifetime_risk_per_1000","Maternal deaths, lifetime risk (per 1000)","Maternal deaths","Maternal deaths, lifetime risk ‰","measure","maternal_health"
-"maternal_deaths_total_number","Maternal deaths, total number","Maternal deaths","Maternal deaths","measure","maternal_health"
-"maternal_mortality_ratio_per_100000_live_births","Maternal mortality ratio (per 100 000 live births)","Maternal mortality","Maternal mortality","measure","maternal_health"
-"maternal_mortality_ratio_who","Maternal mortality ratio WHO","Maternal mortality","Maternal mortality WHO","measure","alternative_health_data"
-"math_achievement_4th_grade","Math achievement - 4th grade","Math achievement","Math achievement, 4th grade","measure","achievement"
-"math_achievement_8th_grade","Math achievement - 8th grade","Math achievement","Math achievement, 8th grade","measure","achievement"
-"mcv_immunized_percent_of_one_year_olds","MCV immunized (% of one-year-olds)","MCV immunized","MCV immunized","measure","vaccine"
-"mean_years_in_school_men_15_to_24_years","Mean years in school (men 15 to 24 years)","Mean years in school","Men 15 to 24 years","measure","mean_years_in_school"
-"mean_years_in_school_men_25_to_34_years","Mean years in school (men 25 to 34 years)","Mean years in school","Men 25 to 34 years","measure","mean_years_in_school"
-"mean_years_in_school_men_25_years_and_older","Mean years in school (men 25 years and older)","Mean years in school","Men 25 years and older","measure","mean_years_in_school"
-"mean_years_in_school_men_35_to_44_years","Mean years in school (men 35 to 44 years)","Mean years in school","Men 35 to 44 years","measure","mean_years_in_school"
-"mean_years_in_school_men_45_to_54_years","Mean years in school (men 45 to 54 years)","Mean years in school","Men 45 to 54 years","measure","mean_years_in_school"
-"mean_years_in_school_men_55_to_64_years","Mean years in school (men 55 to 64 years)","Mean years in school","Men 55 to 64 years","measure","mean_years_in_school"
-"mean_years_in_school_men_65_plus_years","Mean years in school (men 65 years and older)","Mean years in school","Men 65 years and older","measure","mean_years_in_school"
-"mean_years_in_school_women_15_to_24_years","Mean years in school (women 15 to 24 years)","Mean years in school","Women 15 to 24 years","measure","mean_years_in_school"
-"mean_years_in_school_women_25_to_34_years","Mean years in school (women 25 to 34 years)","Mean years in school","Women 25 to 34 years","measure","mean_years_in_school"
-"mean_years_in_school_women_25_years_and_older","Mean years in school (women 25 years and older)","Mean years in school","Women 25 years and older","measure","mean_years_in_school"
-"mean_years_in_school_women_35_to_44_years","Mean years in school (women 35 to 44 years)","Mean years in school","Women 35 to 44 years","measure","mean_years_in_school"
-"mean_years_in_school_women_45_to_54_years","Mean years in school (women 45 to 54 years)","Mean years in school","Women 45 to 54 years","measure","mean_years_in_school"
-"mean_years_in_school_women_55_to_64_years","Mean years in school (women 55 to 64 years)","Mean years in school","Women 55 to 64 years","measure","mean_years_in_school"
-"mean_years_in_school_women_65_plus_years","Mean years in school (women 65 years and older)","Mean years in school","Women 65 years and older","measure","mean_years_in_school"
-"mean_years_in_school_women_of_reproductive_age_15_to_44","Mean years in school (women of reproductive age 15 to 44)","Mean years in school","Women 15 to 44","measure","mean_years_in_school"
-"mean_years_in_school_women_percent_men_25_to_34_years","Gender ratio of mean years in school (women % men, 25 to 34 years)","Gender ratio of mean years in school","Gender ratio of mean years in school (women % men, 25 to 34 years)","measure","gender_equality"
-"measles_deaths_in_children_1_59_months_per_1000_births","Measles deaths in children 1-59 months (per 1000 births)","Measles deaths in children","Measles deaths ‰ births","measure","causes_of_child_deaths"
-"measles_deaths_in_children_1_59_months_total_deaths","Measles deaths in children 1-59 months (total deaths)","Measles deaths in children","Measles deaths","measure","causes_of_child_deaths"
-"median_age_years","Median age (years)","Median age","Median age","measure","population"
-"medical_doctors_per_1000_people","Medical Doctors (per 1000 people)","Medical Doctors","Medical Doctors ‰ people","measure","health_economics"
-"meningitis_deaths_in_children_1_59_months_per_1000_births","Meningitis deaths in children 1-59 months (per 1000 births)","Meningitis deaths in children","Meningitis deaths ‰ births","measure","causes_of_child_deaths"
-"meningitis_deaths_in_children_1_59_months_total_deaths","Meningitis deaths in children 1-59 months (total deaths)","Meningitis deaths in children","Meningitis deaths","measure","causes_of_child_deaths"
-"merchandise_trade_percent_of_gdp","Merchandise trade (% of GDP)","Merchandise trade","Merchandise trade","measure","debt_trade"
-"military_expenditure_percent_of_gdp","Military expenditure (% of GDP)","Military expenditure","Military expenditure","measure","war_peace"
-"motorcycle_deaths_per_100000_people","Motorcycle deaths (per 100 000 people)","Motorcycle deaths","Motorcycle deaths /100k people","measure","injury_deaths_by_gender_age_road_user"
-"multisector_cross_cutting_aid_given_percent_of_aid","Multisector cross-cutting aid given (% of aid)","Multisector cross-cutting aid given","Multisector cross-cutting aid given","measure","aid_given"
-"municipal_water_withdrawal_cu_meters_per_person","Municipal water withdrawal (cu meters per person)","Municipal water withdrawal","Municipal water withdrawal /person","measure","environment_water"
-"municipal_water_withdrawal_percent_of_total","Municipal water withdrawal (% of total)","Municipal water withdrawal","Municipal water withdrawal","measure","environment_water"
-"murder_per_100000_people","Murders (per 100 000 people)","Murders","Murders /100k people","measure","society"
-"murder_total_deaths","Murders (total deaths)","Murders","Murders","measure","society"
-"murdered_15_29_per_100000_people","Murdered 15-29 (per 100 000 people)","Murdered 15-29","Murdered 15-29 per 100k people","measure","injury_deaths_by_gender_age_road_user"
-"murdered_30_44_per_100000_people","Murdered 30-44, (per 100 000 people)","Murdered 30-44","Murdered 30-44 per 100k people","measure","injury_deaths_by_gender_age_road_user"
-"murdered_45_59_per_100000_people","Murdered 45-59 (per 100 000 people)","Murdered 45-59","Murdered 45-59 per 100k people","measure","injury_deaths_by_gender_age_road_user"
-"murdered_60plus_per_100000_people","Murdered 60+ (per 100 000 people)","Murdered 60+","Murdered 60+ per 100k people","measure","injury_deaths_by_gender_age_road_user"
-"murdered_children_0_14_per_100000_people","Murdered 0-14 (per 100 000 people)","Murdered 0-14","Murdered 0-14 per 100k people","measure","injury_deaths_by_gender_age_road_user"
-"murdered_men_per_100000_people","Murdered men (per 100 000 people)","Murdered men","Murdered men per 100k people","measure","injury_deaths_by_gender_age_road_user"
-"murdered_women_per_100000_people","Murdered women (per 100 000 people)","Murdered women","Murdered women per 100k people","measure","injury_deaths_by_gender_age_road_user"
-"natural_gas_production_per_person","Natural gas production, per person","Natural gas production","Natural gas production /person","measure","natural_gas"
-"natural_gas_production_total","Natural gas production, total","Natural gas production","Natural gas production","measure","natural_gas"
-"natural_gas_proved_reserves_total","Natural gas proved reserves, total","Natural gas proved reserves","Natural gas reserves","measure","natural_gas"
-"natural_gas_proven_reserves_per_person","Natural gas proven reserves, per person","Natural gas proved reserves","Natural gas reserves /person","measure","natural_gas"
-"ncd_deaths_in_children_1_59_months_per_1000_births","NCD deaths in children 1-59 months (per 1000 births)","NCD deaths in children","NCD deaths ‰ births","measure","causes_of_child_deaths"
-"ncd_deaths_in_children_1_59_months_total_deaths","NCD deaths in children 1-59 months (total deaths)","NCD deaths in children","NCD deaths","measure","causes_of_child_deaths"
-"net_barter_terms_of_trade_2000_100","Net barter terms of trade (2000 = 100)","Net barter terms of trade","Net barter terms of trade","measure","advanced_debt_trade"
-"new_births_total_number_estimated","New births (total number, estimated)","New births","New births","measure","population_growth"
-"newborn_deaths","Newborn deaths","Newborn deaths","Newborn deaths","measure","newborn_infants"
-"newborn_mortality_rate_per_1000","Newborn mortality rate per 1000","Newborn mortality rate","Newborn mortality rate","measure","newborn_infants"
-"newly_hiv_infected_number_all_ages","Newly HIV infected (number, all ages)","Newly HIV infected","Newly HIV infected","measure","hiv"
-"newly_hiv_infected_percent_age_15_49","Newly HIV infected (%, age 15-49)","Newly HIV infected","Newly HIV infected (%, age 15-49)","measure","hiv"
-"nuclear_power_generation_per_person","Nuclear electricity production, per person","Nuclear electricity production","Nuclear electricity production /person","measure","nuclear"
-"nuclear_power_generation_total","Nuclear electricity production, total","Nuclear electricity production","Nuclear electricity production","measure","nuclear"
-"number_of_child_deaths","Number of child deaths","Number of child deaths","Number of child deaths","measure","health"
-"number_of_people_in_poverty","Number of people in poverty","Number of people in poverty","Number of people in poverty","measure","poverty_inequality"
-"oil_consumption_per_cap","Oil consumption, per person","Oil consumption","Oil consumption /person","measure","oil"
-"oil_consumption_total","Oil consumption, total","Oil consumption","Oil consumption","measure","oil"
-"oil_production_per_person","Oil production, per person","Oil production","Oil production /person","measure","oil"
-"oil_production_total","Oil production, total","Oil production","Oil production","measure","oil"
-"oil_proved_reserves_total","Oil proved reserves, total","Oil proved reserves","Oil proved reserves","measure","oil"
-"oil_proven_reserves_per_person","Oil proven reserves, per person","Oil proved reserves","Oil proven reserves /person","measure","oil"
-"old_version_of_income_per_person_version_3","Old version of Income per person (version 3)","Old version of Income per person (version 3)","Old version of Income per person (version 3)","measure","alternative_gdp_data"
-"old_version_of_income_per_person_version_8","Old version of Income per person (version 8)","Old version of Income per person (version 8)","Old version of Income per person (version 8)","measure","alternative_gdp_data"
-"other_deaths_in_newborn_per_1000_births","Other deaths in newborn (per 1000 births)","Other deaths in newborn","Other deaths ‰ births","measure","causes_of_newborn_deaths"
-"other_deaths_in_newborn_total_deaths","Other deaths in newborn (total deaths)","Other deaths in newborn","Other deaths","measure","causes_of_newborn_deaths"
-"other_infections_deaths_in_children_1_59_months_per_1000_birt","Other infections deaths in children 1-59 months (per 1000 births)","Other infections deaths","Other infections deaths ‰ births","measure","causes_of_child_deaths"
-"other_infections_deaths_in_children_1_59_months_total_deaths","Other infections deaths in children 1-59 months (total deaths)","Other infections deaths","Other infections deaths","measure","causes_of_child_deaths"
-"other_social_services_aid_given_percent_of_aid","Other social services aid given (% of aid)","Other social services aid given","Other social services aid given","measure","aid_given"
-"out_of_pocket_share_of_total_health_spending_percent","Out-of-pocket total health spending share (%)","Out-of-pocket total health spending","Out-of-pocket total health spending","measure","health_economics"
-"pab_immunized_percent_of_newborns","PAB immunized (% of newborns)","PAB immunized","PAB immunized","measure","vaccine"
-"patent_applications_total","Patent applications (total)","Patent applications","Patent applications","measure","economic_situation"
-"patents_granted_total","Patents granted (total)","Patents granted","Patents granted","measure","economic_situation"
-"patents_in_force_total","Patents in force (total)","Patents in force","Patents in force","measure","economic_situation"
-"people_living_with_hiv_number_all_ages","People living with HIV (number, all ages)","People living with HIV","People living with HIV","measure","hiv"
-"personal_computers_per_100_people","Personal computers (per 100 people)","Personal computers","Personal computers /100 people","measure","communication"
-"personal_computers_total","Personal computers (total)","Personal computers","Personal computers","measure","communication"
-"pertussis_deaths_in_children_1_59_months_per_1000_births","Pertussis deaths in children 1-59 months (per 1000 births)","Pertussis deaths in children","Pertussis deaths ‰ births","measure","causes_of_child_deaths"
-"pertussis_deaths_in_children_1_59_months_total_deaths","Pertussis deaths in children 1-59 months (total deaths)","Pertussis deaths in children","Pertussis deaths","measure","causes_of_child_deaths"
-"plane_crash_affected_annual_number","Plane crash affected annual number","Plane crash affected","Plane crash affected","measure","disasters"
-"plane_crash_deaths_annual_number","Plane crash deaths annual number","Plane crash deaths","Plane crash deaths","measure","disasters"
-"planted_forest_area_ha","Planted forest area (ha)","Planted forest area","Planted forest area","measure","forestry"
-"pneumonia_deaths_in_children_1_59_months_per_1000_births","Pneumonia deaths in children 1-59 months (per 1000 births)","Pneumonia deaths in children","Pneumonia deaths ‰ births","measure","causes_of_child_deaths"
-"pneumonia_deaths_in_children_1_59_months_total_deaths","Pneumonia deaths in children 1-59 months (total deaths)","Pneumonia deaths in children","Pneumonia deaths in children","measure","causes_of_child_deaths"
-"pneumonia_deaths_in_newborn_per_1000_births","Pneumonia deaths in newborn (per 1000 births)","Pneumonia deaths in newborn","Pneumonia deaths ‰ births","measure","causes_of_newborn_deaths"
-"pneumonia_deaths_in_newborn_total_deaths","Pneumonia deaths in newborn (total deaths)","Pneumonia deaths in newborn","Pneumonia deaths in newborn","measure","causes_of_newborn_deaths"
-"poisonings_deaths_per_100000_people","Poisonings, deaths (per 100 000 people)","Poisonings, deaths","Poisonings, deaths /100k people","measure","injuries_and_accidents"
-"population_aged_0_4_years_both_sexes_percent","Population aged 0-4, both sexes (%)","Population aged 0-4","Population aged 0-4, (%)","measure","both_sexes_by_age"
-"population_aged_0_4_years_female_percent","Population aged 0-4, female (%)","Population aged 0-4","Population aged 0-4, F (%)","measure","female_by_age"
-"population_aged_0_4_years_male_percent","Population aged 0-4, male (%)","Population aged 0-4","Population aged 0-4, M (%)","measure","male_by_age"
-"population_aged_0_4_years_total_number","Population aged 0-4, total number","Population aged 0-4","Population aged 0-4, total","measure","both_sexes_by_age_total"
-"population_aged_10_14_years_both_sexes_percent","Population aged 10-14, both sexes (%)","Population aged 10-14","Population aged 10-14, (%)","measure","both_sexes_by_age"
-"population_aged_10_14_years_female_percent","Population aged 10-14, female (%)","Population aged 10-14","Population aged 10-14, F (%)","measure","female_by_age"
-"population_aged_10_14_years_male_percent","Population aged 10-14, male (%)","Population aged 10-14","Population aged 10-14, M (%)","measure","male_by_age"
-"population_aged_10_14_years_total_number","Population aged 10-14, total number","Population aged 10-14","Population aged 10-14, total","measure","both_sexes_by_age_total"
-"population_aged_15_19_years_both_sexes_percent","Population aged 15-19, both sexes (%)","Population aged 15-19","Population aged 15-19, (%)","measure","both_sexes_by_age"
-"population_aged_15_19_years_female_percent","Population aged 15-19, female (%)","Population aged 15-19","Population aged 15-19, F (%)","measure","female_by_age"
-"population_aged_15_19_years_male_percent","Population aged 15-19, male (%)","Population aged 15-19","Population aged 15-19, M (%)","measure","male_by_age"
-"population_aged_15_19_years_total_number","Population aged 15-19, total number","Population aged 15-19","Population aged 15-19, total","measure","both_sexes_by_age_total"
-"population_aged_20_39_years_both_sexes_percent","Population aged 20-39, both sexes (%)","Population aged 20-39","Population aged 20-39, (%)","measure","both_sexes_by_age"
-"population_aged_20_39_years_female_percent","Population aged 20-39, female (%)","Population aged 20-39","Population aged 20-39, F (%)","measure","female_by_age"
-"population_aged_20_39_years_male_percent","Population aged 20-39, male (%)","Population aged 20-39","Population aged 20-39, M (%)","measure","male_by_age"
-"population_aged_20_39_years_total_number","Population aged 20-39, total number","Population aged 20-39","Population aged 20-39, total","measure","both_sexes_by_age_total"
-"population_aged_40_59_years_both_sexes_percent","Population aged 40-59, both sexes (%)","Population aged 40-59","Population aged 40-59, (%)","measure","both_sexes_by_age"
-"population_aged_40_59_years_female_percent","Population aged 40-59, female (%)","Population aged 40-59","Population aged 40-59, F (%)","measure","female_by_age"
-"population_aged_40_59_years_male_percent","Population aged 40-59, male (%)","Population aged 40-59","Population aged 40-59, M (%)","measure","male_by_age"
-"population_aged_40_59_years_total_number","Population aged 40-59, total number","Population aged 40-59","Population aged 40-59, total","measure","both_sexes_by_age_total"
-"population_aged_5_9_years_both_sexes_percent","Population aged 5-9, both sexes (%)","Population aged 5-9","Population aged 5-9, (%)","measure","both_sexes_by_age"
-"population_aged_5_9_years_female_percent","Population aged 5-9, female (%)","Population aged 5-9","Population aged 5-9, F (%)","measure","female_by_age"
-"population_aged_5_9_years_male_percent","Population aged 5-9, male (%)","Population aged 5-9","Population aged 5-9, M (%)","measure","male_by_age"
-"population_aged_5_9_years_total_number","Population aged 5-9, total number","Population aged 5-9","Population aged 5-9, total","measure","both_sexes_by_age_total"
-"population_aged_60plus_years_both_sexes_percent","Population aged 60+, both sexes (%)","Population aged 60+","Population aged 60+, (%)","measure","both_sexes_by_age"
-"population_aged_60plus_years_female_percent","Population aged 60+, female (%)","Population aged 60+","Population aged 60+, F (%)","measure","female_by_age"
-"population_aged_60plus_years_male_percent","Population aged 60+, male (%)","Population aged 60+","Population aged 60+, M (%)","measure","male_by_age"
-"population_aged_60plus_years_total_number","Population aged 60+, total number","Population aged 60+","Population aged 60+, total","measure","both_sexes_by_age_total"
-"population_density_per_square_km","Population density (per square km)","Population density","Population density","measure","population"
-"population_growth_annual_percent","Population growth (annual %)","Population growth","Population growth","measure","population_growth"
-"population_growth_annual_percent_with_projections","Population growth (annual %), with projections","Population growth","Population growth, w projections","measure","projections"
-"population_in_urban_agglomerations_m_1_million_percent_of_total","Population in urban agglomerations > 1 million (% of total population)","Population in urban agglomerations","Population in urban agglomerations","measure","urbanization"
-"population_policies_aid_given_percent_of_aid","Population policies aid given (% of aid)","Population policies aid given","Population policies aid given","measure","aid_given"
-"population_total","Population, total","Population","Population","measure","population"
-"poverty_percent_people_below_310_a_day","Extreme poverty (% people below $3.10 a day)","Extreme poverty","Extreme poverty","measure","poverty_inequality"
-"prematurity_deaths_in_newborn_per_1000_births","Prematurity deaths in newborn (per 1000 births)","Prematurity deaths in newborn","Prematurity deaths ‰","measure","causes_of_newborn_deaths"
-"prematurity_deaths_in_newborn_total_deaths","Prematurity deaths in newborn (total deaths)","Prematurity deaths in newborn","Prematurity deaths","measure","causes_of_newborn_deaths"
-"present_value_of_debt_percent_of_gni","Present value of debt (% of GNI)","Present value of debt","Present value of debt","measure","advanced_debt_trade"
-"primary_completion_rate_total_percent_of_relevant_age_group","Primary school completion (% of relevant age group)","Primary school completion","Primary school completion","measure","school_enrolment"
-"primary_forest_area_ha","Primary forest area (ha)","Primary forest area","Primary forest area","measure","forestry"
-"primary_school_completion_percent_of_boys","Primary school completion (% of boys)","Primary school completion","Boys primary school completion","measure","school_enrolment"
-"primary_school_completion_percent_of_girls","Primary school completion (% of girls)","Primary school completion","Girls primary school completion","measure","school_enrolment"
-"private_share_of_total_health_spending_percent","Private share of health spending (%)","Private share of health spending","Private share of health spending","measure","health_economics"
-"privately_owned_forest_land_percent","Privately owned forest land (%)","Privately owned forest land","Privately owned forest land","measure","forestry"
-"privately_owned_other_wooded_land_percent","Privately owned other wooded land (%)","Privately owned other wooded land","Privately owned other wooded land","measure","forestry"
-"production_sector_aid_given_percent_of_aid","Production sector aid given (% of aid)","Production sector aid given","Production sector aid given","measure","aid_given"
-"prostate_cancer_deaths_per_100000_men","Prostate cancer, deaths per 100 000 men","Prostate cancer, deaths","Prostate c. deaths /100k men","measure","cancer_male"
-"prostate_cancer_new_cases_per_100000_men","Prostate cancer, new cases per 100 000 men","Prostate cancer, new cases","Prostate c. new cases /100k men","measure","cancer_male"
-"prostate_cancer_number_of_male_deaths","Prostate cancer, deaths, men","Prostate cancer, deaths","Prostate c. deaths","measure","cancer_male"
-"prostate_cancer_number_of_new_male_cases","Prostate cancer, new cases, men","Prostate cancer, new cases","Prostate c. new cases","measure","cancer_male"
-"pump_price_for_gasoline_us_per_liter","Pump price for gasoline (US$ per liter)","Pump price for gasoline","Pump price for gasoline","measure","energy"
-"ratio_of_girls_to_boys_in_primary_and_secondary_education_perc","Ratio girls/boys in school, primary and secondary education (%)","Ratio girls/boys in school","Ratio girls/boys in school","measure","gender_equality"
-"ratio_of_young_literate_females_to_males_percent_ages_15_24","Ratio of young literate females to males (% ages 15-24)","Young literate females/males ratio","Young literate females/males ratio","measure","gender_equality"
-"renewable_water_cu_meters_per_person","Renewable water (cu meters per person)","Renewable water","Renewable water","measure","environment_water"
-"residential_electricity_use_per_person","Residential electricity use, per person","Residential electricity use","Residential electricity use /person","measure","electricity"
-"residential_electricity_use_total","Residential electricity use, total","Residential electricity use","Residential electricity use","measure","electricity"
-"residential_energy_use_percent","Residential energy use (%)","Residential energy use","Residential energy use","measure","alternative_energy"
-"roads_paved_percent_of_total_roads","Roads paved (% of total roads)","Roads paved","Roads paved","measure","traffic"
-"rural_poverty_percent_rural_people_below_national_rural","Rural poverty (% rural people below national rural poverty line)","Rural poverty","Rural poverty","measure","poverty_inequality"
-"salaried_workers_percent_of_labour_force","Salaried workers (% of labour force)","Salaried workers","Salaried workers","measure","employment_by_status"
-"self_employed_percent_of_labour_force","Self-employed (% of labour force)","Self-employed","Self-employed","measure","employment_by_status"
-"sepsis_deaths_in_newborn_per_1000_births","Sepsis deaths in newborn (per 1000 births)","Sepsis deaths in newborn","Sepsis deaths ‰ births","measure","causes_of_newborn_deaths"
-"sepsis_deaths_in_newborn_total_deaths","Sepsis deaths in newborn (total deaths)","Sepsis deaths in newborn","Sepsis deaths","measure","causes_of_newborn_deaths"
-"service_workers_percent_of_labour_force","Service workers (% of labour force)","Service workers","Service workers","measure","employment_by_sector"
-"services_percent_of_gdp","Services (% of GDP)","Services (% of GDP)","Services (% of GDP)","measure","sectors"
-"sex_ratio_0_14_years","Sex ratio (0-14 years)","Sex ratio (0-14 years)","Sex ratio (0-14 years)","measure","sex_ratio"
-"sex_ratio_15_24_years","Sex ratio (15-24 years)","Sex ratio (15-24 years)","Sex ratio (15-24 years)","measure","sex_ratio"
-"sex_ratio_15_49_years","Sex ratio (15-49 years)","Sex ratio (15-49 years)","Sex ratio (15-49 years)","measure","sex_ratio"
-"sex_ratio_above_50_years","Sex ratio (above 50 years)","Sex ratio (above 50 years)","Sex ratio (above 50 years)","measure","sex_ratio"
-"sex_ratio_all_age_groups","Sex ratio (all age groups)","Sex ratio (all age groups)","Sex ratio (all age groups)","measure","sex_ratio"
-"smoking_adults_percent_of_population_over_age_15","Smoking adults (% of population over age 15)","Smoking adults","Smoking adults","measure","risk_factors"
-"smoking_men_percent_of_men_over_age_15","Smoking men (% of men over age 15)","Smoking men","Smoking men","measure","risk_factors"
-"smoking_women_percent_of_women_over_age_15","Smoking women (% of women over age 15)","Smoking women","Smoking women","measure","risk_factors"
-"stillbirths_per_1000_births","Stillbirths (per 1000 births)","Stillbirths","Stillbirths","measure","maternal_health"
-"stomach_cancer_deaths_per_100000_men","Stomach cancer deaths per 100 000 men","Stomach cancer deaths","Stomach c. deaths /100k men","measure","cancer_male"
-"stomach_cancer_deaths_per_100000_women","Stomach cancer deaths per 100 000 women","Stomach cancer deaths","Stomach c. deaths /100k women","measure","cancer_female"
-"stomach_cancer_new_cases_per_100000_men","Stomach cancer new cases per 100 000 men","Stomach cancer new cases","Stomach c. new cases /100k men","measure","cancer_male"
-"stomach_cancer_new_cases_per_100000_women","Stomach cancer new cases per 100 000 women","Stomach cancer new cases","Stomach c. new cases /100k women","measure","cancer_female"
-"stomach_cancer_number_of_female_deaths","Stomach cancer deaths, women","Stomach cancer deaths","Stomach c. deaths, women","measure","cancer_female"
-"stomach_cancer_number_of_male_deaths","Stomach cancer deaths, men","Stomach cancer deaths","Stomach c. deaths, men","measure","cancer_male"
-"stomach_cancer_number_of_new_female_cases","Stomach cancer new cases, women","Stomach cancer new cases","Stomach c. new cases, women","measure","cancer_female"
-"stomach_cancer_number_of_new_male_cases","Stomach cancer new cases, men","Stomach cancer new cases","Stomach c. new cases, men","measure","cancer_male"
-"storm_affected_annual_number","Storm affected annual number","Storm affected","Storm affected","measure","disasters"
-"storm_deaths_annual_number","Storm deaths annual number","Storm deaths","Storm deaths","measure","disasters"
-"subsistence_incomes_per_person","Subsistence incomes per person","Subsistence incomes per person","Subsistence incomes per person","measure","alternative_gdp_data"
-"sugar_per_person_g_per_day","Sugar per person (g per day)","Sugar per person","Sugar per person","measure","nutrition"
-"suicide_age_0_14_per_100000_people","Suicide, age 0-14 (per 100 000 people)","Suicide, age 0-14","Suicide, age 0-14 /100k people","measure","injury_deaths_by_gender_age_road_user"
-"suicide_age_15_29_per_100000_people","Suicide, age 15-29 (per 100 000 people)","Suicide, age 15-29","Suicide, age 15-29 /100k people","measure","injury_deaths_by_gender_age_road_user"
-"suicide_age_30_44_per_100000_people","Suicide, age 30-44 (per 100 000 people)","Suicide, age 30-44","Suicide, age 30-44 /100k people","measure","injury_deaths_by_gender_age_road_user"
-"suicide_age_45_59_per_100000_people","Suicide, age 45-59 (per 100 000 people)","Suicide, age 45-59","Suicide, age 45-59 /100k people","measure","injury_deaths_by_gender_age_road_user"
-"suicide_age_60plus_per_100000_people","Suicide, age 60+ (per 100 000 people)","Suicide, age 60+","Suicide, age 60+ /100k people","measure","injury_deaths_by_gender_age_road_user"
-"suicide_men_per_100000_people","Suicide, men (per 100 000 people)","Suicide, men","Suicide, men /100k people","measure","injury_deaths_by_gender_age_road_user"
-"suicide_per_100000_people","Suicides (per 100 000 people)","Suicides","Suicides /100k people","measure","mental_health"
-"suicide_total_deaths","Suicide, total deaths","Suicide, total deaths","Suicide, total deaths","measure","mental_health"
-"suicide_women_per_100000_people","Suicide women, (per 100 000 people)","Suicide, women","Suicide women, /100k people","measure","injury_deaths_by_gender_age_road_user"
-"sulfur_emissions_per_person_kg","Sulfur emissions per person (kg)","Sulfur emissions per person","Sulfur emissions /person","measure","emissions"
-"surface_area_sq_km","Surface area (sq. km)","Surface area","Surface area","measure","geography"
-"surviving_kids_per_woman","Surviving kids per woman","Surviving kids per woman","Surviving kids per woman","measure","families"
-"tax_revenue_percent_of_gdp","Tax revenue (% of GDP)","Tax revenue","Tax revenue","measure","economic_situation"
-"tb_programme_dots_population_coverage_percent","TB programme (DOTS) coverage (%)","TB programme (DOTS) coverage","TB programme (DOTS) coverage","measure","tb_tuberculosis"
-"tb_with_hivplus_deaths_per_100000_estimated","TB deaths per 100 000, estimated, TB with HIV+","TB deaths per 100 000","TB deaths /100k, est., TB with HIV+","measure","tb_tuberculosis"
-"tb_with_hivplus_existing_cases_per_100000_estimated","TB existing cases per 100 000, estimated, TB with HIV+","TB existing cases per 100 000","TB existing cases /100k, est., TB with HIV+","measure","tb_tuberculosis"
-"tb_with_hivplus_new_cases_per_100000_estimated","TB new cases per 100 000, estimated, TB with HIV+","TB new cases per 100 000","TB new cases /100k, est., TB with HIV+","measure","tb_tuberculosis"
-"tb_with_hivplus_number_of_deaths_estimated","TB deaths, estimated, TB with HIV+","TB deaths","TB deaths, estimated, TB with HIV+","measure","tb_tuberculosis"
-"tb_with_hivplus_number_of_existing_cases_estimated","TB existing cases, estimated, TB with HIV+","TB existing cases","TB existing cases, estimated, TB with HIV+","measure","tb_tuberculosis"
-"tb_with_hivplus_number_of_new_cases_estimated","TB new cases, estimated, TB with HIV+","TB new cases","TB new cases, estimated, TB with HIV+","measure","tb_tuberculosis"
-"teen_fertility_rate_births_per_1000_women_ages_15_19","Teen fertility rate (births per 1000 women ages 15-19)","Teen fertility rate","Teen fertility rate","measure","population_growth"
-"tetanus_deaths_in_newborn_per_1000_births","Tetanus deaths in newborn (per 1000 births)","Tetanus deaths in newborn","Tetanus deaths ‰ births","measure","causes_of_newborn_deaths"
-"tetanus_deaths_in_newborn_total_deaths","Tetanus deaths in newborn (total deaths)","Tetanus deaths in newborn","Tetanus deaths","measure","causes_of_newborn_deaths"
-"total_gdp_ppp_inflation_adjusted","Total GDP (PPP$, inflation-adjusted)","Total GDP","Total GDP (PPP$, inflation-adjusted)","measure","incomes_growth"
-"total_gdp_us_inflation_adjusted","Total GDP (US$, inflation-adjusted)","Total GDP","Total GDP (US$, inflation-adjusted)","measure","incomes_growth"
-"total_gni_ppp_current_international","Total GNI (PPP, current international $)","Total GNI","Total GNI","measure","incomes_growth"
-"total_health_spending_per_person_international_dollar","Total health spending per person (international $)","Total health spending per person","Total health spending /person, intl. $","measure","health_economics"
-"total_health_spending_per_person_us","Total health spending per person (US$)","Total health spending per person","Total health spending /person, US$","measure","health_economics"
-"total_health_spending_percent_of_gdp","Total health spending (% of GDP)","Total health spending","Total health spending (% of GDP)","measure","health_economics"
-"total_number_of_dollar_billionaires","Total number of dollar billionaires","Dollar billionaires","Dollar billionaires","measure","poverty_inequality"
-"total_population_with_projections","Total population, with projections","Total population","Total population, w projections","measure","projections"
-"total_reserves_percent_of_debt_to_foreigners","Total reserves (% of debt to foreigners)","Total reserves","Total reserves","measure","debt_trade"
-"total_sulfur_emission_kilotonnes","Total sulfur emission (kilotonnes)","Total sulfur emission","Total sulfur emission","measure","emissions"
-"total_water_withdrawal_billion_cu_meters","Total water withdrawal (billion cu meters)","Total water withdrawal","Total water withdrawal","measure","environment_water"
-"trade_balance_percent_of_gdp","Trade balance (% of GDP)","Trade balance","Trade balance, % of GDP","measure","debt_trade"
-"trade_balance_us_not_inflation_adjusted","Trade balance (US$, not inflation-adjusted)","Trade balance","Trade balance, US $","measure","debt_trade"
-"traffic_deaths_men_per_100000_people","Traffic deaths men (per 100 000 people)","Traffic deaths men","Traffic deaths men /100k","measure","injury_deaths_by_gender_age_road_user"
-"traffic_deaths_per_100000_people","Traffic deaths (per 100 000 people)","Traffic deaths","Traffic deaths /100k people","measure","traffic"
-"traffic_deaths_women_per_100000_people","Traffic deaths women (per 100 000 people)","Traffic deaths women","Traffic deaths women /100k","measure","injury_deaths_by_gender_age_road_user"
-"traffic_mortality_15_29_per_100000_people","Traffic mortality 15-29 (per 100 000 people)","Traffic mortality 15-29","Traffic mortality 15-29 /100k","measure","injury_deaths_by_gender_age_road_user"
-"traffic_mortality_30_44_per_100000_people","Traffic mortality 30-44 (per 100 000 people)","Traffic mortality 30-44","Traffic mortality 30-44 /100k","measure","injury_deaths_by_gender_age_road_user"
-"traffic_mortality_45_59_per_100000_people","Traffic mortality 45-59 (per 100 000 people)","Traffic mortality 45-59","Traffic mortality 45-59 /100k","measure","injury_deaths_by_gender_age_road_user"
-"traffic_mortality_60plus_per_100000_people","Traffic mortality 60+ (per 100 000 people)","Traffic mortality 60+","Traffic mortality 60+ /100k","measure","injury_deaths_by_gender_age_road_user"
-"traffic_mortality_children_0_14_per_100000_people","Traffic mortality 0-14 (per 100 000 people)","Traffic mortality 0-14","Traffic mortality 0-14 /100k","measure","injury_deaths_by_gender_age_road_user"
-"traffic_total_deaths","Traffic deaths (total)","Traffic deaths","Traffic deaths","measure","traffic"
-"tsunami_affected_annual_number","Tsunami affected annual number","Tsunami affected","Tsunami affected","measure","disasters"
-"tsunami_deaths_annual_number","Tsunami deaths annual number","Tsunami deaths","Tsunami deaths","measure","disasters"
-"under_five_mortality_from_cme_per_1000_born","Under-five mortality from CME (per 1000 born)","Under-five mortality","u5mr from CME","measure","alternative_child_mortality_data"
-"under_five_mortality_from_ihme_per_1000_born","Under-five mortality from IHME (per 1000 born)","Under-five mortality","u5mr from IHME","measure","alternative_child_mortality_data"
-"underweight_children","Underweight children","Underweight children","Underweight children","measure","health"
-"urban_population","Urban population","Urban population","Urban population","measure","urbanization"
-"urban_population_growth_annual_percent","Urban population growth (annual %)","Urban population growth","Urban population growth","measure","urbanization"
-"urban_population_percent_of_total","Urban population (% of total)","Urban population","Urban population","measure","urbanization"
-"urban_poverty_percent_urban_people_below_national_urban","Urban poverty (% urban people below national urban poverty line)","Urban poverty","Urban poverty","measure","poverty_inequality"
-"water_and_sanitation_aid_given_percent_of_aid","Water and sanitation aid given (% of aid)","Water and sanitation aid given","Water and sanitation aid given","measure","aid_given"
-"water_withdrawal_cu_meters_per_person","Water withdrawal (cu meters per person)","Water withdrawal","Water withdrawal /person","measure","environment_water"
-"wood_removal_cubic_meters","Wood removal (cubic meters)","Wood removal","Wood removal","measure","forestry"
-"working_hours_per_week","Working hours per week","Working hours per week","Working hours per week","measure","economic_situation"
-"year_categorization_1820_2010","Year categorization 1820-2010","Year categorization 1820-2010","Year categorization 1820-2010","measure","_none"
-"year_categorization_1950","Year categorization 1950-","Year categorization 1950-","Year categorization 1950-","measure","_none"
-"yearly_co2_emissions_1000_tonnes","Yearly CO2 emissions (1000 tonnes)","CO2 emissions","CO2 emissions yearly","measure","emissions"
-"fixed_line_subscribers_per_100_people","Fixed line subscribers (per 100 people)","Fixed line subscribers (per 100 people)","Fixed line subscribers (per 100 people)","measure","communication"
-"poverty_percent_people_below_550_a_day","Extreme poverty (% people below $5.50 a day)","Extreme poverty","Extreme poverty","measure","poverty_inequality"
-"poverty_percent_people_below_320_a_day","Extreme poverty (% people below $3.20 a day)","Extreme poverty","Extreme poverty","measure","poverty_inequality"
-"internet_users","Individuals using the Internet (% of population)","Individuals using the Internet","Internet users","measure","communication"
+concept,name,name_short,name_catalog,concept_type,tags,indicator_url,description,description_long,source,source_long,source_url
+20120905_extreme_poverty_percent_people_below_125_a_day,Extreme poverty (% people below $1.25 a day) version 20120905,Extreme poverty,Extreme poverty ($1.25) v20120905,measure,alternative_poverty_measures,,,,,,
+adults_with_hiv_percent_age_15_49,"Adults with HIV (%, age 15-49)",Adults with HIV,"Adults with HIV (%, age 15-49)",measure,hiv,,,,,,
+age_at_1st_marriage_women,Age at 1st marriage (women),Age at 1st marriage,Age at 1st marriage (women),measure,population,,,,,,
+aged_15_24_employment_rate_percent,Aged 15-24 employment rate (%),Employment rate (%),Aged 15-24,measure,employment_rate,,,,,,
+aged_15_24_unemployment_rate_percent,Aged 15-24 unemployment rate (%),Unemployment rate (%),Aged 15-24,measure,unemployment,,,,,,
+aged_15_64_labour_force_participation_rate_percent,Aged 15-64 labour force participation rate (%),Labour force participation rate (%),Aged 15-64,measure,labour_force_participation,,,,,,
+aged_15plus_employment_rate_percent,Aged 15+ employment rate (%),Employment rate (%),Aged 15+,measure,employment_rate,,,,,,
+aged_15plus_labour_force_participation_rate_percent,Aged 15+ labour force participation rate (%),Labour force participation rate (%),Aged 15+,measure,labour_force_participation,,,,,,
+aged_15plus_unemployment_rate_percent,Aged 15+ unemployment rate (%),Unemployment rate (%),Aged 15+,measure,unemployment,,,,,,
+aged_25_54_labour_force_participation_rate_percent,Aged 25-54 labour force participation rate (%),Labour force participation rate (%),Aged 25-54,measure,labour_force_participation,,,,,,
+aged_25_54_unemployment_rate_percent,Aged 25-54 unemployment rate (%),Unemployment rate (%),Aged 25-54,measure,unemployment,,,,,,
+aged_55plus_unemployment_rate_percent,Aged 55+ unemployment rate (%),Unemployment rate (%),Aged 55+,measure,unemployment,,,,,,
+aged_65plus_labour_force_participation_rate_percent,Aged 65+ labour force participation rate (%),Labour force participation rate (%),Aged 65+,measure,labour_force_participation,,,,,,
+agricultural_land_percent_of_land_area,Agricultural land (% of land area),Agricultural land,Agricultural land,measure,geography,,,,,,
+agricultural_water_withdrawal_percent_of_total,Agricultural water withdrawal (% of total),Agricultural water withdrawal,Agricultural water withdrawal,measure,environment_water,,,,,,
+agriculture_percent_of_gdp,Agriculture (% of GDP),Agriculture,Agriculture,measure,sectors,,,,,,
+agriculture_workers_percent_of_labour_force,Agriculture workers (% of labour force),Agriculture workers,Agriculture workers,measure,employment_by_sector,,,,,,
+aid_given_2007_us,Aid given (2007 US$),Aid given,Aid given,measure,aid_given,,,,,,
+aid_given_per_person_2007_us,Aid given per person (2007 US$),Aid given per person,Aid given per person,measure,aid_given,,,,,,
+aid_given_percent_of_gni,Aid given (% of GNI),Aid given (% of GNI),Aid given (% of GNI),measure,aid_given,,,,,,
+aid_received_per_person_current_us,Aid received per person (current US$),Aid received per person,Aid received per person,measure,aid_received,,,,,,
+aid_received_percent_of_gni,Aid received (% of GNI),Aid received (% of GNI),Aid received (% of GNI),measure,aid_received,,,,,,
+aid_received_total_us_inflation_adjusted,"Aid received, total (US$, inflation-adjusted)","Aid received, total","Aid received, total",measure,aid_received,,,,,,
+alcohol_consumption_per_adult_15plus_litres,Alcohol consumption per adult 15+ (litres),Alcohol consumption,Alcohol consumption,measure,risk_factors,,,,,,
+all_causes_deaths_in_children_1_59_months_per_1000_births,All causes deaths in children 1-59 months (per 1000 births),All causes deaths in children,All causes ‰ births,measure,causes_of_child_deaths,,,,,,
+all_causes_deaths_in_children_1_59_months_total_deaths,All causes deaths in children 1-59 months (total deaths),All causes deaths in children,All causes (total deaths),measure,causes_of_child_deaths,,,,,,
+all_causes_deaths_in_newborn_per_1000_births,All causes deaths in newborn (per 1000 births),All causes deaths in newborn,All causes ‰ births,measure,causes_of_newborn_deaths,,,,,,
+all_causes_deaths_in_newborn_total_deaths,All causes deaths in newborn (total deaths),All causes deaths in newborn,All causes (total deaths),measure,causes_of_newborn_deaths,,,,,,
+all_forms_of_tb_deaths_per_100000_estimated,"TB deaths per 100 000, estimated, all forms of TB",TB deaths per 100 000,"TB deaths /100k, est., all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_detection_rate_percent,"TB detection rate, all forms of TB (%)",TB detection rate,"TB detection rate, all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_detection_rate_percent_dots_only,"TB detection rate, all forms of TB (%) - DOTS only",TB detection rate,"TB detection rate, all forms, DOTS",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_existing_cases_per_100000_estimated,"TB existing cases per 100 000, estimated, all forms of TB",TB existing cases per 100 000,"TB existing cases /100k, est. all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_new_cases_per_100000_estimated,"TB new cases per 100 000, estimated, all forms of TB",TB new cases per 100 000,"TB new cases /100k, est. all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_new_cases_per_100000_reported,"TB new cases per 100 000, reported, all forms of TB",TB new cases per 100 000,"TB new cases /100k, reported, all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_number_of_deaths_estimated,"TB deaths, estimated, all forms of TB",TB deaths,"TB deaths, est., all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_number_of_existing_cases_estimated,"TB existing cases, estimated, all forms of TB",TB existing cases,"TB existing cases, est., all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_number_of_new_cases_estimated,"TB new cases, estimated, all forms of TB",TB new cases,"TB new cases, est., all forms",measure,tb_tuberculosis,,,,,,
+all_forms_of_tb_number_of_new_cases_reported,"TB new cases, reported, all forms of TB",TB new cases,"TB new cases, reported, all forms",measure,tb_tuberculosis,,,,,,
+alternative_gdp_per_capita_ppp_pwt_7_1,"Alternative GDP per capita PPP, PWT 7.1",GDP per capita PPP,"GDP/cap PPP, PWT 7.1",measure,alternative_gdp_data,,,,,,
+alternative_gdp_per_capita_ppp_pwt_8_0,"Alternative GDP per capita PPP, PWT 8.0",GDP per capita PPP,"GDP/cap PPP, PWT 8.0",measure,alternative_gdp_data,,,,,,
+alternative_gdp_per_capita_ppp_wb,"Alternative GDP per capita PPP, WB",GDP per capita PPP,"GDP per capita PPP, WB",measure,alternative_gdp_data,,,,,,
+alternative_gdppercapita_ppp_inflation_adjusted_from_pwt,"Alternative GDP per capita PPP, from PWT (inflation-adjusted)",GDP per capita PPP,"GDP/cap PPP, PWT infl-adjusted",measure,alternative_gdp_data,,,,,,
+alternative_poverty_percent_below_nationally_defined_poverty,Relative poverty (% below nationally defined poverty line),Relative poverty,Relative poverty,measure,alternative_poverty_measures,,,,,,
+annual_hiv_deaths_number_all_ages,"Annual HIV deaths (number, all ages)",Annual HIV deaths,Annual HIV deaths,measure,hiv,,,,,,
+armed_forces_personnel_percent_of_labor_force,Armed forces personnel (% of labor force),Armed forces personnel,Armed forces personnel,measure,war_peace,,,,,,
+armed_forces_personnel_total,"Armed forces personnel, total",Armed forces personnel,Armed forces personnel,measure,war_peace,,,,,,
+arms_exports_us_inflation_adjusted,"Arms exports (US$, inflation-adjusted)",Arms exports,Arms exports,measure,debt_trade,,,,,,
+arms_imports_us_inflation_adjusted,"Arms imports (US$, inflation adjusted)",Arms imports,Arms imports,measure,debt_trade,,,,,,
+art_coverage_percent_cd4_l_350,ART coverage % (CD4 < 350),ART coverage,ART coverage,measure,hiv,,,,,,
+average_age_of_dollar_billionaires_years,Average age of dollar billionaires (years),Average age of dollar billionaires,Average age of dollar billionaires,measure,poverty_inequality,,,,,,
+bad_teeth_per_child_12_yr,Bad teeth per child (12 yr),Bad teeth per child,Bad teeth per child,measure,teeth,,,,,,
+battle_deaths_per_100_000,Battle deaths (per 100 000),Battle deaths,Battle deaths,measure,war_peace,,,,,,
+biomass_stock_in_forest_tons,Biomass stock in forest (tons),Biomass stock in forest,Biomass stock in forest,measure,forestry,,,,,,
+birth_asphyxia_deaths_in_newborn_per_1000_births,Birth asphyxia deaths in newborn (per 1000 births),Birth asphyxia deaths in newborn,Birth asphyxia ‰ births,measure,causes_of_newborn_deaths,,,,,,
+birth_asphyxia_deaths_in_newborn_total_deaths,Birth asphyxia deaths in newborn (total deaths),Birth asphyxia deaths in newborn,Birth asphyxia (total deaths),measure,causes_of_newborn_deaths,,,,,,
+births_attended_by_skilled_health_staff_percent_of_total,Births attended by skilled health staff (% of total),Births attended by skilled health staff,Births attended by skilled health staff,measure,maternal_health,,,,,,
+blood_pressure_sbp_men_mmhg,"Blood pressure, men, SBP, mmHg","Blood pressure, men","Blood pressure, men",measure,risk_factors,,,,,,
+blood_pressure_sbp_women_mmhg,"Blood pressure, women, SBP, mmHg","Blood pressure, women","Blood pressure, women",measure,risk_factors,,,,,,
+body_mass_index_bmi_men_kgperm2,"Body Mass Index, men, BMI, kg/m2","Body Mass Index, men","Body Mass Index, men",measure,risk_factors,,,,,,
+body_mass_index_bmi_women_kgperm2,"Body Mass Index, women, BMI, kg/m2","Body Mass Index, women","Body Mass Index, women",measure,risk_factors,,,,,,
+breast_cancer_deaths_per_100000_women,Breast cancer deaths per 100 000 women,Breast cancer deaths,Breast c. deaths /100k women,measure,cancer_female,,,,,,
+breast_cancer_new_cases_per_100000_women,Breast cancer new cases per 100 000 women,Breast cancer new cases,Breast c. new cases /100k women,measure,cancer_female,,,,,,
+breast_cancer_number_of_female_deaths,Breast cancer deaths,Breast cancer deaths,Breast c. deaths,measure,cancer_female,,,,,,
+breast_cancer_number_of_new_female_cases,Breast cancer new cases,Breast cancer new cases,Breast c. new cases,measure,cancer_female,,,,,,
+broadband_subscribers,Broadband subscribers (total),Broadband subscribers,Broadband subscribers,measure,communication,,,,,,
+broadband_subscribers_per_100_people,Broadband subscribers (per 100 people),Broadband subscribers,Broadband subscribers /100 people,measure,communication,,,,,,
+burns_deaths_per_100000_people,Burns deaths (per 100 000 people),Burns deaths,Burns deaths /100k people,measure,injuries_and_accidents,,,,,,
+car_deaths_per_100000_people,Car deaths (per 100 000 people),Car deaths,Car deaths /100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+cars_trucks_and_buses_per_1000_persons,"Cars, trucks & buses per 1000 persons","Cars, trucks & buses","Cars, trucks & buses ‰ people",measure,traffic,,,,,,
+cell_phones_per_100_people,Cell phones (per 100 people),Cell phones,Cell phones /100 people,measure,communication,,,,,,
+cell_phones_total,Cell phones (total),Cell phones,Cell phones,measure,communication,,,,,,
+central_bank_discount_rate_annual_percent,Central bank discount rate (annual %),Central bank discount rate,Central bank discount rate,measure,economic_situation,,,,,,
+cervical_cancer_deaths_per_100000_women,Cervical cancer deaths per 100 000 women,Cervical cancer deaths,Cervical c. deaths /100k women,measure,cancer_female,,,,,,
+cervical_cancer_new_cases_per_100000_women,Cervical cancer new cases per 100 000 women,Cervical cancer new cases,Cervical c. new cases /100k women,measure,cancer_female,,,,,,
+cervical_cancer_number_of_female_deaths,"Cervical cancer deaths, women",Cervical cancer deaths,"Cervical c. deaths, women",measure,cancer_female,,,,,,
+cervical_cancer_number_of_new_female_cases,"Cervical cancer new cases, women",Cervical cancer new cases,"Cervical c. new cases, women",measure,cancer_female,,,,,,
+child_mortality_0_5_year_olds_dying_per_1000_born,Child mortality (0-5 year-olds dying per 1000 born),Child mortality,Child mortality,measure,"_root, health",https://github.com/open-numbers/ddf--gapminder--child_mortality,"Death of children under five years of age per 1,000 live births",,,,gapm.io/du5mr
+child_mortality_0_5_year_olds_more_years_version_7,Child mortality (0-5 year-olds). More years. Version 7.,Child mortality,Child mortality. More years. Version 7.,measure,alternative_child_mortality_data,,,,,,
+children_and_elderly_per_100_adults,Children and elderly (per 100 adults),Children and elderly,Children and elderly /100 adults,measure,population,,,,,,
+children_out_of_school_primary,"Children out of school, primary",Children out of school,Children out of school,measure,school_enrolment,,,,,,
+children_out_of_school_primary_female,"Girls out of school, primary",Girls out of school,Girls out of school,measure,school_enrolment,,,,,,
+children_out_of_school_primary_male,"Boys out of school, primary",Boys out of school,Boys out of school,measure,school_enrolment,,,,,,
+children_per_woman_temporary_update,"Babies per woman, temporary update",Babies per woman,Babies per woman temp update,measure,alternative_demography_indicators,,,,,,
+children_per_woman_total_fertility,Babies per woman (total fertility),Babies per woman,Babies per woman,measure,"_root, newborn_infants",https://github.com/open-numbers/ddf--gapminder--fertility_rate_historic,Total fertility rate. The number of children that would be born to each woman with prevailing age-specific fertility rates.,,,,gapm.io/dtfr
+children_per_woman_total_fertility_with_projections,"Babies per woman (total fertility), with projections",Babies per woman,Babies per woman w/ projections,measure,projections,,,,,,
+cholesterol_fat_in_blood_men_mmolperl,"Fat in blood, men, Cholesterol mmol/L","Fat in blood, men","Fat in blood, men",measure,risk_factors,,,,,,
+cholesterol_fat_in_blood_women_mmolperl,"Fat in blood, women, Cholesterol mmol/L","Fat in blood, women","Fat in blood, women",measure,risk_factors,,,,,,
+co2_emissions_tonnes_per_person,CO2 emissions (tonnes per person),CO2 emissions,CO2 emissions,measure,"_root, emissions",,,,,,
+co2_intensity_of_economic_output_kg_co2_per_2011_ppp_of_gdp,CO2 intensity of economic output (kg CO2 per 2011 PPP $ of GDP),CO2 intensity of economic output,CO2 intensity of economic output,measure,emissions,,,,,,
+coal_consumption_per_cap,"Coal consumption, per person",Coal consumption,Coal consumption /person,measure,coal,,,,,,
+coal_consumption_total,"Coal consumption, total",Coal consumption,"Coal consumption, total",measure,coal,,,,,,
+colonandrectum_cancer_deaths_per_100000_men,Colon&Rectum cancer deaths per 100 000 men,Colon&Rectum cancer deaths,Colon&Rectum c. deaths /100k men,measure,cancer_male,,,,,,
+colonandrectum_cancer_deaths_per_100000_women,Colon&Rectum cancer deaths per 100 000 women,Colon&Rectum cancer deaths,Colon&Rectum c. deaths /100k women,measure,cancer_female,,,,,,
+colonandrectum_cancer_new_cases_per_100000_men,Colon&Rectum cancer new cases per 100 000 men,Colon&Rectum cancer new cases,Colon&Rectum c. new cases /100k men,measure,cancer_male,,,,,,
+colonandrectum_cancer_new_cases_per_100000_women,Colon&Rectum cancer new cases per 100 000 women,Colon&Rectum cancer new cases,Colon&Rectum c. new cases /100k women,measure,cancer_female,,,,,,
+colonandrectum_cancer_number_of_female_deaths,"Colon&Rectum cancer deaths, women",Colon&Rectum cancer deaths,"Colon&Rectum c. deaths, women",measure,cancer_female,,,,,,
+colonandrectum_cancer_number_of_male_deaths,"Colon&Rectum cancer deaths, men",Colon&Rectum cancer deaths,"Colon&Rectum c. deaths, men",measure,cancer_male,,,,,,
+colonandrectum_cancer_number_of_new_female_cases,"Colon&Rectum cancer new cases, women",Colon&Rectum cancer new cases,"Colon&Rectum c. new cases, women",measure,cancer_female,,,,,,
+colonandrectum_cancer_number_of_new_male_cases,"Colon&Rectum cancer new cases, men",Colon&Rectum cancer new cases,"Colon&Rectum c. new cases, men",measure,cancer_male,,,,,,
+congenital_deaths_in_newborn_per_1000_births,Congenital deaths in newborn (per 1000 births),Congenital deaths in newborn,Congenital deaths ‰ births,measure,causes_of_newborn_deaths,,,,,,
+congenital_deaths_in_newborn_total_deaths,Congenital deaths in newborn (total deaths),Congenital deaths in newborn,Congenital deaths in newborn,measure,causes_of_newborn_deaths,,,,,,
+contraceptive_use_percent_of_women_ages_15_49,Contraceptive use (% of women ages 15-49),Contraceptive use,Contraceptive use,measure,maternal_health,,,,,,
+corruption_perception_index_cpi,Corruption Perception Index (CPI),Corruption Perception Index,Corruption Perception Index,measure,society,,,,,,
+crude_birth_rate_births_per_1000_population,Crude birth rate (births per 1000 population),Crude birth rate,Crude birth rate,measure,population_growth,,,,,,
+crude_death_rate_deaths_per_1000_population,Crude death rate (deaths per 1000 population),Crude death rate,Crude death rate,measure,population_growth,,,,,,
+cumulative_co2_emissions_tonnes,Cumulative CO2 emissions (tonnes),Cumulative CO2 emissions,Cumulative CO2 emissions,measure,emissions,,,,,,
+data_method_maternal_mortality,Data method - Maternal mortality,Data method - Maternal mortality,Data method - Maternal mortality,measure,data_quality_use_as_color,,,,,,
+data_quality_children_per_woman,Data quality - Children per woman,Data quality - Children per woman,Children per woman,measure,data_quality_use_as_color,,,,,,
+data_quality_income_per_person,Data quality - Income per person,Data quality - Income per person,Income per person,measure,data_quality_use_as_color,,,,,,
+data_quality_life_expectancy,Data quality - Life expectancy,Data quality - Life expectancy,Life expectancy,measure,data_quality_use_as_color,,,,,,
+data_quality_population,Data quality - Population,Data quality - Population,Population,measure,data_quality_use_as_color,,,,,,
+dead_kids_per_woman,Dead kids per woman,Dead kids per woman,Dead kids per woman,measure,families,,,,,,
+debt_servicing_costs_percent_of_exports_and_net_income_from_abroad,Debt servicing costs (% of exports and net income from abroad),Debt servicing costs,Debt servicing costs,measure,advanced_debt_trade,,,,,,
+debt_to_foreigners_by_public_and_private_percent_of_gni,Debt to foreigners by public & private (% of GNI),Debt to foreigners,Debt to foreigners,measure,debt_trade,,,,,,
+democracy_score_use_as_color,Democracy score (use as color),Democracy score,Democracy score,measure,society,,,,,,
+desalinated_water_produced_billion_cu_meters,Desalinated water produced (billion cu meters),Desalinated water produced,Desalinated water produced,measure,environment_water,,,,,,
+diarrhoeal_deaths_in_children_1_59_months_per_1000_births,Diarrhoeal deaths in children 1-59 months (per 1000 births),Diarrhoeal deaths in children,Diarrhoeal deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+diarrhoeal_deaths_in_children_1_59_months_total_deaths,Diarrhoeal deaths in children 1-59 months (total deaths),Diarrhoeal deaths in children,Diarrhoeal deaths,measure,causes_of_child_deaths,,,,,,
+diarrhoeal_deaths_in_newborn_per_1000_births,Diarrhoeal deaths in newborn (per 1000 births),Diarrhoeal deaths in newborn,Diarrhoeal deaths ‰ births,measure,causes_of_newborn_deaths,,,,,,
+diarrhoeal_deaths_in_newborn_total_deaths,Diarrhoeal deaths in newborn (total deaths),Diarrhoeal deaths in newborn,Diarrhoeal deaths,measure,causes_of_newborn_deaths,,,,,,
+dollar_billionaires_per_million_people,Dollar billionaires per million people,Dollar billionaires,Dollar billionaires /1M people,measure,poverty_inequality,,,,,,
+drought_affected_annual_number,Drought affected annual number,Drought affected,Drought affected,measure,disasters,,,,,,
+drought_deaths_annual_number,Drought deaths annual number,Drought deaths,Drought deaths,measure,disasters,,,,,,
+drownings_per_100000_people,Drownings (per 100 000 people),Drownings,Drownings /100k people,measure,injuries_and_accidents,,,,,,
+dtp3_immunized_percent_of_one_year_olds,DTP3 immunized (% of one-year-olds),DTP3 immunized,DTP3 immunized,measure,vaccine,,,,,,
+earthquake_affected_annual_number,Earthquake affected annual number,Earthquake affected,Earthquake affected,measure,disasters,,,,,,
+earthquake_deaths_annual_number,Earthquake deaths annual number,Earthquake deaths,Earthquake deaths,measure,disasters,,,,,,
+economic_growth_over_the_past_10_years,Economic growth over the past 10 years,Economic growth,Economic growth over past 10 years,measure,economic_growth,,,,,,
+economical_infrastructure_aid_given_percent_of_aid,Economical infrastructure aid given (% of aid),Economical infrastructure aid given,Economical infrastructure aid given,measure,aid_given,,,,,,
+education_aid_given_percent_of_aid,Education aid given (% of aid),Education aid given,Education aid given,measure,aid_given,,,,,,
+electricity_generation_per_person,"Electricity generation, per person",Electricity generation,Electricity generation /person,measure,electricity,,,,,,
+electricity_generation_total,"Electricity generation, total",Electricity generation,"Electricity generation, total",measure,electricity,,,,,,
+electricity_use_per_person,"Electricity use, per person",Electricity use,Electricity use /person,measure,electricity,,,,,,
+energy_from_solid_biofuels_percent,Energy from solid biofuels (%),Energy from solid biofuels (%),Energy from solid biofuels (%),measure,alternative_energy,,,,,,
+energy_production_per_person,"Energy production, per person",Energy production,Energy production /person,measure,total,,,,,,
+energy_production_total,"Energy production, total",Energy production,"Energy production, total",measure,total,,,,,,
+energy_supply_per_person_toe,Energy supply per person TOE,Energy supply per person,Energy supply /person,measure,alternative_energy,,,,,,
+energy_use_per_person,"Energy use, per person",Energy use,"Energy use, per person",measure,total,,,,,,
+epidemic_affected_annual_number,Epidemic affected annual number,Epidemic affected,Epidemic affected,measure,disasters,,,,,,
+epidemic_deaths_annual_number,Epidemic deaths annual number,Epidemic deaths,Epidemic deaths,measure,disasters,,,,,,
+estimate_or_projection_of_under_five_mortality_rate_from_ihme,"Estimate or projection of u5mr under-five mortality rate, from IHME",Estimate or projection of u5mr,Est. or projection of u5mr,measure,data_quality_use_as_color,,,,,,
+expenditure_per_student_primary_percent_of_gdp_per_person,"Expenditure per student, primary (% of GDP per person)","Expenditure per student, primary","Expenditure per student, primary",measure,schooling_cost,,,,,,
+expenditure_per_student_secondary_percent_of_gdp_per_person,"Expenditure per student, secondary (% of GDP per person)","Expenditure per student, secondary","Expenditure per student, secondary",measure,schooling_cost,,,,,,
+expenditure_per_student_tertiary_percent_of_gdp_per_person,"Expenditure per student, tertiary (% of GDP per person)","Expenditure per student, tertiary","Expenditure per student, tertiary",measure,schooling_cost,,,,,,
+exports_percent_of_gdp,Exports (% of GDP),Exports (% of GDP),Exports (% of GDP),measure,debt_trade,,,,,,
+exports_unit_value_index_2000100,"Exports unit value (index, 2000=100)",Exports unit value,Exports unit value,measure,advanced_debt_trade,,,,,,
+external_debt_total_us_not_inflation_adjusted,"External debt, total (US$, not inflation-adjusted)","External debt, total","External debt, total",measure,advanced_debt_trade,,,,,,
+extreme_temperature_affected_annual_number,Extreme temperature affected annual number,Extreme temperature affected,Extreme temperature affected,measure,disasters,,,,,,
+extreme_temperature_deaths_annual_number,Extreme temperature affected annual number,Extreme temperature deaths,Extreme temperature deaths,measure,disasters,,,,,,
+falls_deaths_per_100000_people,"Falls, deaths (per 100 000 people)","Falls, deaths","Falls, deaths /100k people",measure,injuries_and_accidents,,,,,,
+family_workers_percent_of_labour_force,Family workers (% of labour force),Family workers,Family workers,measure,employment_by_status,,,,,,
+female_agriculture_workers_percent_of_female_labour_force,Female agriculture workers (% of female labour force),Female agriculture workers,Female agriculture workers,measure,employment_by_sector,,,,,,
+female_family_workers_percent_of_female_labour_force,Female family workers (% of female labour force),Female family workers,Female family workers,measure,employment_by_status,,,,,,
+female_industry_workers_percent_of_female_labour_force,Female industry workers (% of female labour force),Female industry workers,Female industry workers,measure,employment_by_sector,,,,,,
+female_long_term_unemployment_rate_percent,Female long term unemployment rate (%),Female long term unemployment,Female long term unemployment,measure,unemployment,,,,,,
+female_population_with_projections,"Female population, with projections",Female population,"Female population, w projections",measure,projections,,,,,,
+female_salaried_workers_percent_of_female_labour_force,Female salaried workers (% of female labour force),Female salaried workers,Female salaried workers,measure,employment_by_status,,,,,,
+female_self_employed_percent_of_female_labour_force,Female self-employed (% of female labour force),Female self-employed,Female self-employed,measure,employment_by_status,,,,,,
+female_service_workers_percent_of_female_labour_force,Female service workers (% of female labour force),Female service workers,Female service workers,measure,employment_by_sector,,,,,,
+females_aged_15_24_employment_rate_percent,"Employment rate (%), females aged 15-24",Employment rate,Females aged 15-24,measure,employment_rate,,,,,,
+females_aged_15_24_unemployment_rate_percent,"Unemployment rate (%), females aged 15-24",Unemployment rate,Females aged 15-24,measure,unemployment,,,,,,
+females_aged_15_64_labour_force_participation_rate_percent,"Labour force participation rate (%), females aged 15-64",Labour force participation rate,Females aged 15-64,measure,labour_force_participation,,,,,,
+females_aged_15plus_employment_rate_percent,"Employment rate (%), females aged 15+",Employment rate,Females aged 15+,measure,employment_rate,,,,,,
+females_aged_15plus_labour_force_participation_rate_percent,"Labour force participation rate (%), females aged 15+",Labour force participation rate,Females aged 15+,measure,labour_force_participation,,,,,,
+females_aged_15plus_unemployment_rate_percent,"Unemployment rate (%), females aged 15+",Unemployment rate,Females aged 15+,measure,unemployment,,,,,,
+females_aged_25_54_labour_force_participation_rate_percent,"Labour force participation rate (%), females aged 25-54",Labour force participation rate,Females aged 25-54,measure,labour_force_participation,,,,,,
+females_aged_25_54_unemployment_rate_percent,"Unemployment rate (%), females aged 25-54",Unemployment rate,Females aged 25-54,measure,unemployment,,,,,,
+females_aged_55plus_unemployment_rate_percent,"Unemployment rate (%), females aged 55+",Unemployment rate,Females aged 55+,measure,unemployment,,,,,,
+females_aged_65plus_labour_force_participation_rate_percent,"Labour force participation rate (%), females aged 65+",Labour force participation rate,Females aged 65+,measure,labour_force_participation,,,,,,
+flood_affected_annual_number,Flood affected annual number,Flood affected,Flood affected,measure,disasters,,,,,,
+flood_deaths_annual_number,Flood deaths annual number,Flood deaths,Flood deaths,measure,disasters,,,,,,
+food_supply_kilocalories_per_person_and_day,Food supply (kilocalories / person & day),Food supply,Food supply,measure,nutrition,,,,,,
+foreign_direct_investment_net_inflows_percent_of_gdp,"Foreign investment inflows (direct, net % of GDP)",Foreign investment inflows,Foreign investment inflows,measure,economic_situation,,,,,,
+foreign_direct_investment_net_outflows_percent_of_gdp,"Foreign investment outflows (direct, net % of GDP)",Foreign investment outflows,Foreign investment outflows,measure,economic_situation,,,,,,
+forest_area_sq_km,Forest area (sq. km),Forest area,Forest area,measure,geography,,,,,,
+forest_coverage_percent,Forest coverage (%),Forest coverage,Forest coverage,measure,forestry,,,,,,
+forest_land_total_area_ha,"Forest land, total area (ha)",Forest land,Forest land,measure,forestry,,,,,,
+forest_products_removal_per_ha_dollar,"Forest products removal, per ha ($)",Forest products removal,"Forest products removal, per ha",measure,forestry,,,,,,
+forest_products_removal_total_dollar,"Forest products removal, total ($)",Forest products removal,"Forest products removal, total",measure,forestry,,,,,,
+gapminder_gini,Inequality index (Gini),Inequality index (Gini),Inequality index (Gini),measure,_none,,,,,,
+gdp_per_capita_yearly_growth,"GDP/capita, yearly growth","GDP/capita, yearly growth","GDP/capita, yearly growth",measure,incomes_growth,,,,,,
+gdp_total_yearly_growth,"GDP total, yearly growth","GDP total, yearly growth","GDP total, yearly growth",measure,incomes_growth,,,,,,
+gdppercapita_growth_over_next_10_years,GDP/capita growth over next 10 years,GDP/capita growth,"GDP/cap growth, next 10 years",measure,incomes_growth,,,,,,
+gdppercapita_growth_percent_per_year,GDP/capita growth (% per year),GDP/capita growth,GDP/cap growth,measure,alternative_gdp_data,,,,,,
+gdppercapita_us_inflation_adjusted,"GDP/capita (US$, inflation-adjusted)",GDP/capita,"GDP/capita (US$, inflation-adjusted)",measure,incomes_growth,,,,,,
+gdpperemployee_us_inflation_adjusted,"GDP/employee (US$, inflation-adjusted)",GDP/employee,GDP/employee,measure,incomes_growth,,,,,,
+gdpperworking_hour_us_inflation_adjusted,"GDP/working hour (US$, inflation-adjusted)",GDP/working hour,GDP/working hour,measure,incomes_growth,,,,,,
+gnipercapita_atlasmethod_current_us,"GNI/capita (Atlas method, current US$)",GNI/capita,GNI/capita (Atlas method),measure,incomes_growth,,,,,,
+gnipercapita_constant_2010_us,GNI/capita (constant 2010 US$),GNI/capita,GNI/capita (constant 2010 US$),measure,incomes_growth,,,,,,
+gnipercapita_ppp_current_international,"GNI/per capita (PPP, current international $)",GNI/per capita,"GNI/per capita (PPP, current international $)",measure,incomes_growth,,,,,,
+government_and_society_aid_given_percent_of_aid,Government and society aid given (% of aid),Government and society aid given,Govt. and society aid given,measure,aid_given,,,,,,
+government_health_spending_of_total_gov_spending_percent,Govt. health spending of total gov. spending (%),Govt. health spending,Govt. health spending % of total,measure,health_economics,,,,,,
+government_health_spending_per_person_international_dollar,Govt. health spending per person (international $),Govt. health spending,"Govt. health spending /person, intl. $",measure,health_economics,,,,,,
+government_health_spending_per_person_us,Govt. health spending per person (US$),Govt. health spending,"Govt. health spending /person, US $",measure,health_economics,,,,,,
+government_share_of_total_health_spending_percent,Govt. share of health spending (%),Govt. share of health spending,Govt. share health spending,measure,health_economics,,,,,,
+hdi_human_development_index,Human Development Index (HDI),Human Development Index,Human Development Index,measure,society,,,,,,
+health_aid_given_percent_of_aid,Health aid given (% of aid),Health aid given,Health aid given,measure,aid_given,,,,,,
+hepb3_immunized_percent_of_one_year_olds,HepB3 immunized (% of one-year-olds),HepB3 immunized,HepB3 immunized,measure,vaccine,,,,,,
+hib3_immunized_percent_of_one_year_olds,Hib3 immunized (% of one-year-olds),Hib3 immunized,Hib3 immunized,measure,vaccine,,,,,,
+high_technology_exports_percent_of_manufactured_exports,High-technology exports (% of manufactured exports),High-technology exports,High-technology exports,measure,debt_trade,,,,,,
+hiv_deaths_in_children_1_59_months_per_1000_births,HIV deaths in children 1-59 months (per 1000 births),HIV deaths in children,HIV deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+hiv_deaths_in_children_1_59_months_total_deaths,HIV deaths in children 1-59 months (total deaths),HIV deaths in children,HIV deaths,measure,causes_of_child_deaths,,,,,,
+hourly_compensation_us,Hourly compensation (US$),Hourly compensation,Hourly compensation,measure,economic_situation,,,,,,
+how_far_to_the_north,How far to the north (latitude),How far to the north,How far to the north,measure,geography_infrastructure,,,,,,
+hydro_power_generation_per_person,"Hydro electricity production, per person",Hydro electricity production,Hydro electricity production /person,measure,hydro,,,,,,
+hydro_power_generation_total,"Hydro electricity production, total",Hydro electricity production,"Hydro electricity production, total",measure,hydro,,,,,,
+ifpri_underweight_children,Underweight children (IFPRI),Underweight children,Underweight children,measure,advanced,,,,,,
+imports_percent_of_gdp,Imports (% of GDP),Imports (% of GDP),Imports (% of GDP),measure,debt_trade,,,,,,
+imports_unit_value_index_2000100,"Imports unit value (index, 2000=100)",Imports unit value,Imports unit value,measure,advanced_debt_trade,,,,,,
+improved_sanitation_overall_access_percent,"Improved sanitation, overall access (%)","Improved sanitation, overall","Improved sanitation, overall",measure,sanitation,,,,,,
+improved_sanitation_rural_access_percent,"Improved sanitation, rural access (%)","Improved sanitation, rural","Improved sanitation, rural",measure,sanitation,,,,,,
+improved_sanitation_urban_access_percent,"Improved sanitation, urban access (%)","Improved sanitation, urban","Improved sanitation, urban",measure,sanitation,,,,,,
+improved_water_source_overall_access_percent,"Improved water, overall access (%)","Improved water, overall","Improved water, overall",measure,infrastructure_water,,,,,,
+improved_water_source_rural_access_percent,"Improved water source, rural access (%)","Improved water, rural","Improved water, rural",measure,infrastructure_water,,,,,,
+improved_water_source_urban_access_percent,"Improved water, urban access (%)","Improved water, urban","Improved water, urban",measure,infrastructure_water,,,,,,
+income_per_person_gdppercapita_ppp_inflation_adjusted,"Income per person (GDP/capita, PPP$ inflation-adjusted)",Income,Income,measure,"_root, incomes_growth",https://github.com/open-numbers/ddf--gapminder--gdp_per_capita_cppp,"Gross domestic product per person adjusted for differences in purchasing power (in international dollars, fixed 2011 prices, PPP based on 2011 ICP).",GDP per capita based on purchasing power parity (PPP). PPP GDP is gross domestic product converted to international dollars using purchasing power parity rates. An international dollar has the same purchasing power over GDP as the U.S. dollar has in the United States. GDP at purchaser's prices is the sum of gross value added by all resident producers in the economy plus any product taxes and minus any subsidies not included in the value of the products. It is calculated without making deductions for depreciation of fabricated assets or for depletion and degradation of natural resources. Data are in constant 2011 international dollars.,"Gapminder based on World Bank, A. Maddison, M. Lindgren, IMF & more.","This data is compiled mainly from these sources:
+a. World Bank: For the period 1990 to 2016, data is identical to The World Bank's indicator: GDP per capita constant PPP 2011, (except for a few countries that were estimated by Gapminder, including Syria and Cuba). See: gapm.io/xwb171
+b. Maddison: Data before 1990, is based on Gapminder's historic estimates by Mattias Lindgren, which mainly uses Maddison data. See: gapm.io/histdata.
+c. IMF: Data after 2016 uses IMF's forecasts for GDP per capita WEO 2017, october revision: gapm.io/ximfw
+d. The IMF forecast reaches only to 2022. Beyond that point we have extended the series to 2040, with the hypothetical assumption, that all countries converge to a modest economic growth rate of 2.2%. The forecasts we only use to project the ",gapm.io/dgdppc
+income_per_person_long_series,"Income per person, long series",Income per person,"Income per person, long series",measure,alternative_gdp_data,,,,,,
+income_per_person_with_projections,"Income per person, with projections",Income per person,"Income per person, w projections",measure,projections,,,,,,
+income_share_of_2nd_poorest_20percent,Income share of 2nd poorest 20%,Income share of 2nd poorest 20%,Income share of 2nd poorest 20%,measure,poverty_inequality,,,,,,
+income_share_of_2nd_richest_20percent,Income share of 2nd richest 20%,Income share of 2nd richest 20%,Income share of 2nd richest 20%,measure,poverty_inequality,,,,,,
+income_share_of_middle_20percent,Income share of middle 20%,Income share of middle 20%,Income share of middle 20%,measure,poverty_inequality,,,,,,
+income_share_of_poorest_10percent,Income share of poorest 10%,Income share of poorest 10%,Income share of poorest 10%,measure,poverty_inequality,,,,,,
+income_share_of_poorest_20percent,Income share of poorest 20%,Income share of poorest 20%,Income share of poorest 20%,measure,poverty_inequality,,,,,,
+income_share_of_richest_10percent,Income share of richest 10%,Income share of richest 10%,Income share of richest 10%,measure,poverty_inequality,,,,,,
+income_share_of_richest_20percent,Income share of richest 20%,Income share of richest 20%,Income share of richest 20%,measure,poverty_inequality,,,,,,
+industrial_water_withdrawal_percent_of_total,Industrial water withdrawal (% of total),Industrial water withdrawal,Industrial water withdrawal,measure,environment_water,,,,,,
+industry_percent_of_gdp,Industry (% of GDP),Industry (% of GDP),Industry (% of GDP),measure,sectors,,,,,,
+industry_workers_percent_of_labour_force,Industry workers (% of labour force),Industry workers,Industry workers,measure,employment_by_sector,,,,,,
+inequality_index_gini,Inequality index (Gini),Inequality index (Gini),Inequality index (Gini),measure,poverty_inequality,,,,,,
+infant_mortality_rate_per_1000_births,Infant mortality (rate per 1000 births),Infant mortality,Infant mortality,measure,newborn_infants,,Deaths of children during first year of life (per 1000 live births).,,,,
+infectious_tb_detection_rate_percent,"TB detection rate (%), infectious TB",TB detection rate (%),"TB detection rate, infectious TB",measure,tb_tuberculosis,,,,,,
+infectious_tb_detection_rate_percent_dots_only,"TB detection rate (%), infectious - DOTS only",TB detection rate (%),"TB detection rate, infectious - DOTS only",measure,tb_tuberculosis,,,,,,
+infectious_tb_new_cases_per_100000_estimated,"TB new cases per 100 000, estimated, infectious TB",TB new cases per 100 000,"TB new cases /100k, estimated, infectious TB",measure,tb_tuberculosis,,,,,,
+infectious_tb_new_cases_per_100000_reported,"TB new cases per 100 000, reported, infectious TB",TB new cases per 100 000,"TB new cases /100k, reported, infectious TB",measure,tb_tuberculosis,,,,,,
+infectious_tb_number_of_new_cases_estimated,"TB new cases, estimated, infectious TB",TB new cases,"TB new cases, estimated, infectious TB",measure,tb_tuberculosis,,,,,,
+infectious_tb_number_of_new_cases_reported,"TB new cases, reported, infectious TB",TB new cases,"TB new cases, reported, infectious TB",measure,tb_tuberculosis,,,,,,
+infectious_tb_treatment_dots_completed_percent,"Treatment (DOTS) completed (%), infectious TB",Treatment (DOTS) completed,"Treatment (DOTS) completed, infectious TB",measure,tb_tuberculosis,,,,,,
+inflation_annual_percent,Inflation (annual %),Inflation,Inflation,measure,economic_situation,,,,,,
+injury_deaths_in_children_1_59_months_per_1000_births,Injury deaths in children 1-59 months (per 1000 births),Injury deaths in children,Injury deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+injury_deaths_in_children_1_59_months_total_deaths,Injury deaths in children 1-59 months (total deaths),Injury deaths in children,"Injury deaths in children, total",measure,causes_of_child_deaths,,,,,,
+internal_renewable_water_cu_meters_per_person,Internal renewable water (cu meters per person),Internal renewable water,Internal renewable water,measure,environment_water,,,,,,
+investments_percent_of_gdp,Investments (% of GDP),Investments,Investments,measure,economic_situation,,,,,,
+life_expectancy_at_birth_data_from_ihme,"Life expectancy at birth, data from IHME",Life expectancy,Life expectancy IHME,measure,alternative_demography_indicators,,,,,,
+life_expectancy_at_birth_with_projections,"Life expectancy at birth, with projections",Life expectancy,Life expectancy w projections,measure,projections,,,,,,
+life_expectancy_female,"Life expectancy, female","Life expectancy, female","Life expectancy, female",measure,health,,,,,,
+life_expectancy_male,"Life expectancy, male","Life expectancy, male","Life expectancy, male",measure,health,,,,,,
+life_expectancy_years,Life expectancy (years),Life expectancy,Life expectancy,measure,"_root, health",,The average number of years a newborn child would live if current mortality patterns were to stay the same.,,,,
+literacy_rate_adult_female_percent_of_females_ages_15_above,"Literacy rate, adult female (% of females ages 15 and above)",Literacy rate,"Literacy rate, adult female",measure,literacy,,,,,,
+literacy_rate_adult_male_percent_of_males_ages_15_and_above,"Literacy rate, adult male (% of males ages 15 and above)",Literacy rate,"Literacy rate, adult male",measure,literacy,,,,,,
+literacy_rate_adult_total_percent_of_people_ages_15_and_above,"Literacy rate, adult total (% of people ages 15 and above)",Literacy rate,"Literacy rate, adult total",measure,literacy,,,,,,
+literacy_rate_youth_female_percent_of_females_ages_15_24,"Literacy rate, youth female (% of females ages 15-24)",Literacy rate,"Literacy rate, youth female",measure,literacy,,,,,,
+literacy_rate_youth_male_percent_of_males_ages_15_24,"Literacy rate, youth male (% of males ages 15-24)",Literacy rate,"Literacy rate, youth male",measure,literacy,,,,,,
+literacy_rate_youth_total_percent_of_people_ages_15_24,"Literacy rate, youth total (% of people ages 15-24)",Literacy rate,"Literacy rate, youth total",measure,literacy,,,,,,
+liver_cancer_deaths_per_100000_men,"Liver cancer, deaths per 100 000 men","Liver cancer, deaths",Liver c. deaths /100k men,measure,cancer_male,,,,,,
+liver_cancer_deaths_per_100000_women,"Liver cancer, deaths per 100 000 women","Liver cancer, deaths",Liver c. deaths /100k women,measure,cancer_female,,,,,,
+liver_cancer_new_cases_per_100000_men,"Liver cancer, new cases per 100 000 men","Liver cancer, new cases",Liver c. new cases /100k men,measure,cancer_male,,,,,,
+liver_cancer_new_cases_per_100000_women,"Liver cancer, new cases per 100 000 women","Liver cancer, new cases",Liver c. new cases /100k women,measure,cancer_female,,,,,,
+liver_cancer_number_of_female_deaths,"Liver cancer, deaths, women","Liver cancer, deaths","Liver c. deaths, women",measure,cancer_female,,,,,,
+liver_cancer_number_of_male_deaths,"Liver cancer, deaths, men","Liver cancer, deaths","Liver c. deaths, men",measure,cancer_male,,,,,,
+liver_cancer_number_of_new_female_cases,"Liver cancer, new cases, women","Liver cancer, new cases","Liver c. new cases, women",measure,cancer_female,,,,,,
+liver_cancer_number_of_new_male_cases,"Liver cancer, new cases, men","Liver cancer, new cases","Liver c. new cases, men",measure,cancer_male,,,,,,
+long_term_unemployment_rate_percent,Long term unemployment rate (%),Long term unemployment,Long term unemployment,measure,unemployment,,,,,,
+lung_cancer_deaths_per_100000_men,"Lung cancer, deaths per 100 000 men","Lung cancer, deaths",Lung c. deaths /100k men,measure,cancer_male,,,,,,
+lung_cancer_deaths_per_100000_women,"Lung cancer, deaths per 100 000 women","Lung cancer, deaths",Lung c. deaths /100k women,measure,cancer_female,,,,,,
+lung_cancer_new_cases_per_100000_men,"Lung cancer, new cases per 100 000 men","Lung cancer, new cases",Lung c. new cases /100k men,measure,cancer_male,,,,,,
+lung_cancer_new_cases_per_100000_women,"Lung cancer, new cases per 100 000 women","Lung cancer, new cases",Lung c. new cases /100k women,measure,cancer_female,,,,,,
+lung_cancer_number_of_female_deaths,"Lung cancer, deaths, women","Lung cancer, deaths","Lung c. deaths, women",measure,cancer_female,,,,,,
+lung_cancer_number_of_male_deaths,"Lung cancer, deaths, men","Lung cancer, deaths","Lung c. deaths, men",measure,cancer_male,,,,,,
+lung_cancer_number_of_new_female_cases,"Lung cancer, new cases, women","Lung cancer, new cases","Lung c. new cases, women",measure,cancer_female,,,,,,
+lung_cancer_number_of_new_male_cases,"Lung cancer, new cases, men","Lung cancer, new cases","Lung c. new cases, men",measure,cancer_male,,,,,,
+malaria_cases_per_100000_reported,Malaria cases per 100 000 - reported,Malaria cases,Malaria cases /100k people,measure,malaria,,,,,,
+malaria_deaths_in_children_1_59_months_per_1000_births,Malaria deaths in children 1-59 months (per 1000 births),Malaria deaths in children,Malaria deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+malaria_deaths_in_children_1_59_months_total_deaths,Malaria deaths in children 1-59 months (total deaths),Malaria deaths in children,Malaria deaths,measure,causes_of_child_deaths,,,,,,
+malaria_deaths_per_100000_reported,Malaria deaths per 100 000 - reported,Malaria deaths,Malaria deaths /100k people,measure,malaria,,,,,,
+malaria_number_of_cases_reported,Malaria cases - reported,Malaria cases,Malaria cases,measure,malaria,,,,,,
+malaria_number_of_deaths_reported,Malaria deaths - reported,Malaria deaths,Malaria deaths,measure,malaria,,,,,,
+male_agriculture_workers_percent_of_male_labour_force,Male agriculture workers (% of male labour force),Male agriculture workers,Male agriculture workers,measure,employment_by_sector,,,,,,
+male_family_workers_percent_of_male_labour_force,Male family workers (% of male labour force),Male family workers,Male family workers,measure,employment_by_status,,,,,,
+male_industry_workers_percent_of_male_labour_force,Male industry workers (% of male labour force),Male industry workers,Male industry workers,measure,employment_by_sector,,,,,,
+male_long_term_unemployment_rate_percent,Male long term unemployment rate (%),Male long term unemployment,Male long term unemployment,measure,unemployment,,,,,,
+male_population_with_projections,"Male population, with projections",Male population,"Male population, w projections",measure,projections,,,,,,
+male_salaried_workers_percent_of_male_labour_force,Male salaried workers (% of male labour force),Male salaried workers,Male salaried workers,measure,employment_by_status,,,,,,
+male_self_employed_percent_of_male_labour_force,Male self-employed (% of male labour force),Male self-employed,Male self-employed,measure,employment_by_status,,,,,,
+male_service_workers_percent_of_male_labour_force,Male service workers (% of male labour force),Male service workers,Male service workers,measure,employment_by_sector,,,,,,
+males_aged_15_24_employment_rate_percent,"Employment rate (%), males aged 15-24",Employment rate,Males aged 15-24,measure,employment_rate,,,,,,
+males_aged_15_24_unemployment_rate_percent,"Unemployment rate (%), males aged 15-24",Unemployment rate,Males aged 15-24,measure,unemployment,,,,,,
+males_aged_15_64_labour_force_participation_rate_percent,"Labour force participation rate (%), males aged 15-64",Labour force participation rate,Males aged 15-64,measure,labour_force_participation,,,,,,
+males_aged_15plus_employment_rate_percent,"Employment rate (%), males aged 15+",Employment rate,Males aged 15+,measure,employment_rate,,,,,,
+males_aged_15plus_labour_force_participation_rate_percent,"Labour force participation rate (%), males aged 15+",Labour force participation rate,Males aged 15+,measure,labour_force_participation,,,,,,
+males_aged_15plus_unemployment_rate_percent,"Unemployment rate (%), males aged 15+",Unemployment rate,Males aged 15+,measure,unemployment,,,,,,
+males_aged_25_54_labour_force_participation_rate_percent,"Labour force participation rate (%), males aged 25-54",Labour force participation rate,Males aged 25-54,measure,labour_force_participation,,,,,,
+males_aged_25_54_unemployment_rate_percent,"Unemployment rate (%), males aged 25-54",Unemployment rate,Males aged 25-54,measure,unemployment,,,,,,
+males_aged_55plus_unemployment_rate_percent,"Unemployment rate (%), males aged 55+",Unemployment rate,Males aged 55+,measure,unemployment,,,,,,
+males_aged_65plus_labour_force_participation_rate_percent,"Labour force participation rate (%), males aged 65+",Labour force participation rate,Males aged 65+,measure,labour_force_participation,,,,,,
+malnutrition_weight_for_age_percent_of_children_under_5,"Malnutrition, weight for age (% of children under 5)","Malnutrition, weight for age","Malnutrition, weight for age",measure,nutrition,,,,,,
+market_value_of_listed_companies_percent_of_gdp,Market value of listed companies (% of GDP),Market value of listed companies,Market value of listed companies,measure,economic_situation,,,,,,
+maternal_deaths_lifetime_risk_per_1000,"Maternal deaths, lifetime risk (per 1000)",Maternal deaths,"Maternal deaths, lifetime risk ‰",measure,maternal_health,,,,,,
+maternal_deaths_total_number,"Maternal deaths, total number",Maternal deaths,Maternal deaths,measure,maternal_health,,,,,,
+maternal_mortality_ratio_per_100000_live_births,Maternal mortality ratio (per 100 000 live births),Maternal mortality,Maternal mortality,measure,maternal_health,,,,,,
+maternal_mortality_ratio_who,Maternal mortality ratio WHO,Maternal mortality,Maternal mortality WHO,measure,alternative_health_data,,,,,,
+math_achievement_4th_grade,Math achievement - 4th grade,Math achievement,"Math achievement, 4th grade",measure,achievement,,,,,,
+math_achievement_8th_grade,Math achievement - 8th grade,Math achievement,"Math achievement, 8th grade",measure,achievement,,,,,,
+mcv_immunized_percent_of_one_year_olds,MCV immunized (% of one-year-olds),MCV immunized,MCV immunized,measure,vaccine,,,,,,
+mean_years_in_school_men_15_to_24_years,Mean years in school (men 15 to 24 years),Mean years in school,Men 15 to 24 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_men_25_to_34_years,Mean years in school (men 25 to 34 years),Mean years in school,Men 25 to 34 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_men_25_years_and_older,Mean years in school (men 25 years and older),Mean years in school,Men 25 years and older,measure,mean_years_in_school,,,,,,
+mean_years_in_school_men_35_to_44_years,Mean years in school (men 35 to 44 years),Mean years in school,Men 35 to 44 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_men_45_to_54_years,Mean years in school (men 45 to 54 years),Mean years in school,Men 45 to 54 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_men_55_to_64_years,Mean years in school (men 55 to 64 years),Mean years in school,Men 55 to 64 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_men_65_plus_years,Mean years in school (men 65 years and older),Mean years in school,Men 65 years and older,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_15_to_24_years,Mean years in school (women 15 to 24 years),Mean years in school,Women 15 to 24 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_25_to_34_years,Mean years in school (women 25 to 34 years),Mean years in school,Women 25 to 34 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_25_years_and_older,Mean years in school (women 25 years and older),Mean years in school,Women 25 years and older,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_35_to_44_years,Mean years in school (women 35 to 44 years),Mean years in school,Women 35 to 44 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_45_to_54_years,Mean years in school (women 45 to 54 years),Mean years in school,Women 45 to 54 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_55_to_64_years,Mean years in school (women 55 to 64 years),Mean years in school,Women 55 to 64 years,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_65_plus_years,Mean years in school (women 65 years and older),Mean years in school,Women 65 years and older,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_of_reproductive_age_15_to_44,Mean years in school (women of reproductive age 15 to 44),Mean years in school,Women 15 to 44,measure,mean_years_in_school,,,,,,
+mean_years_in_school_women_percent_men_25_to_34_years,"Gender ratio of mean years in school (women % men, 25 to 34 years)",Gender ratio of mean years in school,"Gender ratio of mean years in school (women % men, 25 to 34 years)",measure,gender_equality,,,,,,
+measles_deaths_in_children_1_59_months_per_1000_births,Measles deaths in children 1-59 months (per 1000 births),Measles deaths in children,Measles deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+measles_deaths_in_children_1_59_months_total_deaths,Measles deaths in children 1-59 months (total deaths),Measles deaths in children,Measles deaths,measure,causes_of_child_deaths,,,,,,
+median_age_years,Median age (years),Median age,Median age,measure,population,,,,,,
+medical_doctors_per_1000_people,Medical Doctors (per 1000 people),Medical Doctors,Medical Doctors ‰ people,measure,health_economics,,,,,,
+meningitis_deaths_in_children_1_59_months_per_1000_births,Meningitis deaths in children 1-59 months (per 1000 births),Meningitis deaths in children,Meningitis deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+meningitis_deaths_in_children_1_59_months_total_deaths,Meningitis deaths in children 1-59 months (total deaths),Meningitis deaths in children,Meningitis deaths,measure,causes_of_child_deaths,,,,,,
+merchandise_trade_percent_of_gdp,Merchandise trade (% of GDP),Merchandise trade,Merchandise trade,measure,debt_trade,,,,,,
+military_expenditure_percent_of_gdp,Military expenditure (% of GDP),Military expenditure,Military expenditure,measure,war_peace,,,,,,
+motorcycle_deaths_per_100000_people,Motorcycle deaths (per 100 000 people),Motorcycle deaths,Motorcycle deaths /100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+multisector_cross_cutting_aid_given_percent_of_aid,Multisector cross-cutting aid given (% of aid),Multisector cross-cutting aid given,Multisector cross-cutting aid given,measure,aid_given,,,,,,
+municipal_water_withdrawal_cu_meters_per_person,Municipal water withdrawal (cu meters per person),Municipal water withdrawal,Municipal water withdrawal /person,measure,environment_water,,,,,,
+municipal_water_withdrawal_percent_of_total,Municipal water withdrawal (% of total),Municipal water withdrawal,Municipal water withdrawal,measure,environment_water,,,,,,
+murder_per_100000_people,Murders (per 100 000 people),Murders,Murders /100k people,measure,society,,,,,,
+murder_total_deaths,Murders (total deaths),Murders,Murders,measure,society,,,,,,
+murdered_15_29_per_100000_people,Murdered 15-29 (per 100 000 people),Murdered 15-29,Murdered 15-29 per 100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+murdered_30_44_per_100000_people,"Murdered 30-44, (per 100 000 people)",Murdered 30-44,Murdered 30-44 per 100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+murdered_45_59_per_100000_people,Murdered 45-59 (per 100 000 people),Murdered 45-59,Murdered 45-59 per 100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+murdered_60plus_per_100000_people,Murdered 60+ (per 100 000 people),Murdered 60+,Murdered 60+ per 100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+murdered_children_0_14_per_100000_people,Murdered 0-14 (per 100 000 people),Murdered 0-14,Murdered 0-14 per 100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+murdered_men_per_100000_people,Murdered men (per 100 000 people),Murdered men,Murdered men per 100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+murdered_women_per_100000_people,Murdered women (per 100 000 people),Murdered women,Murdered women per 100k people,measure,injury_deaths_by_gender_age_road_user,,,,,,
+natural_gas_production_per_person,"Natural gas production, per person",Natural gas production,Natural gas production /person,measure,natural_gas,,,,,,
+natural_gas_production_total,"Natural gas production, total",Natural gas production,Natural gas production,measure,natural_gas,,,,,,
+natural_gas_proved_reserves_total,"Natural gas proved reserves, total",Natural gas proved reserves,Natural gas reserves,measure,natural_gas,,,,,,
+natural_gas_proven_reserves_per_person,"Natural gas proven reserves, per person",Natural gas proved reserves,Natural gas reserves /person,measure,natural_gas,,,,,,
+ncd_deaths_in_children_1_59_months_per_1000_births,NCD deaths in children 1-59 months (per 1000 births),NCD deaths in children,NCD deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+ncd_deaths_in_children_1_59_months_total_deaths,NCD deaths in children 1-59 months (total deaths),NCD deaths in children,NCD deaths,measure,causes_of_child_deaths,,,,,,
+net_barter_terms_of_trade_2000_100,Net barter terms of trade (2000 = 100),Net barter terms of trade,Net barter terms of trade,measure,advanced_debt_trade,,,,,,
+new_births_total_number_estimated,"New births (total number, estimated)",New births,New births,measure,population_growth,,,,,,
+newborn_deaths,Newborn deaths,Newborn deaths,Newborn deaths,measure,newborn_infants,,,,,,
+newborn_mortality_rate_per_1000,Newborn mortality rate per 1000,Newborn mortality rate,Newborn mortality rate,measure,newborn_infants,,,,,,
+newly_hiv_infected_number_all_ages,"Newly HIV infected (number, all ages)",Newly HIV infected,Newly HIV infected,measure,hiv,,,,,,
+newly_hiv_infected_percent_age_15_49,"Newly HIV infected (%, age 15-49)",Newly HIV infected,"Newly HIV infected (%, age 15-49)",measure,hiv,,,,,,
+nuclear_power_generation_per_person,"Nuclear electricity production, per person",Nuclear electricity production,Nuclear electricity production /person,measure,nuclear,,,,,,
+nuclear_power_generation_total,"Nuclear electricity production, total",Nuclear electricity production,Nuclear electricity production,measure,nuclear,,,,,,
+number_of_child_deaths,Number of child deaths,Number of child deaths,Number of child deaths,measure,health,,,,,,
+number_of_people_in_poverty,Number of people in poverty,Number of people in poverty,Number of people in poverty,measure,poverty_inequality,,,,,,
+oil_consumption_per_cap,"Oil consumption, per person",Oil consumption,Oil consumption /person,measure,oil,,,,,,
+oil_consumption_total,"Oil consumption, total",Oil consumption,Oil consumption,measure,oil,,,,,,
+oil_production_per_person,"Oil production, per person",Oil production,Oil production /person,measure,oil,,,,,,
+oil_production_total,"Oil production, total",Oil production,Oil production,measure,oil,,,,,,
+oil_proved_reserves_total,"Oil proved reserves, total",Oil proved reserves,Oil proved reserves,measure,oil,,,,,,
+oil_proven_reserves_per_person,"Oil proven reserves, per person",Oil proved reserves,Oil proven reserves /person,measure,oil,,,,,,
+old_version_of_income_per_person_version_3,Old version of Income per person (version 3),Old version of Income per person (version 3),Old version of Income per person (version 3),measure,alternative_gdp_data,,,,,,
+old_version_of_income_per_person_version_8,Old version of Income per person (version 8),Old version of Income per person (version 8),Old version of Income per person (version 8),measure,alternative_gdp_data,,,,,,
+other_deaths_in_newborn_per_1000_births,Other deaths in newborn (per 1000 births),Other deaths in newborn,Other deaths ‰ births,measure,causes_of_newborn_deaths,,,,,,
+other_deaths_in_newborn_total_deaths,Other deaths in newborn (total deaths),Other deaths in newborn,Other deaths,measure,causes_of_newborn_deaths,,,,,,
+other_infections_deaths_in_children_1_59_months_per_1000_birt,Other infections deaths in children 1-59 months (per 1000 births),Other infections deaths,Other infections deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+other_infections_deaths_in_children_1_59_months_total_deaths,Other infections deaths in children 1-59 months (total deaths),Other infections deaths,Other infections deaths,measure,causes_of_child_deaths,,,,,,
+other_social_services_aid_given_percent_of_aid,Other social services aid given (% of aid),Other social services aid given,Other social services aid given,measure,aid_given,,,,,,
+out_of_pocket_share_of_total_health_spending_percent,Out-of-pocket total health spending share (%),Out-of-pocket total health spending,Out-of-pocket total health spending,measure,health_economics,,,,,,
+pab_immunized_percent_of_newborns,PAB immunized (% of newborns),PAB immunized,PAB immunized,measure,vaccine,,,,,,
+patent_applications_total,Patent applications (total),Patent applications,Patent applications,measure,economic_situation,,,,,,
+patents_granted_total,Patents granted (total),Patents granted,Patents granted,measure,economic_situation,,,,,,
+patents_in_force_total,Patents in force (total),Patents in force,Patents in force,measure,economic_situation,,,,,,
+people_living_with_hiv_number_all_ages,"People living with HIV (number, all ages)",People living with HIV,People living with HIV,measure,hiv,,,,,,
+personal_computers_per_100_people,Personal computers (per 100 people),Personal computers,Personal computers /100 people,measure,communication,,,,,,
+personal_computers_total,Personal computers (total),Personal computers,Personal computers,measure,communication,,,,,,
+pertussis_deaths_in_children_1_59_months_per_1000_births,Pertussis deaths in children 1-59 months (per 1000 births),Pertussis deaths in children,Pertussis deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+pertussis_deaths_in_children_1_59_months_total_deaths,Pertussis deaths in children 1-59 months (total deaths),Pertussis deaths in children,Pertussis deaths,measure,causes_of_child_deaths,,,,,,
+plane_crash_affected_annual_number,Plane crash affected annual number,Plane crash affected,Plane crash affected,measure,disasters,,,,,,
+plane_crash_deaths_annual_number,Plane crash deaths annual number,Plane crash deaths,Plane crash deaths,measure,disasters,,,,,,
+planted_forest_area_ha,Planted forest area (ha),Planted forest area,Planted forest area,measure,forestry,,,,,,
+pneumonia_deaths_in_children_1_59_months_per_1000_births,Pneumonia deaths in children 1-59 months (per 1000 births),Pneumonia deaths in children,Pneumonia deaths ‰ births,measure,causes_of_child_deaths,,,,,,
+pneumonia_deaths_in_children_1_59_months_total_deaths,Pneumonia deaths in children 1-59 months (total deaths),Pneumonia deaths in children,Pneumonia deaths in children,measure,causes_of_child_deaths,,,,,,
+pneumonia_deaths_in_newborn_per_1000_births,Pneumonia deaths in newborn (per 1000 births),Pneumonia deaths in newborn,Pneumonia deaths ‰ births,measure,causes_of_newborn_deaths,,,,,,
+pneumonia_deaths_in_newborn_total_deaths,Pneumonia deaths in newborn (total deaths),Pneumonia deaths in newborn,Pneumonia deaths in newborn,measure,causes_of_newborn_deaths,,,,,,
+poisonings_deaths_per_100000_people,"Poisonings, deaths (per 100 000 people)","Poisonings, deaths","Poisonings, deaths /100k people",measure,injuries_and_accidents,,,,,,
+population_aged_0_4_years_both_sexes_percent,"Population aged 0-4, both sexes (%)",Population aged 0-4,"Population aged 0-4, (%)",measure,both_sexes_by_age,,,,,,
+population_aged_0_4_years_female_percent,"Population aged 0-4, female (%)",Population aged 0-4,"Population aged 0-4, F (%)",measure,female_by_age,,,,,,
+population_aged_0_4_years_male_percent,"Population aged 0-4, male (%)",Population aged 0-4,"Population aged 0-4, M (%)",measure,male_by_age,,,,,,
+population_aged_0_4_years_total_number,"Population aged 0-4, total number",Population aged 0-4,"Population aged 0-4, total",measure,both_sexes_by_age_total,,,,,,
+population_aged_10_14_years_both_sexes_percent,"Population aged 10-14, both sexes (%)",Population aged 10-14,"Population aged 10-14, (%)",measure,both_sexes_by_age,,,,,,
+population_aged_10_14_years_female_percent,"Population aged 10-14, female (%)",Population aged 10-14,"Population aged 10-14, F (%)",measure,female_by_age,,,,,,
+population_aged_10_14_years_male_percent,"Population aged 10-14, male (%)",Population aged 10-14,"Population aged 10-14, M (%)",measure,male_by_age,,,,,,
+population_aged_10_14_years_total_number,"Population aged 10-14, total number",Population aged 10-14,"Population aged 10-14, total",measure,both_sexes_by_age_total,,,,,,
+population_aged_15_19_years_both_sexes_percent,"Population aged 15-19, both sexes (%)",Population aged 15-19,"Population aged 15-19, (%)",measure,both_sexes_by_age,,,,,,
+population_aged_15_19_years_female_percent,"Population aged 15-19, female (%)",Population aged 15-19,"Population aged 15-19, F (%)",measure,female_by_age,,,,,,
+population_aged_15_19_years_male_percent,"Population aged 15-19, male (%)",Population aged 15-19,"Population aged 15-19, M (%)",measure,male_by_age,,,,,,
+population_aged_15_19_years_total_number,"Population aged 15-19, total number",Population aged 15-19,"Population aged 15-19, total",measure,both_sexes_by_age_total,,,,,,
+population_aged_20_39_years_both_sexes_percent,"Population aged 20-39, both sexes (%)",Population aged 20-39,"Population aged 20-39, (%)",measure,both_sexes_by_age,,,,,,
+population_aged_20_39_years_female_percent,"Population aged 20-39, female (%)",Population aged 20-39,"Population aged 20-39, F (%)",measure,female_by_age,,,,,,
+population_aged_20_39_years_male_percent,"Population aged 20-39, male (%)",Population aged 20-39,"Population aged 20-39, M (%)",measure,male_by_age,,,,,,
+population_aged_20_39_years_total_number,"Population aged 20-39, total number",Population aged 20-39,"Population aged 20-39, total",measure,both_sexes_by_age_total,,,,,,
+population_aged_40_59_years_both_sexes_percent,"Population aged 40-59, both sexes (%)",Population aged 40-59,"Population aged 40-59, (%)",measure,both_sexes_by_age,,,,,,
+population_aged_40_59_years_female_percent,"Population aged 40-59, female (%)",Population aged 40-59,"Population aged 40-59, F (%)",measure,female_by_age,,,,,,
+population_aged_40_59_years_male_percent,"Population aged 40-59, male (%)",Population aged 40-59,"Population aged 40-59, M (%)",measure,male_by_age,,,,,,
+population_aged_40_59_years_total_number,"Population aged 40-59, total number",Population aged 40-59,"Population aged 40-59, total",measure,both_sexes_by_age_total,,,,,,
+population_aged_5_9_years_both_sexes_percent,"Population aged 5-9, both sexes (%)",Population aged 5-9,"Population aged 5-9, (%)",measure,both_sexes_by_age,,,,,,
+population_aged_5_9_years_female_percent,"Population aged 5-9, female (%)",Population aged 5-9,"Population aged 5-9, F (%)",measure,female_by_age,,,,,,
+population_aged_5_9_years_male_percent,"Population aged 5-9, male (%)",Population aged 5-9,"Population aged 5-9, M (%)",measure,male_by_age,,,,,,
+population_aged_5_9_years_total_number,"Population aged 5-9, total number",Population aged 5-9,"Population aged 5-9, total",measure,both_sexes_by_age_total,,,,,,
+population_aged_60plus_years_both_sexes_percent,"Population aged 60+, both sexes (%)",Population aged 60+,"Population aged 60+, (%)",measure,both_sexes_by_age,,,,,,
+population_aged_60plus_years_female_percent,"Population aged 60+, female (%)",Population aged 60+,"Population aged 60+, F (%)",measure,female_by_age,,,,,,
+population_aged_60plus_years_male_percent,"Population aged 60+, male (%)",Population aged 60+,"Population aged 60+, M (%)",measure,male_by_age,,,,,,
+population_aged_60plus_years_total_number,"Population aged 60+, total number",Population aged 60+,"Population aged 60+, total",measure,both_sexes_by_age_total,,,,,,
+population_density_per_square_km,Population density (per square km),Population density,Population density,measure,population,,,,,,
+population_growth_annual_percent,Population growth (annual %),Population growth,Population growth,measure,population_growth,,,,,,
+population_growth_annual_percent_with_projections,"Population growth (annual %), with projections",Population growth,"Population growth, w projections",measure,projections,,,,,,
+population_in_urban_agglomerations_m_1_million_percent_of_total,Population in urban agglomerations > 1 million (% of total population),Population in urban agglomerations,Population in urban agglomerations,measure,urbanization,,,,,,
+population_policies_aid_given_percent_of_aid,Population policies aid given (% of aid),Population policies aid given,Population policies aid given,measure,aid_given,,,,,,
+population_total,"Population, total",Population,Population,measure,population,https://github.com/open-numbers/ddf--gapminder--population_historic,Total population,,Gapminder based on Maddison & UN,,gapm.io/dpop
+poverty_percent_people_below_310_a_day,Extreme poverty (% people below $3.10 a day),Extreme poverty,Extreme poverty,measure,poverty_inequality,,,,,,
+prematurity_deaths_in_newborn_per_1000_births,Prematurity deaths in newborn (per 1000 births),Prematurity deaths in newborn,Prematurity deaths ‰,measure,causes_of_newborn_deaths,,,,,,
+prematurity_deaths_in_newborn_total_deaths,Prematurity deaths in newborn (total deaths),Prematurity deaths in newborn,Prematurity deaths,measure,causes_of_newborn_deaths,,,,,,
+present_value_of_debt_percent_of_gni,Present value of debt (% of GNI),Present value of debt,Present value of debt,measure,advanced_debt_trade,,,,,,
+primary_completion_rate_total_percent_of_relevant_age_group,Primary school completion (% of relevant age group),Primary school completion,Primary school completion,measure,school_enrolment,,,,,,
+primary_forest_area_ha,Primary forest area (ha),Primary forest area,Primary forest area,measure,forestry,,,,,,
+primary_school_completion_percent_of_boys,Primary school completion (% of boys),Primary school completion,Boys primary school completion,measure,school_enrolment,,,,,,
+primary_school_completion_percent_of_girls,Primary school completion (% of girls),Primary school completion,Girls primary school completion,measure,school_enrolment,,,,,,
+private_share_of_total_health_spending_percent,Private share of health spending (%),Private share of health spending,Private share of health spending,measure,health_economics,,,,,,
+privately_owned_forest_land_percent,Privately owned forest land (%),Privately owned forest land,Privately owned forest land,measure,forestry,,,,,,
+privately_owned_other_wooded_land_percent,Privately owned other wooded land (%),Privately owned other wooded land,Privately owned other wooded land,measure,forestry,,,,,,
+production_sector_aid_given_percent_of_aid,Production sector aid given (% of aid),Production sector aid given,Production sector aid given,measure,aid_given,,,,,,
+prostate_cancer_deaths_per_100000_men,"Prostate cancer, deaths per 100 000 men","Prostate cancer, deaths",Prostate c. deaths /100k men,measure,cancer_male,,,,,,
+prostate_cancer_new_cases_per_100000_men,"Prostate cancer, new cases per 100 000 men","Prostate cancer, new cases",Prostate c. new cases /100k men,measure,cancer_male,,,,,,
+prostate_cancer_number_of_male_deaths,"Prostate cancer, deaths, men","Prostate cancer, deaths",Prostate c. deaths,measure,cancer_male,,,,,,
+prostate_cancer_number_of_new_male_cases,"Prostate cancer, new cases, men","Prostate cancer, new cases",Prostate c. new cases,measure,cancer_male,,,,,,
+pump_price_for_gasoline_us_per_liter,Pump price for gasoline (US$ per liter),Pump price for gasoline,Pump price for gasoline,measure,energy,,,,,,
+ratio_of_girls_to_boys_in_primary_and_secondary_education_perc,"Ratio girls/boys in school, primary and secondary education (%)",Ratio girls/boys in school,Ratio girls/boys in school,measure,gender_equality,,,,,,
+ratio_of_young_literate_females_to_males_percent_ages_15_24,Ratio of young literate females to males (% ages 15-24),Young literate females/males ratio,Young literate females/males ratio,measure,gender_equality,,,,,,
+renewable_water_cu_meters_per_person,Renewable water (cu meters per person),Renewable water,Renewable water,measure,environment_water,,,,,,
+residential_electricity_use_per_person,"Residential electricity use, per person",Residential electricity use,Residential electricity use /person,measure,electricity,,,,,,
+residential_electricity_use_total,"Residential electricity use, total",Residential electricity use,Residential electricity use,measure,electricity,,,,,,
+residential_energy_use_percent,Residential energy use (%),Residential energy use,Residential energy use,measure,alternative_energy,,,,,,
+roads_paved_percent_of_total_roads,Roads paved (% of total roads),Roads paved,Roads paved,measure,traffic,,,,,,
+rural_poverty_percent_rural_people_below_national_rural,Rural poverty (% rural people below national rural poverty line),Rural poverty,Rural poverty,measure,poverty_inequality,,,,,,
+salaried_workers_percent_of_labour_force,Salaried workers (% of labour force),Salaried workers,Salaried workers,measure,employment_by_status,,,,,,
+self_employed_percent_of_labour_force,Self-employed (% of labour force),Self-employed,Self-employed,measure,employment_by_status,,,,,,
+sepsis_deaths_in_newborn_per_1000_births,Sepsis deaths in newborn (per 1000 births),Sepsis deaths in newborn,Sepsis deaths ‰ births,measure,causes_of_newborn_deaths,,,,,,
+sepsis_deaths_in_newborn_total_deaths,Sepsis deaths in newborn (total deaths),Sepsis deaths in newborn,Sepsis deaths,measure,causes_of_newborn_deaths,,,,,,
+service_workers_percent_of_labour_force,Service workers (% of labour force),Service workers,Service workers,measure,employment_by_sector,,,,,,
+services_percent_of_gdp,Services (% of GDP),Services (% of GDP),Services (% of GDP),measure,sectors,,,,,,
+sex_ratio_0_14_years,Sex ratio (0-14 years),Sex ratio (0-14 years),Sex ratio (0-14 years),measure,sex_ratio,,,,,,
+sex_ratio_15_24_years,Sex ratio (15-24 years),Sex ratio (15-24 years),Sex ratio (15-24 years),measure,sex_ratio,,,,,,
+sex_ratio_15_49_years,Sex ratio (15-49 years),Sex ratio (15-49 years),Sex ratio (15-49 years),measure,sex_ratio,,,,,,
+sex_ratio_above_50_years,Sex ratio (above 50 years),Sex ratio (above 50 years),Sex ratio (above 50 years),measure,sex_ratio,,,,,,
+sex_ratio_all_age_groups,Sex ratio (all age groups),Sex ratio (all age groups),Sex ratio (all age groups),measure,sex_ratio,,,,,,
+smoking_adults_percent_of_population_over_age_15,Smoking adults (% of population over age 15),Smoking adults,Smoking adults,measure,risk_factors,,,,,,
+smoking_men_percent_of_men_over_age_15,Smoking men (% of men over age 15),Smoking men,Smoking men,measure,risk_factors,,,,,,
+smoking_women_percent_of_women_over_age_15,Smoking women (% of women over age 15),Smoking women,Smoking women,measure,risk_factors,,,,,,
+stillbirths_per_1000_births,Stillbirths (per 1000 births),Stillbirths,Stillbirths,measure,maternal_health,,,,,,
+stomach_cancer_deaths_per_100000_men,Stomach cancer deaths per 100 000 men,Stomach cancer deaths,Stomach c. deaths /100k men,measure,cancer_male,,,,,,
+stomach_cancer_deaths_per_100000_women,Stomach cancer deaths per 100 000 women,Stomach cancer deaths,Stomach c. deaths /100k women,measure,cancer_female,,,,,,
+stomach_cancer_new_cases_per_100000_men,Stomach cancer new cases per 100 000 men,Stomach cancer new cases,Stomach c. new cases /100k men,measure,cancer_male,,,,,,
+stomach_cancer_new_cases_per_100000_women,Stomach cancer new cases per 100 000 women,Stomach cancer new cases,Stomach c. new cases /100k women,measure,cancer_female,,,,,,
+stomach_cancer_number_of_female_deaths,"Stomach cancer deaths, women",Stomach cancer deaths,"Stomach c. deaths, women",measure,cancer_female,,,,,,
+stomach_cancer_number_of_male_deaths,"Stomach cancer deaths, men",Stomach cancer deaths,"Stomach c. deaths, men",measure,cancer_male,,,,,,
+stomach_cancer_number_of_new_female_cases,"Stomach cancer new cases, women",Stomach cancer new cases,"Stomach c. new cases, women",measure,cancer_female,,,,,,
+stomach_cancer_number_of_new_male_cases,"Stomach cancer new cases, men",Stomach cancer new cases,"Stomach c. new cases, men",measure,cancer_male,,,,,,
+storm_affected_annual_number,Storm affected annual number,Storm affected,Storm affected,measure,disasters,,,,,,
+storm_deaths_annual_number,Storm deaths annual number,Storm deaths,Storm deaths,measure,disasters,,,,,,
+subsistence_incomes_per_person,Subsistence incomes per person,Subsistence incomes per person,Subsistence incomes per person,measure,alternative_gdp_data,,,,,,
+sugar_per_person_g_per_day,Sugar per person (g per day),Sugar per person,Sugar per person,measure,nutrition,,,,,,
+suicide_age_0_14_per_100000_people,"Suicide, age 0-14 (per 100 000 people)","Suicide, age 0-14","Suicide, age 0-14 /100k people",measure,injury_deaths_by_gender_age_road_user,,,,,,
+suicide_age_15_29_per_100000_people,"Suicide, age 15-29 (per 100 000 people)","Suicide, age 15-29","Suicide, age 15-29 /100k people",measure,injury_deaths_by_gender_age_road_user,,,,,,
+suicide_age_30_44_per_100000_people,"Suicide, age 30-44 (per 100 000 people)","Suicide, age 30-44","Suicide, age 30-44 /100k people",measure,injury_deaths_by_gender_age_road_user,,,,,,
+suicide_age_45_59_per_100000_people,"Suicide, age 45-59 (per 100 000 people)","Suicide, age 45-59","Suicide, age 45-59 /100k people",measure,injury_deaths_by_gender_age_road_user,,,,,,
+suicide_age_60plus_per_100000_people,"Suicide, age 60+ (per 100 000 people)","Suicide, age 60+","Suicide, age 60+ /100k people",measure,injury_deaths_by_gender_age_road_user,,,,,,
+suicide_men_per_100000_people,"Suicide, men (per 100 000 people)","Suicide, men","Suicide, men /100k people",measure,injury_deaths_by_gender_age_road_user,,,,,,
+suicide_per_100000_people,Suicides (per 100 000 people),Suicides,Suicides /100k people,measure,mental_health,,,,,,
+suicide_total_deaths,"Suicide, total deaths","Suicide, total deaths","Suicide, total deaths",measure,mental_health,,,,,,
+suicide_women_per_100000_people,"Suicide women, (per 100 000 people)","Suicide, women","Suicide women, /100k people",measure,injury_deaths_by_gender_age_road_user,,,,,,
+sulfur_emissions_per_person_kg,Sulfur emissions per person (kg),Sulfur emissions per person,Sulfur emissions /person,measure,emissions,,,,,,
+surface_area_sq_km,Surface area (sq. km),Surface area,Surface area,measure,geography,,,,,,
+surviving_kids_per_woman,Surviving kids per woman,Surviving kids per woman,Surviving kids per woman,measure,families,,,,,,
+tax_revenue_percent_of_gdp,Tax revenue (% of GDP),Tax revenue,Tax revenue,measure,economic_situation,,,,,,
+tb_programme_dots_population_coverage_percent,TB programme (DOTS) coverage (%),TB programme (DOTS) coverage,TB programme (DOTS) coverage,measure,tb_tuberculosis,,,,,,
+tb_with_hivplus_deaths_per_100000_estimated,"TB deaths per 100 000, estimated, TB with HIV+",TB deaths per 100 000,"TB deaths /100k, est., TB with HIV+",measure,tb_tuberculosis,,,,,,
+tb_with_hivplus_existing_cases_per_100000_estimated,"TB existing cases per 100 000, estimated, TB with HIV+",TB existing cases per 100 000,"TB existing cases /100k, est., TB with HIV+",measure,tb_tuberculosis,,,,,,
+tb_with_hivplus_new_cases_per_100000_estimated,"TB new cases per 100 000, estimated, TB with HIV+",TB new cases per 100 000,"TB new cases /100k, est., TB with HIV+",measure,tb_tuberculosis,,,,,,
+tb_with_hivplus_number_of_deaths_estimated,"TB deaths, estimated, TB with HIV+",TB deaths,"TB deaths, estimated, TB with HIV+",measure,tb_tuberculosis,,,,,,
+tb_with_hivplus_number_of_existing_cases_estimated,"TB existing cases, estimated, TB with HIV+",TB existing cases,"TB existing cases, estimated, TB with HIV+",measure,tb_tuberculosis,,,,,,
+tb_with_hivplus_number_of_new_cases_estimated,"TB new cases, estimated, TB with HIV+",TB new cases,"TB new cases, estimated, TB with HIV+",measure,tb_tuberculosis,,,,,,
+teen_fertility_rate_births_per_1000_women_ages_15_19,Teen fertility rate (births per 1000 women ages 15-19),Teen fertility rate,Teen fertility rate,measure,population_growth,,,,,,
+tetanus_deaths_in_newborn_per_1000_births,Tetanus deaths in newborn (per 1000 births),Tetanus deaths in newborn,Tetanus deaths ‰ births,measure,causes_of_newborn_deaths,,,,,,
+tetanus_deaths_in_newborn_total_deaths,Tetanus deaths in newborn (total deaths),Tetanus deaths in newborn,Tetanus deaths,measure,causes_of_newborn_deaths,,,,,,
+total_gdp_ppp_inflation_adjusted,"Total GDP (PPP$, inflation-adjusted)",Total GDP,"Total GDP (PPP$, inflation-adjusted)",measure,incomes_growth,,,,,,
+total_gdp_us_inflation_adjusted,"Total GDP (US$, inflation-adjusted)",Total GDP,"Total GDP (US$, inflation-adjusted)",measure,incomes_growth,,,,,,
+total_gni_ppp_current_international,"Total GNI (PPP, current international $)",Total GNI,Total GNI,measure,incomes_growth,,,,,,
+total_health_spending_per_person_international_dollar,Total health spending per person (international $),Total health spending per person,"Total health spending /person, intl. $",measure,health_economics,,,,,,
+total_health_spending_per_person_us,Total health spending per person (US$),Total health spending per person,"Total health spending /person, US$",measure,health_economics,,,,,,
+total_health_spending_percent_of_gdp,Total health spending (% of GDP),Total health spending,Total health spending (% of GDP),measure,health_economics,,,,,,
+total_number_of_dollar_billionaires,Total number of dollar billionaires,Dollar billionaires,Dollar billionaires,measure,poverty_inequality,,,,,,
+total_population_with_projections,"Total population, with projections",Total population,"Total population, w projections",measure,projections,,,,,,
+total_reserves_percent_of_debt_to_foreigners,Total reserves (% of debt to foreigners),Total reserves,Total reserves,measure,debt_trade,,,,,,
+total_sulfur_emission_kilotonnes,Total sulfur emission (kilotonnes),Total sulfur emission,Total sulfur emission,measure,emissions,,,,,,
+total_water_withdrawal_billion_cu_meters,Total water withdrawal (billion cu meters),Total water withdrawal,Total water withdrawal,measure,environment_water,,,,,,
+trade_balance_percent_of_gdp,Trade balance (% of GDP),Trade balance,"Trade balance, % of GDP",measure,debt_trade,,,,,,
+trade_balance_us_not_inflation_adjusted,"Trade balance (US$, not inflation-adjusted)",Trade balance,"Trade balance, US $",measure,debt_trade,,,,,,
+traffic_deaths_men_per_100000_people,Traffic deaths men (per 100 000 people),Traffic deaths men,Traffic deaths men /100k,measure,injury_deaths_by_gender_age_road_user,,,,,,
+traffic_deaths_per_100000_people,Traffic deaths (per 100 000 people),Traffic deaths,Traffic deaths /100k people,measure,traffic,,,,,,
+traffic_deaths_women_per_100000_people,Traffic deaths women (per 100 000 people),Traffic deaths women,Traffic deaths women /100k,measure,injury_deaths_by_gender_age_road_user,,,,,,
+traffic_mortality_15_29_per_100000_people,Traffic mortality 15-29 (per 100 000 people),Traffic mortality 15-29,Traffic mortality 15-29 /100k,measure,injury_deaths_by_gender_age_road_user,,,,,,
+traffic_mortality_30_44_per_100000_people,Traffic mortality 30-44 (per 100 000 people),Traffic mortality 30-44,Traffic mortality 30-44 /100k,measure,injury_deaths_by_gender_age_road_user,,,,,,
+traffic_mortality_45_59_per_100000_people,Traffic mortality 45-59 (per 100 000 people),Traffic mortality 45-59,Traffic mortality 45-59 /100k,measure,injury_deaths_by_gender_age_road_user,,,,,,
+traffic_mortality_60plus_per_100000_people,Traffic mortality 60+ (per 100 000 people),Traffic mortality 60+,Traffic mortality 60+ /100k,measure,injury_deaths_by_gender_age_road_user,,,,,,
+traffic_mortality_children_0_14_per_100000_people,Traffic mortality 0-14 (per 100 000 people),Traffic mortality 0-14,Traffic mortality 0-14 /100k,measure,injury_deaths_by_gender_age_road_user,,,,,,
+traffic_total_deaths,Traffic deaths (total),Traffic deaths,Traffic deaths,measure,traffic,,,,,,
+tsunami_affected_annual_number,Tsunami affected annual number,Tsunami affected,Tsunami affected,measure,disasters,,,,,,
+tsunami_deaths_annual_number,Tsunami deaths annual number,Tsunami deaths,Tsunami deaths,measure,disasters,,,,,,
+under_five_mortality_from_cme_per_1000_born,Under-five mortality from CME (per 1000 born),Under-five mortality,u5mr from CME,measure,alternative_child_mortality_data,,,,,,
+under_five_mortality_from_ihme_per_1000_born,Under-five mortality from IHME (per 1000 born),Under-five mortality,u5mr from IHME,measure,alternative_child_mortality_data,,,,,,
+underweight_children,Underweight children,Underweight children,Underweight children,measure,health,,,,,,
+urban_population,Urban population,Urban population,Urban population,measure,urbanization,,,,,,
+urban_population_growth_annual_percent,Urban population growth (annual %),Urban population growth,Urban population growth,measure,urbanization,,,,,,
+urban_population_percent_of_total,Urban population (% of total),Urban population,Urban population,measure,urbanization,,,,,,
+urban_poverty_percent_urban_people_below_national_urban,Urban poverty (% urban people below national urban poverty line),Urban poverty,Urban poverty,measure,poverty_inequality,,,,,,
+water_and_sanitation_aid_given_percent_of_aid,Water and sanitation aid given (% of aid),Water and sanitation aid given,Water and sanitation aid given,measure,aid_given,,,,,,
+water_withdrawal_cu_meters_per_person,Water withdrawal (cu meters per person),Water withdrawal,Water withdrawal /person,measure,environment_water,,,,,,
+wood_removal_cubic_meters,Wood removal (cubic meters),Wood removal,Wood removal,measure,forestry,,,,,,
+working_hours_per_week,Working hours per week,Working hours per week,Working hours per week,measure,economic_situation,,,,,,
+year_categorization_1820_2010,Year categorization 1820-2010,Year categorization 1820-2010,Year categorization 1820-2010,measure,_none,,,,,,
+year_categorization_1950,Year categorization 1950-,Year categorization 1950-,Year categorization 1950-,measure,_none,,,,,,
+yearly_co2_emissions_1000_tonnes,Yearly CO2 emissions (1000 tonnes),CO2 emissions,CO2 emissions yearly,measure,emissions,,,,,,
+fixed_line_subscribers_per_100_people,Fixed line subscribers (per 100 people),Fixed line subscribers (per 100 people),Fixed line subscribers (per 100 people),measure,communication,,,,,,
+poverty_percent_people_below_550_a_day,Extreme poverty (% people below $5.50 a day),Extreme poverty,Extreme poverty,measure,poverty_inequality,,,,,,
+poverty_percent_people_below_320_a_day,Extreme poverty (% people below $3.20 a day),Extreme poverty,Extreme poverty,measure,poverty_inequality,,,,,,
+internet_users,Individuals using the Internet (% of population),Individuals using the Internet,Internet users,measure,communication,,,,,,
