@@ -246,7 +246,7 @@ injury_deaths_in_children_1_59_months_total_deaths,Injury deaths in children 1-5
 internal_renewable_water_cu_meters_per_person,Internal renewable water (cu meters per person),Internal renewable water,Internal renewable water,measure,environment_water,,,,,,
 investments_percent_of_gdp,Investments (% of GDP),Investments,Investments,measure,economic_situation,,,,,,
 life_expectancy_at_birth_data_from_ihme,"Life expectancy at birth, data from IHME",Life expectancy,Life expectancy IHME,measure,alternative_demography_indicators,,,,,,
-life_expectancy_at_birth_with_projections,"Life expectancy at birth, with projections",Life expectancy,Life expectancy w projections,measure,projections,,,,,,
+life_expectancy_at_birth_with_projections,"Life expectancy at birth, with projections",Life expectancy,Life expectancy w projections,measure,projections,https://github.com/open-numbers/ddf--gapminder--life_expectancy,,,,,
 life_expectancy_female,"Life expectancy, female","Life expectancy, female","Life expectancy, female",measure,health,,,,,,
 life_expectancy_male,"Life expectancy, male","Life expectancy, male","Life expectancy, male",measure,health,,,,,,
 life_expectancy_years,Life expectancy (years),Life expectancy,Life expectancy,measure,"_root, health",https://github.com/open-numbers/ddf--gapminder--life_expectancy_historic,The average number of years a newborn child would live if current mortality patterns were to stay the same.,,,,gapm.io/ilex
@@ -541,3 +541,4 @@ fixed_line_subscribers_per_100_people,Fixed line subscribers (per 100 people),Fi
 poverty_percent_people_below_550_a_day,Extreme poverty (% people below $5.50 a day),Extreme poverty,Extreme poverty,measure,poverty_inequality,,,,,,
 poverty_percent_people_below_320_a_day,Extreme poverty (% people below $3.20 a day),Extreme poverty,Extreme poverty,measure,poverty_inequality,,,,,,
 internet_users,Individuals using the Internet (% of population),Individuals using the Internet,Internet users,measure,communication,,,,,,
+extreme_poverty_percent_people_below_190_a_day,Extreme poverty (% people below $1.90 a day),Extreme poverty,Extreme poverty,measure,poverty_inequality,,,,,
