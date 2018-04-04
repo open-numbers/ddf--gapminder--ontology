@@ -11,3 +11,4 @@ description_long,Description Long Text,string,_none
 source,Source,string,_none
 source_long,Source Long Text,string,_none
 source_url,Source URL,string,_none
+time,Time,time,_none
