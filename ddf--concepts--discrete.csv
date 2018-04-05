@@ -12,3 +12,4 @@ source,Source,string,_none
 source_long,Source Long Text,string,_none
 source_url,Source URL,string,_none
 time,Time,time,_none
+scales,Scales,string,_none
