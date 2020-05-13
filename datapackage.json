@@ -49,6 +49,9 @@
                     },
                     {
                         "name": "scales"
+                    },
+                    {
+                        "name": "format"
                     }
                 ],
                 "primaryKey": "concept"
@@ -148,6 +151,15 @@
                     "concept"
                 ],
                 "value": "scales",
+                "resources": [
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
+                "value": "format",
                 "resources": [
                     "ddf--concepts--continuous"
                 ]
