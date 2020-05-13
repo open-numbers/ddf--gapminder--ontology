@@ -13,3 +13,4 @@ source_long,Source Long Text,string,_none
 source_url,Source URL,string,_none
 time,Time,time,_none
 scales,Scales,string,_none
+format,value formatter settings: add 'format' concept property to your measures then use 'percent' to add % sign or 'share' to multiply x100 and add a % sign,string,_none
