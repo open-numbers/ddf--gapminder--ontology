@@ -548,3 +548,5 @@ yearly_co2_emissions_1000_tonnes,CO2 emissions (1000 tonnes),CO2 emissions,Total
 population_total_percent,,,,measure,,,,,,,,,percent
 rural_population_percent,,,,measure,,,,,,,,,
 urban_population_percent,,,,measure,,,,,,,,,
+rural_population_total,,,,measure,,,,,,,,,
+urban_population_total,,,,measure,,,,,,,,,
