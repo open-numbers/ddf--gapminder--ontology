@@ -3,12 +3,16 @@
     "language": {
         "id": "en"
     },
-    "created": "2018-06-01T02:18:54.766329+00:00",
+    "title": "ddf--gapminder--ontology",
+    "description": "",
+    "author": "",
+    "license": "",
+    "created": "2021-03-03T04:53:36.884634+00:00",
     "last_updated": "2017-09-06 12:34:31",
     "resources": [
         {
-            "path": "ddf--concepts--continuous.csv",
             "name": "ddf--concepts--continuous",
+            "path": "ddf--concepts--continuous.csv",
             "schema": {
                 "fields": [
                     {
@@ -58,8 +62,8 @@
             }
         },
         {
-            "path": "ddf--concepts--discrete.csv",
             "name": "ddf--concepts--discrete",
+            "path": "ddf--concepts--discrete.csv",
             "schema": {
                 "fields": [
                     {
@@ -113,6 +117,15 @@
                 "primaryKey": [
                     "concept"
                 ],
+                "value": "format",
+                "resources": [
+                    "ddf--concepts--continuous"
+                ]
+            },
+            {
+                "primaryKey": [
+                    "concept"
+                ],
                 "value": "indicator_url",
                 "resources": [
                     "ddf--concepts--continuous"
@@ -151,15 +164,6 @@
                     "concept"
                 ],
                 "value": "scales",
-                "resources": [
-                    "ddf--concepts--continuous"
-                ]
-            },
-            {
-                "primaryKey": [
-                    "concept"
-                ],
-                "value": "format",
                 "resources": [
                     "ddf--concepts--continuous"
                 ]
