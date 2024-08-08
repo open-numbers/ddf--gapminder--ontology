@@ -7,7 +7,7 @@
     "description": "",
     "author": "",
     "license": "",
-    "created": "2021-11-19T11:08:46.066420+00:00",
+    "created": "2024-08-08T07:11:18.215947+00:00",
     "last_updated": "2017-09-06 12:34:31",
     "resources": [
         {
@@ -58,7 +58,9 @@
                         "name": "format"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         },
         {
@@ -79,7 +81,9 @@
                         "name": "tags"
                     }
                 ],
-                "primaryKey": "concept"
+                "primaryKey": [
+                    "concept"
+                ]
             }
         }
     ],
