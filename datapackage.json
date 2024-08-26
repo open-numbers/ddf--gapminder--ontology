@@ -1,14 +1,13 @@
 {
     "name": "ddf--gapminder--ontology",
-    "language": {
-        "id": "en"
-    },
     "title": "ddf--gapminder--ontology",
     "description": "",
     "author": "",
     "license": "",
-    "created": "2024-08-08T07:11:18.215947+00:00",
-    "last_updated": "2017-09-06 12:34:31",
+    "language": {
+        "id": "en"
+    },
+    "created": "2024-08-26T06:40:56.438Z",
     "resources": [
         {
             "name": "ddf--concepts--continuous",
@@ -95,8 +94,8 @@
                 ],
                 "value": "concept_type",
                 "resources": [
-                    "ddf--concepts--continuous",
-                    "ddf--concepts--discrete"
+                    "ddf--concepts--discrete",
+                    "ddf--concepts--continuous"
                 ]
             },
             {
@@ -141,8 +140,8 @@
                 ],
                 "value": "name",
                 "resources": [
-                    "ddf--concepts--continuous",
-                    "ddf--concepts--discrete"
+                    "ddf--concepts--discrete",
+                    "ddf--concepts--continuous"
                 ]
             },
             {
@@ -205,8 +204,8 @@
                 ],
                 "value": "tags",
                 "resources": [
-                    "ddf--concepts--continuous",
-                    "ddf--concepts--discrete"
+                    "ddf--concepts--discrete",
+                    "ddf--concepts--continuous"
                 ]
             }
         ],
