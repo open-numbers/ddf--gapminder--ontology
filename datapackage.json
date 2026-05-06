@@ -7,7 +7,7 @@
     "language": {
         "id": "en"
     },
-    "created": "2026-05-04T03:01:05.071Z",
+    "created": "2026-05-06T08:19:22.740Z",
     "resources": [
         {
             "name": "ddf--concepts--continuous",
@@ -82,6 +82,23 @@
                 ],
                 "primaryKey": [
                     "concept"
+                ]
+            }
+        },
+        {
+            "name": "ddf--entities--gender",
+            "path": "ddf--entities--gender.csv",
+            "schema": {
+                "fields": [
+                    {
+                        "name": "gender"
+                    },
+                    {
+                        "name": "name"
+                    }
+                ],
+                "primaryKey": [
+                    "gender"
                 ]
             }
         }
@@ -209,7 +226,17 @@
                 ]
             }
         ],
-        "entities": [],
+        "entities": [
+            {
+                "primaryKey": [
+                    "gender"
+                ],
+                "value": "name",
+                "resources": [
+                    "ddf--entities--gender"
+                ]
+            }
+        ],
         "datapoints": [],
         "synonyms": []
     }
